@@ -12,6 +12,12 @@
 - 目标:建立经济可持续、操作不复杂、能对抗苏军坦克步兵海、能防 Kirov、能破 Tesla 防线的美国后期体系。
 - 用户偏好低微操、重视成本效率;不要为附和而扩大推荐兵力规模。
 
+## 工作分支(用户要求)
+
+- **只在 `claude/rv-unit-db` 分支上工作**,所有提交都推送到这个分支。
+- 暂时不在 master 上工作,不向 master 提交,不开合并 PR,除非用户另行要求。
+- 如果会话启动时不在这个分支,先执行 `git fetch origin claude/rv-unit-db && git checkout claude/rv-unit-db`。
+
 ## 每次研究后必须做的事(用户要求,自动执行,无需再询问)
 
 只要本次会话产生了以下任何一项,就在**回复用户之前**更新文档并提交推送:新结论、对旧结论的更正、新的计算结果、
@@ -21,8 +27,11 @@
 2. 新结论或更正:更新本文件的"已确认的关键结论"和"尚未解决的问题";
    如果涉及基线研究的内容,同时更新 `research/notes/corrections-to-baseline.md`。
 3. 改了数据库或工具:运行 `research/rv-unit-db/build.sh`,确认 `validate.py` 为 0 failures,并同步 README。
-4. 提交并推送到当前工作分支,提交信息写明本次研究内容。
-5. **不要修改** `research/notes/original-research-baseline.md`,它是用户提供的原始基线。
+4. **攻略迭代**:只要新结论或实战反馈影响到美国打俄罗斯的打法,就更新 `research/guides/usa-vs-russia.md`:
+   改正文,把版本号加 1,在文末"迭代记录"写明改了什么、依据是什么(源码、计算或实战);
+   被验证或推翻的"待验证假设"要标注结果。
+5. 提交并推送到 `claude/rv-unit-db`,提交信息写明本次研究内容。
+6. **不要修改** `research/notes/original-research-baseline.md`,它是用户提供的原始基线。
 
 ## 研究守则
 
@@ -40,6 +49,7 @@
 | `research/rv-unit-db/docs/units.md` | 全单位总表(价格、HP、装甲、速度、可用国家、前置、新兵/精英/部署后武器) |
 | `research/rv-unit-db/docs/armor_table.md` | 每种武器对每种装甲的伤害倍率 |
 | `research/rv-unit-db/docs/vengeful_ai.md` | Vengeful AI 造兵权重、上限、防御、作弊收入 |
+| `research/guides/usa-vs-russia.md` | **《美国 vs 俄罗斯(Vengeful)完整攻略》,持续迭代的主文档** |
 | `research/notes/original-research-baseline.md` | **用户提供的原始研究成果(基线,原样保存,不修改)**。用户的后续实践和反馈都建立在它之上 |
 | `research/notes/corrections-to-baseline.md` | 基线逐节勘误表:哪些被源码证实、哪些需要更正、哪些待实战验证 |
 | `research/notes/practice-log.md` | 用户实战反馈日志 |
@@ -81,6 +91,12 @@ python3 validate.py                                          # 数值自检(应�
 - Air-to-Air Missiles 升级存在($1000,只影响 Harrier);Advanced Gun Systems 仅德国;Boost-Gliding 仅美国。
 - Chrono Legionnaire:时间伤害累积到目标 5 倍 HP 才抹除(Rhino 约 10 秒),照射期间目标无法行动。
 - Mobile Expansion Vehicle 不可生产;外扩只能用 MCV($4000)。
+- **俄罗斯专属**:Tesla Tank,以及 Overcharge 升级。有 Overcharge 时,Tesla Coil 每次命中让车辆瘫痪 3 秒,
+  它的攻击循环约 3.4 秒,所以车辆几乎被一直定住;Tesla Tank 命中瘫痪 1.2 秒。
+- **防御塔打 Rhino 很划算**(同价兵力比,双方全升级):Gun Turret 4.0(要花指挥官点数)、Prism Tower 2.25、Pill Box 1.34;
+  机动单位里 Composite Armor Grizzly 1.03,没有 Composite Armor 时只有 0.78。
+- **老兵价值极高**:13 辆新兵 Grizzly 打 10 辆 Rhino 只剩 1 辆,换成 2 级老兵剩 9 辆。
+- 计算器没有模拟坦克碾压步兵,步兵打坦克的计算结果会明显偏乐观。
 
 ## 尚未解决、可继续研究的问题
 
