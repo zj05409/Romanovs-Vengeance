@@ -23,6 +23,7 @@
 | `docs/units.md` | 人读版单位总表(含新兵/精英/部署后武器) |
 | `docs/armor_table.md` | 每种武器对每种装甲的伤害倍率表 |
 | `docs/vengeful_ai.md` | Vengeful AI 造兵配置 |
+| `buildorder.py` | 开局时间线估算(建造队列并行、电力、现金、矿车收入);`python3 buildorder.py [eco\|mid]` |
 
 ## 用法
 

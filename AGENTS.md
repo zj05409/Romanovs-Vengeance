@@ -97,6 +97,11 @@ python3 validate.py                                          # 数值自检(应�
   机动单位里 Composite Armor Grizzly 1.03,没有 Composite Armor 时只有 0.78。
 - **老兵价值极高**:13 辆新兵 Grizzly 打 10 辆 Rhino 只剩 1 辆,换成 2 级老兵剩 9 辆。
 - 计算器没有模拟坦克碾压步兵,步兵打坦克的计算结果会明显偏乐观。
+- **经济与生产**:开局 $10,000;默认 MultiQueue,每座生产建筑各自独立并行生产;低电时所有生产时间翻倍。
+  Refinery 附送 1 辆 Chrono Miner;油井每分钟 $500;Ore Purifier 采矿收入 +25%。
+  一辆 Chrono Miner 每分钟约 $1,700 到 $2,000(估算,矿车容量用的是引擎默认值)。
+- **Vengeful 的运营规则**:Construction Yard 至少 4 座,Refinery 最多 2 座,War Factory 最多 3 座(满产约每分钟 12 辆 Rhino);
+  每队约 10 个单位才出击,两队间隔至少 40 秒;工程师优先抢油井。
 
 ## 尚未解决、可继续研究的问题
 

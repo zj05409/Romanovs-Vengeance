@@ -78,6 +78,8 @@
 | 原文 | 状态 | 源码 / 结论 |
 |---|---|---|
 | Refinery $2,000,Chrono Miner $1,400 | ✅ | |
+| 多个 War Factory 可以并行生产 | ✅ | 默认开着 MultiQueue,每座生产建筑各自独立生产;低电时所有生产时间翻倍 |
+| 开局资金 | ⚠️ 补充 | $10,000(大厅锁定);油井每分钟 $500;Ore Purifier 采矿收入 +25% |
 | 未提 AI 作弊 | ⚠️ 补充 | **Vengeful 每座 Construction Yard / Refinery 每分钟白拿 $1,680**,并维持至少 4 座 Construction Yard |
 
 ## 十二、地图
