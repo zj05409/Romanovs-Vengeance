@@ -1,0 +1,330 @@
+{
+ "upgrade.gi_fortifications": {
+  "id": "upgrade.gi_fortifications",
+  "name": "Fiber-Reinforced Fortifications",
+  "description": "Increases movement speed of G.I.s and Guardian G.I.s by 25%.\nDeployed G.I.s become uncrushable.",
+  "cost": 1500,
+  "factions": [
+   "america",
+   "england",
+   "france",
+   "germany",
+   "korea"
+  ],
+  "tech": [
+   "gaairc"
+  ]
+ },
+ "upgrade.a2a_missiles": {
+  "id": "upgrade.a2a_missiles",
+  "name": "Air-to-Air Missile Systems",
+  "description": "Enables Harriers to target enemy aircraft.",
+  "cost": 1000,
+  "factions": [
+   "america",
+   "england",
+   "france",
+   "germany",
+   "korea"
+  ],
+  "tech": [
+   "gaairc"
+  ]
+ },
+ "upgrade.advanced_coolants": {
+  "id": "upgrade.advanced_coolants",
+  "name": "Advanced Coolants",
+  "description": "Doubles the power output of Power Plants.",
+  "cost": 1500,
+  "factions": [
+   "america",
+   "england",
+   "france",
+   "germany",
+   "korea"
+  ],
+  "tech": [
+   "gaairc"
+  ]
+ },
+ "upgrade.advanced_training": {
+  "id": "upgrade.advanced_training",
+  "name": "Advanced Training",
+  "description": "The following units gain experience 50% faster:\n- G.I.\n- Guardian G.I.\n- Grenadier\n- Rocketeer\n- Navy SEAL\n- Tanya Adams\n- Chrono Commando",
+  "cost": 1500,
+  "factions": [
+   "america",
+   "england",
+   "france",
+   "germany",
+   "korea"
+  ],
+  "tech": [
+   "gatech"
+  ]
+ },
+ "upgrade.predator_missiles": {
+  "id": "upgrade.predator_missiles",
+  "name": "Predator Missiles",
+  "description": "Increases the damage of Harriers by 25%.",
+  "cost": 1500,
+  "factions": [
+   "america",
+   "england",
+   "france",
+   "germany",
+   "korea"
+  ],
+  "tech": [
+   "gatech"
+  ]
+ },
+ "upgrade.composite_armor": {
+  "id": "upgrade.composite_armor",
+  "name": "Composite Armor",
+  "description": "Increases the durability of the following units by 33%:\n- Grizzly Tank\n- Ambulance\n- Tank Destroyer\n- Mirage Tank\n- Battle Fortress",
+  "cost": 2000,
+  "factions": [
+   "america",
+   "england",
+   "france",
+   "germany",
+   "korea"
+  ],
+  "tech": [
+   "gatech"
+  ]
+ },
+ "upgrade.boost_gliding_systems": {
+  "id": "upgrade.boost_gliding_systems",
+  "name": "Boost-Gliding Systems",
+  "description": "America's finest technology that increases the projectile speed and damage of the following units by 50%:\n- Patriot Missile System\n- Guardian G.I.\n- Infantry Fighting Vehicle\n- Aegis Cruiser\n- Chrono Dragon",
+  "cost": 2000,
+  "factions": [
+   "america"
+  ],
+  "tech": [
+   "gatech"
+  ]
+ },
+ "upgrade.portable_weaponry": {
+  "id": "upgrade.portable_weaponry",
+  "name": "Portable Weaponry",
+  "description": "Through tough British drilling G.I.s and Guardian G.I.s are now capable of\nusing their deployed weapon while mobile.\nWhile deployed they fire 25% faster.",
+  "cost": 2500,
+  "factions": [
+   "england"
+  ],
+  "tech": [
+   "gatech"
+  ]
+ },
+ "upgrade.grand_cannon_protocols": {
+  "id": "upgrade.grand_cannon_protocols",
+  "name": "Grand Cannon Protocols",
+  "description": "French defense protocol that allows the construction of the Grand Cannon.\nIncreases durability of Walls, Gates and Defences by 15%.",
+  "cost": 1500,
+  "factions": [
+   "france"
+  ],
+  "tech": [
+   "gatech"
+  ]
+ },
+ "upgrade.advanced_gun_systems": {
+  "id": "upgrade.advanced_gun_systems",
+  "name": "Advanced Gun Systems",
+  "description": "Superior German weapon design increases the attack range of Grizzly Tanks and Tank Destroyers by 25%.",
+  "cost": 1500,
+  "factions": [
+   "germany"
+  ],
+  "tech": [
+   "gatech"
+  ]
+ },
+ "upgrade.emp_munitions": {
+  "id": "upgrade.emp_munitions",
+  "name": "EMP Munitions",
+  "description": "Korean invention that arms Grenadiers and Howitzers with EMP munitions which disable vehicles and buildings.",
+  "cost": 2000,
+  "factions": [
+   "korea"
+  ],
+  "tech": [
+   "gatech"
+  ]
+ },
+ "upgrade.increased_payload": {
+  "id": "upgrade.increased_payload",
+  "name": "Increased Payload",
+  "description": "Doubles the payload of B2 Spirits from 5 to 10.",
+  "cost": 2500,
+  "factions": [
+   "america",
+   "england",
+   "france",
+   "germany",
+   "korea"
+  ],
+  "tech": [
+   "gaweat"
+  ]
+ },
+ "upgrade.ap_bullets": {
+  "id": "upgrade.ap_bullets",
+  "name": "Armor-Piercing Bullets",
+  "description": "Improves the damage of the following units by 25%:\n- Sentry Gun\n- Conscript\n- Boris Bukov\n- War Miner\n- Siege Chopper",
+  "cost": 2000,
+  "factions": [
+   "cuba",
+   "iraq",
+   "libya",
+   "russia",
+   "vietnam"
+  ],
+  "tech": [
+   "naradr"
+  ]
+ },
+ "upgrade.bullet_proof_coats": {
+  "id": "upgrade.bullet_proof_coats",
+  "name": "Bullet-Proof Coats",
+  "description": "Increases durability of Conscripts and Flak Troopers by 33%.",
+  "cost": 2000,
+  "factions": [
+   "cuba",
+   "iraq",
+   "libya",
+   "russia",
+   "vietnam"
+  ],
+  "tech": [
+   "naradr"
+  ]
+ },
+ "upgrade.molotov_cocktails": {
+  "id": "upgrade.molotov_cocktails",
+  "name": "Molotov Cocktails",
+  "description": "Provides Conscripts with Molotov Coctails which increase their damage against structures.",
+  "cost": 1000,
+  "factions": [
+   "cuba",
+   "iraq",
+   "libya",
+   "russia",
+   "vietnam"
+  ],
+  "tech": [
+   "naradr"
+  ]
+ },
+ "upgrade.nuclear_engines": {
+  "id": "upgrade.nuclear_engines",
+  "name": "Nuclear Engines",
+  "description": "Increases the movement speed of the following units:\n- Rhino Tanks by 14%\n- Apocalypse Tanks by 20%\nBoth units will explode violently and leave radiation when destroyed.",
+  "cost": 2000,
+  "factions": [
+   "cuba",
+   "iraq",
+   "libya",
+   "russia",
+   "vietnam"
+  ],
+  "tech": [
+   "natech"
+  ]
+ },
+ "upgrade.uranium_shells": {
+  "id": "upgrade.uranium_shells",
+  "name": "Depleted Uranium Shells",
+  "description": "Increases the damage of Rhino and Apocalypse Tanks by 25%.",
+  "cost": 2500,
+  "factions": [
+   "cuba",
+   "iraq",
+   "libya",
+   "russia",
+   "vietnam"
+  ],
+  "tech": [
+   "natech"
+  ]
+ },
+ "upgrade.overcharge": {
+  "id": "upgrade.overcharge",
+  "name": "Overcharge",
+  "description": "Formidable Russian technology that enables Tesla weapons to disable enemy vehicles for a short time.",
+  "cost": 2000,
+  "factions": [
+   "russia"
+  ],
+  "tech": [
+   "natech"
+  ]
+ },
+ "upgrade.advanced_irradiators": {
+  "id": "upgrade.advanced_irradiators",
+  "name": "Advanced Irradiators",
+  "description": "Devastating Iraqi fallout program that increases the damage of radiation by 50%.",
+  "cost": 1000,
+  "factions": [
+   "iraq"
+  ],
+  "tech": [
+   "natech"
+  ]
+ },
+ "upgrade.black_napalm": {
+  "id": "upgrade.black_napalm",
+  "name": "Black Napalm",
+  "description": "Vietnamese technology leaves nothing but scorched earth.\nDoubles the damage of the following units:\n- Flame Tank\n- Black Kite",
+  "cost": 2000,
+  "factions": [
+   "vietnam"
+  ],
+  "tech": [
+   "naradr"
+  ]
+ },
+ "upgrade.targeted_explosives": {
+  "id": "upgrade.targeted_explosives",
+  "name": "Targeted Explosives",
+  "description": "Cuban safety protocols minimize any damage caused by explosions to your own army.\nExplosions caused by Terrorists, Death Bombs and Crazy Ivans no longer damage friendly units.\nIncreases Terrorist and Death Bombs area of effect by 50%.",
+  "cost": 1500,
+  "factions": [
+   "cuba"
+  ],
+  "tech": [
+   "natech"
+  ]
+ },
+ "upgrade.high_explosive_bombs": {
+  "id": "upgrade.high_explosive_bombs",
+  "name": "High Explosive Bombs",
+  "description": "Libyan chemical mixture that increases the damage of the following units by 25%:\n- Crazy Ivan\n- Chrono Ivan\n- Mortar Cycle\n- Demolition Truck\n- V3 Launcher\n- Dreadnought",
+  "cost": 2000,
+  "factions": [
+   "libya"
+  ],
+  "tech": [
+   "natech"
+  ]
+ },
+ "upgrade.radioactive_bombs": {
+  "id": "upgrade.radioactive_bombs",
+  "name": "Fallout Warheads",
+  "description": "Makes Kirov, V3 Launcher and Dreadnought projectiles leave radiation.",
+  "cost": 2500,
+  "factions": [
+   "cuba",
+   "iraq",
+   "libya",
+   "russia",
+   "vietnam"
+  ],
+  "tech": [
+   "namisl"
+  ]
+ }
+}

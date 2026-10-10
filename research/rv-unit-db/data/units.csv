@@ -1,0 +1,87 @@
+﻿id,name,category,cost,hp,armor,speed,aircraft,factions,via_spy,via_capture,tech,weapons
+beag,Black Eagle,Aircraft,1500,20000,Light,225,1,korea,,,,EMPulseBEagle EMPulseBEagleE
+fortress,B2 Spirit,Aircraft,2500,35000,Light,180,1,america england france germany korea,,,gatech,SpiritBomb SpiritBomb10 SpiritBomb10E SpiritBombE
+havoc,Havoc Attack Helicopter,Aircraft,1500,30000,Light,180,1,cuba iraq libya russia vietnam,,,naradr,HeliRocket HeliRocketE
+hind,Hind Carryall,Aircraft,800,30000,Light,195,1,cuba iraq libya russia vietnam,,,naweap,
+kite,Black Kite,Aircraft,1500,50000,Light,165,1,vietnam,,,naradr,NapalmBomb NapalmBombBlack NapalmBombBlackE NapalmBombE
+orca,Harrier,Aircraft,1200,15000,Light,225,1,america england france germany korea,,,,Maverick MaverickAA MaverickAAE MaverickE
+schp,Siege Chopper,Aircraft,1400,30000,Light,180,1,cuba iraq libya russia vietnam,,,,160mm 160mmE SiegeChopperCannon SiegeChopperCannonAA SiegeChopperCannonAAAP SiegeChopperCannonAAAPE SiegeChopperCannonAAE SiegeChopperCannonAALine SiegeChopperCannonAALineE SiegeChopperCannonAP SiegeChopperCannonAPE SiegeChopperCannonE SiegeChopperCannonLine SiegeChopperCannonLineE
+shad,Night Hawk,Aircraft,500,22500,Light,195,1,america england france germany korea,,,gapile,BlackHawkCannon BlackHawkCannonAA BlackHawkCannonAAE BlackHawkCannonE
+zep,Kirov Airship,Aircraft,2000,400000,Light,45,1,cuba iraq libya russia vietnam,,,natech,BlimpBomb BlimpBombE BlimpBombRad BlimpBombRadE BlimpBombRadOrange BlimpBombRadOrangeE
+boris,Boris Bukov,Infantry,2000,15000,Flak,75,0,cuba iraq libya russia vietnam,,,natech,AKM AKME AKMLine AKMLineE Flare FlareSAW UCAKME UCAKMLineE UCFlare UCFlareSAW
+civan,Chrono Ivan,Infantry,1000,12500,None,75,0,,america cuba england france germany iraq korea libya russia vietnam,,,IvanBombAttacher IvanBombAttacherE
+cleg,Chrono Legionnaire,Infantry,1000,12500,None,60,0,america england france germany korea,,,gatech,NeutronRifle NeutronRifleE NeutronRifleSound UCNeutronRifleE UCNeutronRifleSound
+deso,Desolator,Infantry,600,15000,Plate,60,0,iraq,,,naradr,RadBeamWeapon RadBeamWeaponE RadBeamWeaponOrange RadBeamWeaponOrangeE UCRadBeamWeaponE UCRadBeamWeaponOrangeE
+dog,Attack Dog,Infantry,200,10500,None,120,0,america cuba england france germany iraq korea libya russia vietnam,,,,DogJaw
+e1,G.I.,Infantry,150,12500,None,60,0,america england france germany korea,,,,M60 M60E UCparaE para paraE
+e2,Conscript,Infantry,100,12500,None,60,0,cuba iraq libya russia vietnam,,,,M1Carbine M1CarbineE M1CarbineLine M1CarbineLineE MolotovCocktail MolotovCocktailE SmokeGrenade SmokeGrenadeE UCM1CarbineE UCM1CarbineLineE UCMolotovCocktail UCMolotovCocktailE UCSmokeGrenade UCSmokeGrenadeE
+engineer,Engineer,Infantry,500,10000,None,60,0,america cuba england france germany iraq korea libya russia vietnam,,,,DefuseKit
+flakt,Flak Trooper,Infantry,300,12500,None,60,0,cuba iraq libya russia vietnam,,,,FlakGuyAAGun FlakGuyAAGunE FlakGuyGun FlakGuyGunE FlakGuyGunInsta FlakGuyGunInstaE UCFlakGuyAAGun UCFlakGuyAAGunE UCFlakGuyGun UCFlakGuyGunE UCFlakGuyGunInsta UCFlakGuyGunInstaE
+ggi,Guardian G.I.,Infantry,300,12500,None,60,0,america england france germany korea,,,,AirDummyAim M60 M60E MissileLauncher MissileLauncherAA MissileLauncherAABoosted MissileLauncherAABoostedE MissileLauncherAAE MissileLauncherBoosted MissileLauncherBoostedE MissileLauncherE UCMissileLauncherAABoostedE UCMissileLauncherAAE UCMissileLauncherBoostedE UCMissileLauncherE
+ghost,Navy SEAL,Infantry,800,12500,Flak,75,0,america,,,gaairc,MP5 MP5E SealC4Attacher SealC4AttacherE UCMP5E
+gren,Grenadier,Infantry,250,12500,Flak,75,0,america england france germany korea,,,gaairc,Grenade GrenadeE GrenadeEMP GrenadeEMPE UCGrenadeE UCGrenadeEMPE
+hjck,Hijacker,Infantry,500,12500,None,90,0,cuba iraq libya russia vietnam,,,naradr,
+itrp,Iron Trooper,Infantry,1200,15000,Plate,60,0,cuba iraq libya russia vietnam,,,natech,CurtainRifle CurtainRifleAP CurtainRifleAPE CurtainRifleE UCCurtainRifle UCCurtainRifleAPE
+ivan,Crazy Ivan,Infantry,600,12500,None,75,0,cuba iraq libya russia vietnam,,,naradr,IvanBombAttacher IvanBombAttacherE
+jumpjet,Rocketeer,Infantry,450,12500,Light,165,1,america england france germany korea,,,gaairc,20mm 20mmAA 20mmAAE 20mmE
+shk,Tesla Trooper,Infantry,300,13000,Plate,60,0,cuba iraq libya russia vietnam,,,,AssaultBolt ElectricBolt ElectricBoltCharged ElectricBoltChargedE ElectricBoltE UCElectricBoltChargedE UCElectricBoltE
+snipe,Sniper,Infantry,600,12500,None,60,0,england,,,gaairc,AWPE UCAWPE UCawpat UCawpatE awp awpat awpatE
+spy,spy,Infantry,500,10000,None,60,0,america england france germany korea,,,gaairc,
+tany,Tanya Adams,Infantry,2000,15000,Flak,75,0,america england france germany korea,,,gatech,DoublePistols DoublePistolsE TanyaC4Attacher UCDoublePistolsE
+terror,Terrorist,Infantry,200,7500,Flak,90,0,cuba,,,naradr,DemoTruckTargeting
+adest,Assault Destroyer,Ship,1400,60000,Heavy,105,0,america england france germany korea,,,gaairc,155mmAssault 155mmAssaultE
+aegis,Aegis Cruiser,Ship,900,40000,Heavy,105,0,america england france germany korea,,,gaairc,Medusa MedusaBoosted MedusaBoostedE MedusaE
+carrier,Aircraft Carrier,Ship,2500,80000,Heavy,75,0,america england france germany korea,,,gatech,HornetLauncher
+dlph,Dolphin,Ship,500,20000,Light,165,0,america england france germany korea,,,,SonicZap SonicZapE
+dred,Dreadnought,Ship,2500,80000,Heavy,90,0,cuba iraq libya russia vietnam,,,natech,DredLauncher
+hyd,Sea Scorpion,Ship,600,20000,Heavy,135,0,cuba iraq libya russia vietnam,,,naradr,FlakTrackGun FlakTrackGunE FlakTrackGunInsta FlakTrackGunInstaE FlakWeapon FlakWeaponE
+lcrf,Amphibious Transport,Ship,500,40000,Light,135,0,america england france germany korea,,,,
+sapc,Amphibious Transport,Ship,500,40000,Light,135,0,cuba iraq libya russia vietnam,,,,
+sqd,Giant Squid,Ship,1000,40000,Light,135,0,cuba iraq libya russia vietnam,,,naradr,SquidPunch
+sray,Stingray,Ship,900,30000,Light,105,0,cuba iraq libya russia vietnam,,,,BoatBolt BoatBoltCharged BoatBoltChargedE BoatBoltE
+sub,Typhoon Attack Submarine,Ship,1600,80000,Heavy,90,0,cuba iraq libya russia vietnam,,,naradr,SubTorpedo SubTorpedoE
+atesla,Prism Tower,Support,1200,60000,Steel,,0,america england france germany korea,,,gaairc,PrismShot PrismSupport
+gagun,Gun Turret,Support,650,50000,Steel,,0,america england france germany korea,,,gapile,sabotT
+gamgun,Mirage Turret,Support,800,50000,Steel,,0,france,,,gaairc,MirageTurretGun
+gapill,Pill Box,Support,500,40000,Steel,,0,america england france germany korea,,,gapile,vulcan2
+gtgcan,Grand Cannon,Support,1500,90000,Steel,,0,france,,,upgrade.grand_cannon_protocols,GrandCannonWeapon
+naflak,Flak Cannon,Support,700,60000,Steel,,0,cuba iraq libya russia vietnam,,,naradr,FlakWeaponCannon
+nalasr,Sentry Gun,Support,500,40000,Steel,,0,cuba iraq libya russia vietnam,,,nahand,vulcan vulcanLine
+napost,Tesla Fence Post,Support,200,50000,Concrete,,0,cuba iraq libya russia vietnam,,,power,OPPostBolt OPPostBoltCharged OPerPostBolt OPerPostBoltCharged OPestPostBolt OPestPostBoltCharged PostBolt PostBoltCharged
+nasam,Patriot Missile System,Support,500,60000,Steel,,0,america england france germany korea,,,gaairc,RedEye2 RedEye2Boosted
+tesla,Tesla Coil,Support,1500,60000,Steel,,0,cuba iraq libya russia vietnam,,,naradr,CoilBolt CoilBoltCharged OPCoilBolt OPCoilBoltCharged OPerCoilBolt OPerCoilBoltCharged OPestCoilBolt OPestCoilBoltCharged
+gacsph,Chronosphere,Support(unarmed),2500,100000,Concrete,,0,america england france germany korea,,,gatech,
+gagap,Gap Generator,Support(unarmed),500,60000,Steel,,0,america england france germany korea,,,gatech,
+gagatea,Allied Gate,Support(unarmed),75,35000,Concrete,,0,america england france germany korea,,,,
+gapowrup,Advanced Coolants,Support(unarmed),750,,,,0,america england france germany korea,,,gapowr gaairc,
+gasilo,Ore Silo,Support(unarmed),300,30000,Wood,,0,america england france germany korea,,,refinery,
+gawall,Allied Wall,Support(unarmed),100,30000,Concrete,,0,america england france germany korea,,,,
+gaweat,Weather Controller,Support(unarmed),5000,120000,Concrete,,0,america england france germany korea,,,gatech,
+nagatea,Soviet Gate,Support(unarmed),75,35000,Concrete,,0,cuba iraq libya russia vietnam,,,,
+nairon,Iron Curtain Device,Support(unarmed),2500,100000,Concrete,,0,cuba iraq libya russia vietnam,,,natech,
+namisl,Nuclear Missile Silo,Support(unarmed),5000,120000,Concrete,,0,cuba iraq libya russia vietnam,,,natech,
+naprop,Propaganda Tower,Support(unarmed),500,60000,Steel,,0,cuba iraq libya russia vietnam,,,natech,
+nasilo,Ore Silo,Support(unarmed),300,30000,Wood,,0,cuba iraq libya russia vietnam,,,refinery,
+nawall,Soviet Wall,Support(unarmed),100,30000,Concrete,,0,cuba iraq libya russia vietnam,,,,
+amcv,Mobile Construction Vehicle,Vehicle,4000,160000,Heavy,75,0,america england france germany korea,,,,
+apoc,Apocalypse Tank,Vehicle,1750,80000,Heavy,75,0,cuba iraq libya russia vietnam,,,natech,120mmx 120mmxCryo 120mmxCryoE 120mmxE MammothTusk MammothTuskE
+bfrt,Battle Fortress,Vehicle,1750,60000,Heavy,90,0,america england france germany korea,,,gatech,
+cmin,Chrono Miner,Vehicle,1400,100000,Medium,75,0,america england france germany korea,,,refinery,
+ctnk,Chrono Dragon,Vehicle,2200,20000,Light,105,0,,,america england france germany korea,gatech,APTusk APTuskBoosted APTuskBoostedE APTuskE
+deva,Devastator,Vehicle,2200,100000,Heavy,105,0,,,cuba iraq libya russia vietnam,natech,120mmxRad 120mmxRadE 120mmxRadOrange 120mmxRadOrangeE
+dron,Terror Drone,Vehicle,500,10000,Drone,165,0,cuba iraq libya russia vietnam,,,,DroneJump DroneJumpE
+dtruck,Demolition Truck,Vehicle,1500,15000,Light,90,0,libya,,,naradr,DemoTruckTargeting
+ftnk,Flame Tank,Vehicle,900,40000,Heavy,105,0,cuba iraq libya russia vietnam,,,naradr,TankFlamer TankFlamerBlack TankFlamerBlackE TankFlamerE
+fv,Infantry Fighting Vehicle,Vehicle,600,25000,Light,150,0,america england france germany korea,,,,AAGatling AAGatling2 AAGatling3 AGGatling AGGatling2 AGGatling3 CRAKM CRAKME CRAWP CRAWPAT CRAWPATE CRAWPE CRChaosRocket CRChaosRocketAA CRChaosRocketAAE CRChaosRocketE CRCurtainRifle CRCurtainRifleAP CRCurtainRifleAPE CRCurtainRifleE CRDoublePistols CRDoublePistolsE CRElectricBolt CRElectricBoltCharged CRElectricBoltChargedE CRElectricBoltE CRFlakGuyGun CRFlakGuyGunAA CRFlakGuyGunAAE CRFlakGuyGunE CRFlakGuyGunInsta CRFlakGuyGunInstaE CRFlamer CRFlamerBlack CRFlamerBlackE CRFlamerE CRGrenade CRGrenadeE CRGrenadeEMP CRGrenadeEMPE CRGrind CRGrindE CRM60 CRM60E CRMP5 CRMP5E CRMagneRifle CRMagneRifleE CRMissileLauncher CRMissileLauncherAA CRMissileLauncherAABoosted CRMissileLauncherAABoostedE CRMissileLauncherAAE CRMissileLauncherBoosted CRMissileLauncherBoostedE CRMissileLauncherE CRNeutronRifle CRNeutronRifleE CRNeutronRifleSound CRNeutronRifleSoundE CRPsiWave CRPsiWaveE CRPsiWaveMastery CRPsiWaveMasteryE CRPsychicJab CRPsychicJabE CRRadBeamWeapon CRRadBeamWeaponE CRRadBeamWeaponOrange CRRadBeamWeaponOrangeE CRToxinSprayer CRToxinSprayerE CRTrooperMortar CRTrooperMortarE CRTrooperMortarHeavy CRTrooperMortarHeavyE CRVirusgun CRVirusgunE DemoTruckTargeting HoverMissile HoverMissileAA HoverMissileAABoosted HoverMissileAABoostedE HoverMissileAAE HoverMissileBoosted HoverMissileBoostedE HoverMissileE RepairBullet RepairBulletE
+harv,War Miner,Vehicle,1400,100000,Medium,75,0,cuba iraq libya russia vietnam,,,refinery,20mmrapid 20mmrapidE 20mmrapidLine 20mmrapidLineE
+htk,Flak Track,Vehicle,500,30000,Light,135,0,cuba iraq libya russia vietnam,,,,FlakTrackAAGun FlakTrackAAGunE FlakTrackGun FlakTrackGunE FlakTrackGunInsta FlakTrackGunInstaE
+htnk,Rhino Heavy Tank,Vehicle,900,40000,Heavy,105,0,cuba iraq libya russia vietnam,,,,120mm 120mmCryo 120mmCryoE 120mmE
+hwtz,Howitzer,Vehicle,900,20000,Light,105,0,america england france germany korea,,,gaairc,HowiCannon HowiCannonE HowiCannonEMP HowiCannonEMPE
+mgtk,Mirage Tank,Vehicle,1000,20000,Heavy,120,0,america england france germany korea,,,gatech,MirageGun MirageGunE
+mtnk,Grizzly Battle Tank,Vehicle,700,30000,Heavy,120,0,america england france germany korea,,,,105mm 105mmE
+robo,Robot Tank,Vehicle,500,25000,Light,150,0,america england france germany korea,,,,robogun robogunE
+smcv,Mobile Construction Vehicle,Vehicle,4000,160000,Heavy,75,0,cuba iraq libya russia vietnam,,,,
+sref,Prism Tank,Vehicle,1200,25000,Light,90,0,america england france germany korea,,,gatech,Comet SuperComet
+tnkd,Tank Destroyer,Vehicle,900,40000,Heavy,90,0,germany,,,gaairc,sabot sabotE
+ttnk,Tesla Tank,Vehicle,1200,30000,Heavy,105,0,russia,,,naradr,TankBolt TankBoltCharged TankBoltChargedE TankBoltE
+v3,V3 Launcher,Vehicle,900,15000,Light,90,0,cuba iraq libya russia vietnam,,,natech,V3Launcher

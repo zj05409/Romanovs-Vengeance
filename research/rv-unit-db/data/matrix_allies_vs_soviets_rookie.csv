@@ -1,0 +1,1123 @@
+attacker,defender,att_name,def_name,att_cost,def_cost,att_dps,def_dps,att_ttk_inrange_s,def_ttk_inrange_s,att_ttk_s,def_ttk_s,att_range,def_range,kite,result,lanchester_ratio
+adest,apoc,Assault Destroyer,Apocalypse Tank,1400,1750,2411,5769,30.8,7.8,30.8,7.8,6.0,6.0,,Apocalypse Tank 胜 (7.8s 击杀;对方需要 30.8s),0.49
+adest,boris,Assault Destroyer,Boris Bukov,1400,2000,643,5417,22.4,10.8,23.0,10.8,6.0,7.0,Boris Bukov,Boris Bukov 胜 (10.8s 击杀;对方需要 23.0s),0.97
+adest,civan,Assault Destroyer,Chrono Ivan,1400,1000,643,11905,16.8,5.0,16.8,7.5,6.0,1.5,,Chrono Ivan 胜 (7.5s 击杀;对方需要 16.8s),0.13
+adest,deso,Assault Destroyer,Desolator,1400,600,482,469,30.8,124.0,30.8,124.0,6.0,6.0,,Assault Destroyer 胜 (30.8s 击杀;对方需要 124.0s),0.76
+adest,deva,Assault Destroyer,Devastator,1400,2200,2411,5357,39.2,8.6,39.2,8.6,6.0,6.0,,Devastator 胜 (8.6s 击杀;对方需要 39.2s),0.67
+adest,dog,Assault Destroyer,Attack Dog,1400,200,643,0,14.0,,14.0,,6.0,0,,Assault Destroyer 胜 (14.0s;对方打不动),inf
+adest,dred,Assault Destroyer,Dreadnought,1400,2500,2411,4375,30.8,12.8,41.9,12.8,6.0,25.0,Dreadnought,Dreadnought 胜 (12.8s 击杀;对方需要 41.9s),1.32
+adest,dron,Assault Destroyer,Terror Drone,1400,500,1929,0,2.8,,2.8,,6.0,0,,Assault Destroyer 胜 (2.8s;对方打不动),inf
+adest,dtruck,Assault Destroyer,Demolition Truck,1400,1500,3214,0,2.8,0.0,2.8,1.8,6.0,2.0,,Demolition Truck 胜 (1.8s 击杀;对方需要 2.8s),inf
+adest,e2,Assault Destroyer,Conscript,1400,100,643,375,16.8,159.0,16.8,160.4,6.0,4.0,Assault Destroyer,Assault Destroyer 胜 (16.8s 击杀;对方需要 160.4s),0.04
+adest,engineer,Assault Destroyer,Engineer,1400,500,643,0,14.0,,14.0,,6.0,0,,Assault Destroyer 胜 (14.0s;对方打不动),inf
+adest,flakt,Assault Destroyer,Flak Trooper,1400,300,643,200,16.8,299.0,16.8,300.4,6.0,4.0,Assault Destroyer,Assault Destroyer 胜 (16.8s 击杀;对方需要 300.4s),0.71
+adest,ftnk,Assault Destroyer,Flame Tank,1400,900,2411,938,14.0,62.4,14.0,62.8,6.0,5.0,,Assault Destroyer 胜 (14.0s 击杀;对方需要 62.8s),1.59
+adest,harv,Assault Destroyer,War Miner,1400,1400,3214,750,30.8,79.2,30.8,79.2,6.0,6.0,,Assault Destroyer 胜 (30.8s 击杀;对方需要 79.2s),2.57
+adest,havoc,Assault Destroyer,Havoc Attack Helicopter,1400,1500,0,5000,,9.6,,9.6,0,6.0,,Havoc Attack Helicopter 胜 (9.6s;对方打不动),0.0
+adest,htk,Assault Destroyer,Flak Track,1400,500,3214,250,8.4,239.0,8.4,239.3,6.0,5.0,,Assault Destroyer 胜 (8.4s 击杀;对方需要 239.3s),3.28
+adest,htnk,Assault Destroyer,Rhino Heavy Tank,1400,900,2411,2596,14.0,20.8,14.0,20.8,6.0,6.0,,Assault Destroyer 胜 (14.0s 击杀;对方需要 20.8s),0.58
+adest,hyd,Assault Destroyer,Sea Scorpion,1400,600,2411,250,5.6,239.0,5.6,239.3,6.0,5.0,,Assault Destroyer 胜 (5.6s 击杀;对方需要 239.3s),5.31
+adest,itrp,Assault Destroyer,Iron Trooper,1400,1200,482,0,30.8,,30.8,,6.0,0,,Assault Destroyer 胜 (30.8s;对方打不动),inf
+adest,ivan,Assault Destroyer,Crazy Ivan,1400,600,643,11905,16.8,5.0,16.8,7.5,6.0,1.5,,Crazy Ivan 胜 (7.5s 击杀;对方需要 16.8s),0.05
+adest,kite,Assault Destroyer,Black Kite,1400,1500,0,1125,,52.0,,52.0,0,0.5,,Black Kite 胜 (52.0s;对方打不动),0.0
+adest,naflak,Assault Destroyer,Flak Cannon,1400,700,2089,0,28.0,,28.0,,6.0,0,,Assault Destroyer 胜 (28.0s;对方打不动),inf
+adest,nalasr,Assault Destroyer,Sentry Gun,1400,500,2089,1161,16.8,50.4,16.8,50.4,6.0,6.0,,Assault Destroyer 胜 (16.8s 击杀;对方需要 50.4s),0.34
+adest,napost,Assault Destroyer,Tesla Fence Post,1400,200,1607,1562,30.8,35.2,30.8,,6.0,3.0,Assault Destroyer,Assault Destroyer 胜 (30.8s;对方打不动),0.03
+adest,schp,Assault Destroyer,Siege Chopper,1400,1400,0,500,,118.8,,118.8,0,6.0,,Siege Chopper 胜 (118.8s;对方打不动),0.0
+adest,shk,Assault Destroyer,Tesla Trooper,1400,300,482,1562,25.2,36.0,25.2,37.4,6.0,4.0,Assault Destroyer,Assault Destroyer 胜 (25.2s 击杀;对方需要 37.4s),0.07
+adest,sqd,Assault Destroyer,Giant Squid,1400,1000,3214,0,11.2,,11.2,,6.0,0,,Assault Destroyer 胜 (11.2s;对方打不动),inf
+adest,sray,Assault Destroyer,Stingray,1400,900,3214,3500,8.4,15.0,8.4,15.5,6.0,5.0,,Assault Destroyer 胜 (8.4s 击杀;对方需要 15.5s),0.76
+adest,sub,Assault Destroyer,Typhoon Attack Submarine,1400,1600,2411,0,30.8,,30.8,,6.0,0,,Assault Destroyer 胜 (30.8s;对方打不动),inf
+adest,terror,Assault Destroyer,Terrorist,1400,200,643,0,11.2,,11.2,,6.0,2.0,,Assault Destroyer 胜 (11.2s;对方打不动),inf
+adest,tesla,Assault Destroyer,Tesla Coil,1400,1500,2089,6541,28.0,7.0,29.2,7.0,6.0,8.0,,Tesla Coil 胜 (7.0s 击杀;对方需要 29.2s),0.37
+adest,ttnk,Assault Destroyer,Tesla Tank,1400,1200,2411,3088,11.2,17.4,11.2,17.8,6.0,5.0,,Assault Destroyer 胜 (11.2s 击杀;对方需要 17.8s),1.15
+adest,v3,Assault Destroyer,V3 Launcher,1400,900,3214,1750,2.8,32.0,9.8,32.0,6.0,18.0,V3 Launcher,Assault Destroyer 胜 (9.8s 击杀;对方需要 32.0s),3.04
+adest,zep,Assault Destroyer,Kirov Airship,1400,2000,0,13125,,4.0,,4.0,0,0.25,,Kirov Airship 胜 (4.0s;对方打不动),0.0
+aegis,apoc,Aegis Cruiser,Apocalypse Tank,900,1750,0,5769,,5.2,,5.2,0,6.0,,Apocalypse Tank 胜 (5.2s;对方打不动),0.0
+aegis,boris,Aegis Cruiser,Boris Bukov,900,2000,0,5417,,7.2,,7.2,0,7.0,,Boris Bukov 胜 (7.2s;对方打不动),0.0
+aegis,civan,Aegis Cruiser,Chrono Ivan,900,1000,0,11905,,5.0,,5.0,0,1.5,,Chrono Ivan 胜 (5.0s;对方打不动),0.0
+aegis,deso,Aegis Cruiser,Desolator,900,600,0,469,,84.0,,84.0,0,6.0,,Desolator 胜 (84.0s;对方打不动),0.0
+aegis,deva,Aegis Cruiser,Devastator,900,2200,0,5357,,5.8,,5.8,0,6.0,,Devastator 胜 (5.8s;对方打不动),0.0
+aegis,dog,Aegis Cruiser,Attack Dog,900,200,0,0,,,,,0,0,,双方都无法击杀对方,
+aegis,dred,Aegis Cruiser,Dreadnought,900,2500,0,4375,,6.4,,6.4,0,25.0,,Dreadnought 胜 (6.4s;对方打不动),0.0
+aegis,dron,Aegis Cruiser,Terror Drone,900,500,0,0,,,,,0,0,,双方都无法击杀对方,
+aegis,dtruck,Aegis Cruiser,Demolition Truck,900,1500,0,0,,,,,0,0,,双方都无法击杀对方,
+aegis,e2,Aegis Cruiser,Conscript,900,100,0,375,,106.0,,106.0,0,4.0,,Conscript 胜 (106.0s;对方打不动),0.0
+aegis,engineer,Aegis Cruiser,Engineer,900,500,0,0,,,,,0,0,,双方都无法击杀对方,
+aegis,flakt,Aegis Cruiser,Flak Trooper,900,300,0,200,,199.0,,199.0,0,4.0,,Flak Trooper 胜 (199.0s;对方打不动),0.0
+aegis,ftnk,Aegis Cruiser,Flame Tank,900,900,0,938,,41.6,,41.6,0,5.0,,Flame Tank 胜 (41.6s;对方打不动),0.0
+aegis,harv,Aegis Cruiser,War Miner,900,1400,0,750,,52.8,,52.8,0,6.0,,War Miner 胜 (52.8s;对方打不动),0.0
+aegis,havoc,Aegis Cruiser,Havoc Attack Helicopter,900,1500,5952,5000,1.0,6.4,1.0,7.8,12.0,6.0,,Aegis Cruiser 胜 (1.0s 击杀;对方需要 7.8s),4.41
+aegis,htk,Aegis Cruiser,Flak Track,900,500,0,250,,159.0,,159.0,0,5.0,,Flak Track 胜 (159.0s;对方打不动),0.0
+aegis,htnk,Aegis Cruiser,Rhino Heavy Tank,900,900,0,2596,,13.0,,13.0,0,6.0,,Rhino Heavy Tank 胜 (13.0s;对方打不动),0.0
+aegis,hyd,Aegis Cruiser,Sea Scorpion,900,600,0,250,,159.0,,159.0,0,5.0,,Sea Scorpion 胜 (159.0s;对方打不动),0.0
+aegis,itrp,Aegis Cruiser,Iron Trooper,900,1200,0,0,,,,,0,0,,双方都无法击杀对方,
+aegis,ivan,Aegis Cruiser,Crazy Ivan,900,600,0,11905,,5.0,,5.0,0,1.5,,Crazy Ivan 胜 (5.0s;对方打不动),0.0
+aegis,kite,Aegis Cruiser,Black Kite,900,1500,5952,1125,5.6,34.0,5.6,36.9,12.0,0.5,,Aegis Cruiser 胜 (5.6s 击杀;对方需要 36.9s),11.76
+aegis,naflak,Aegis Cruiser,Flak Cannon,900,700,0,0,,,,,0,0,,双方都无法击杀对方,
+aegis,nalasr,Aegis Cruiser,Sentry Gun,900,500,0,1161,,33.6,,33.6,0,6.0,,Sentry Gun 胜 (33.6s;对方打不动),0.0
+aegis,napost,Aegis Cruiser,Tesla Fence Post,900,200,0,1562,,22.4,,22.4,0,3.0,,Tesla Fence Post 胜 (22.4s;对方打不动),0.0
+aegis,schp,Aegis Cruiser,Siege Chopper,900,1400,5952,500,1.0,79.2,1.0,80.6,12.0,6.0,,Aegis Cruiser 胜 (1.0s 击杀;对方需要 80.6s),38.41
+aegis,shk,Aegis Cruiser,Tesla Trooper,900,300,0,1562,,24.0,,24.0,0,4.0,,Tesla Trooper 胜 (24.0s;对方打不动),0.0
+aegis,sqd,Aegis Cruiser,Giant Squid,900,1000,0,3906,,9.0,,9.0,0,1.84,,Giant Squid 胜 (9.0s;对方打不动),0.0
+aegis,sray,Aegis Cruiser,Stingray,900,900,0,3500,,9.0,,9.0,0,5.0,,Stingray 胜 (9.0s;对方打不动),0.0
+aegis,sub,Aegis Cruiser,Typhoon Attack Submarine,900,1600,0,2500,,15.0,,15.0,0,7.0,,Typhoon Attack Submarine 胜 (15.0s;对方打不动),0.0
+aegis,terror,Aegis Cruiser,Terrorist,900,200,0,0,,,,,0,0,,双方都无法击杀对方,
+aegis,tesla,Aegis Cruiser,Tesla Coil,900,1500,0,6541,,3.7,,3.7,0,8.0,,Tesla Coil 胜 (3.7s;对方打不动),0.0
+aegis,ttnk,Aegis Cruiser,Tesla Tank,900,1200,0,3088,,10.6,,10.6,0,5.0,,Tesla Tank 胜 (10.6s;对方打不动),0.0
+aegis,v3,Aegis Cruiser,V3 Launcher,900,900,0,1750,,16.0,,16.0,0,18.0,,V3 Launcher 胜 (16.0s;对方打不动),0.0
+aegis,zep,Aegis Cruiser,Kirov Airship,900,2000,5952,13125,65.5,2.0,65.5,12.7,12.0,0.25,Aegis Cruiser,Kirov Airship 胜 (12.7s 击杀;对方需要 65.5s),0.22
+atesla,apoc,Prism Tower,Apocalypse Tank,1200,1750,7500,5000,10.0,10.4,10.0,11.5,8.0,6.0,,Prism Tower 胜 (10.0s 击杀;对方需要 11.5s),2.39
+atesla,boris,Prism Tower,Boris Bukov,1200,2000,75000,0,0.0,,0.0,,8.0,0,,Prism Tower 胜 (0.0s;对方打不动),inf
+atesla,civan,Prism Tower,Chrono Ivan,1200,1000,75000,11905,0.0,5.0,0.0,8.5,8.0,1.5,,Prism Tower 胜 (0.0s 击杀;对方需要 8.5s),21.0
+atesla,deso,Prism Tower,Desolator,1200,600,75000,0,0.0,,0.0,,8.0,0,,Prism Tower 胜 (0.0s;对方打不动),inf
+atesla,deva,Prism Tower,Devastator,1200,2200,7500,4643,12.0,11.4,12.0,12.2,8.0,6.0,,Prism Tower 胜 (12.0s 击杀;对方需要 12.2s),3.26
+atesla,dog,Prism Tower,Attack Dog,1200,200,75000,0,0.0,,0.0,,8.0,0,,Prism Tower 胜 (0.0s;对方打不动),inf
+atesla,dred,Prism Tower,Dreadnought,1200,2500,7500,6250,10.0,6.4,,6.4,8.0,25.0,Dreadnought,Dreadnought 胜 (6.4s;对方打不动),3.91
+atesla,dron,Prism Tower,Terror Drone,1200,500,15000,0,0.0,,0.0,,8.0,0,,Prism Tower 胜 (0.0s;对方打不动),inf
+atesla,dtruck,Prism Tower,Demolition Truck,1200,1500,7500,0,0.0,0.0,0.0,2.7,8.0,2.0,,Prism Tower 胜 (0.0s 击杀;对方需要 2.7s),inf
+atesla,e2,Prism Tower,Conscript,1200,100,75000,375,0.0,159.0,0.0,161.7,8.0,4.0,,Prism Tower 胜 (0.0s 击杀;对方需要 161.7s),6.67
+atesla,engineer,Prism Tower,Engineer,1200,500,75000,0,0.0,,0.0,,8.0,0,,Prism Tower 胜 (0.0s;对方打不动),inf
+atesla,flakt,Prism Tower,Flak Trooper,1200,300,75000,200,0.0,299.0,0.0,301.7,8.0,4.0,,Prism Tower 胜 (0.0s 击杀;对方需要 301.7s),112.5
+atesla,ftnk,Prism Tower,Flame Tank,1200,900,7500,2188,4.0,27.2,4.0,28.4,8.0,5.0,,Prism Tower 胜 (4.0s 击杀;对方需要 28.4s),2.89
+atesla,harv,Prism Tower,War Miner,1200,1400,7500,750,12.0,79.2,12.0,80.3,8.0,6.0,,Prism Tower 胜 (12.0s 击杀;对方需要 80.3s),8.17
+atesla,havoc,Prism Tower,Havoc Attack Helicopter,1200,1500,0,4333,,12.4,,12.4,0,6.0,,Havoc Attack Helicopter 胜 (12.4s;对方打不动),0.0
+atesla,htk,Prism Tower,Flak Track,1200,500,7500,250,2.0,239.0,2.0,239.9,8.0,5.0,,Prism Tower 胜 (2.0s 击杀;对方需要 239.9s),10.42
+atesla,htnk,Prism Tower,Rhino Heavy Tank,1200,900,7500,2250,4.0,26.0,4.0,26.8,8.0,6.0,,Prism Tower 胜 (4.0s 击杀;对方需要 26.8s),2.81
+atesla,hyd,Prism Tower,Sea Scorpion,1200,600,7500,250,2.0,239.0,2.0,239.9,8.0,5.0,,Prism Tower 胜 (2.0s 击杀;对方需要 239.9s),22.5
+atesla,itrp,Prism Tower,Iron Trooper,1200,1200,75000,0,0.0,,0.0,,8.0,0,,Prism Tower 胜 (0.0s;对方打不动),inf
+atesla,ivan,Prism Tower,Crazy Ivan,1200,600,75000,11905,0.0,5.0,0.0,8.5,8.0,1.5,,Prism Tower 胜 (0.0s 击杀;对方需要 8.5s),7.56
+atesla,kite,Prism Tower,Black Kite,1200,1500,0,2625,,22.0,,22.0,0,0.5,,Black Kite 胜 (22.0s;对方打不动),0.0
+atesla,naflak,Prism Tower,Flak Cannon,1200,700,7500,0,6.0,,6.0,,8.0,0,,Prism Tower 胜 (6.0s;对方打不动),inf
+atesla,nalasr,Prism Tower,Sentry Gun,1200,500,7500,1161,4.0,50.4,4.0,,8.0,6.0,,Prism Tower 胜 (4.0s;对方打不动),1.68
+atesla,napost,Prism Tower,Tesla Fence Post,1200,200,6750,1562,6.0,35.2,6.0,,8.0,3.0,,Prism Tower 胜 (6.0s;对方打不动),0.14
+atesla,schp,Prism Tower,Siege Chopper,1200,1400,0,250,,238.8,,238.8,0,6.0,,Siege Chopper 胜 (238.8s;对方打不动),0.0
+atesla,shk,Prism Tower,Tesla Trooper,1200,300,75000,1354,0.0,43.2,0.0,45.9,8.0,4.0,,Prism Tower 胜 (0.0s 击杀;对方需要 45.9s),15.98
+atesla,sqd,Prism Tower,Giant Squid,1200,1000,7500,0,4.0,,4.0,,8.0,0,,Prism Tower 胜 (4.0s;对方打不动),inf
+atesla,sray,Prism Tower,Stingray,1200,900,7500,3967,2.0,15.0,2.0,16.4,8.0,5.0,,Prism Tower 胜 (2.0s 击杀;对方需要 16.4s),2.13
+atesla,sub,Prism Tower,Typhoon Attack Submarine,1200,1600,7500,0,10.0,,10.0,,8.0,0,,Prism Tower 胜 (10.0s;对方打不动),inf
+atesla,terror,Prism Tower,Terrorist,1200,200,75000,0,0.0,0.0,0.0,2.7,8.0,2.0,,Prism Tower 胜 (0.0s 击杀;对方需要 2.7s),inf
+atesla,tesla,Prism Tower,Tesla Coil,1200,1500,7500,6541,6.0,7.0,6.0,7.0,8.0,8.0,,Prism Tower 胜 (6.0s 击杀;对方需要 7.0s),1.79
+atesla,ttnk,Prism Tower,Tesla Tank,1200,1200,7500,3500,2.0,17.0,2.0,18.2,8.0,5.0,,Prism Tower 胜 (2.0s 击杀;对方需要 18.2s),4.29
+atesla,v3,Prism Tower,V3 Launcher,1200,900,7500,2500,0.0,16.0,,16.0,8.0,18.0,V3 Launcher,V3 Launcher 胜 (16.0s;对方打不动),6.75
+atesla,zep,Prism Tower,Kirov Airship,1200,2000,0,28125,,2.0,,2.0,0,0.25,,Kirov Airship 胜 (2.0s;对方打不动),0.0
+beag,apoc,Black Eagle,Apocalypse Tank,1500,1750,37500,3294,,3.6,,3.6,6.0,8.0,,Apocalypse Tank 胜 (3.6s;对方打不动),3.87
+beag,boris,Black Eagle,Boris Bukov,1500,2000,18750,0,,,,,6.0,0,,双方都无法击杀对方,inf
+beag,civan,Black Eagle,Chrono Ivan,1500,1000,18750,0,,,,,6.0,0,,双方都无法击杀对方,inf
+beag,deso,Black Eagle,Desolator,1500,600,18750,0,,,,,6.0,0,,双方都无法击杀对方,inf
+beag,deva,Black Eagle,Devastator,1500,2200,37500,0,,,,,6.0,0,,双方都无法击杀对方,inf
+beag,dog,Black Eagle,Attack Dog,1500,200,18750,0,,,,,6.0,0,,双方都无法击杀对方,inf
+beag,dred,Black Eagle,Dreadnought,1500,2500,37500,0,,,,,6.0,0,,双方都无法击杀对方,inf
+beag,dron,Black Eagle,Terror Drone,1500,500,37500,0,0.0,,0.0,,6.0,0,,Black Eagle 胜 (0.0s;对方打不动),inf
+beag,dtruck,Black Eagle,Demolition Truck,1500,1500,37500,0,0.0,,0.0,,6.0,0,,Black Eagle 胜 (0.0s;对方打不动),inf
+beag,e2,Black Eagle,Conscript,1500,100,18750,0,,,,,6.0,0,,双方都无法击杀对方,inf
+beag,engineer,Black Eagle,Engineer,1500,500,18750,0,,,,,6.0,0,,双方都无法击杀对方,inf
+beag,flakt,Black Eagle,Flak Trooper,1500,300,18750,1600,,12.0,,12.0,6.0,8.0,,Flak Trooper 胜 (12.0s;对方打不动),0.75
+beag,ftnk,Black Eagle,Flame Tank,1500,900,37500,0,,,,,6.0,0,,双方都无法击杀对方,inf
+beag,harv,Black Eagle,War Miner,1500,1400,37500,0,,,,,6.0,0,,双方都无法击杀对方,inf
+beag,havoc,Black Eagle,Havoc Attack Helicopter,1500,1500,0,0,,,,,0,0,,双方都无法击杀对方,
+beag,htk,Black Eagle,Flak Track,1500,500,37500,2500,,7.0,,7.0,6.0,8.0,,Flak Track 胜 (7.0s;对方打不动),1.11
+beag,htnk,Black Eagle,Rhino Heavy Tank,1500,900,37500,0,,,,,6.0,0,,双方都无法击杀对方,inf
+beag,hyd,Black Eagle,Sea Scorpion,1500,600,37500,2500,,7.0,,7.0,6.0,12.0,,Sea Scorpion 胜 (7.0s;对方打不动),2.4
+beag,itrp,Black Eagle,Iron Trooper,1500,1200,18750,0,,,,,6.0,0,,双方都无法击杀对方,inf
+beag,ivan,Black Eagle,Crazy Ivan,1500,600,18750,0,,,,,6.0,0,,双方都无法击杀对方,inf
+beag,kite,Black Eagle,Black Kite,1500,1500,0,0,,,,,0,0,,双方都无法击杀对方,
+beag,naflak,Black Eagle,Flak Cannon,1500,700,37500,6667,,2.4,,2.4,6.0,12.0,,Flak Cannon 胜 (2.4s;对方打不动),0.41
+beag,nalasr,Black Eagle,Sentry Gun,1500,500,37500,0,,,,,6.0,0,,双方都无法击杀对方,inf
+beag,napost,Black Eagle,Tesla Fence Post,1500,200,28125,0,,,,,6.0,0,,双方都无法击杀对方,inf
+beag,schp,Black Eagle,Siege Chopper,1500,1400,0,2500,,7.2,,7.2,0,6.0,,Siege Chopper 胜 (7.2s;对方打不动),0.0
+beag,shk,Black Eagle,Tesla Trooper,1500,300,18750,0,,,,,6.0,0,,双方都无法击杀对方,inf
+beag,sqd,Black Eagle,Giant Squid,1500,1000,37500,0,,,,,6.0,0,,双方都无法击杀对方,inf
+beag,sray,Black Eagle,Stingray,1500,900,37500,0,,,,,6.0,0,,双方都无法击杀对方,inf
+beag,sub,Black Eagle,Typhoon Attack Submarine,1500,1600,37500,0,,,,,6.0,0,,双方都无法击杀对方,inf
+beag,terror,Black Eagle,Terrorist,1500,200,18750,0,0.0,,0.0,,6.0,0,,Black Eagle 胜 (0.0s;对方打不动),inf
+beag,tesla,Black Eagle,Tesla Coil,1500,1500,37500,0,,,,,6.0,0,,双方都无法击杀对方,inf
+beag,ttnk,Black Eagle,Tesla Tank,1500,1200,37500,0,,,,,6.0,0,,双方都无法击杀对方,inf
+beag,v3,Black Eagle,V3 Launcher,1500,900,37500,0,0.0,,0.0,,6.0,0,,Black Eagle 胜 (0.0s;对方打不动),inf
+beag,zep,Black Eagle,Kirov Airship,1500,2000,0,0,,,,,0,0,,双方都无法击杀对方,
+carrier,apoc,Aircraft Carrier,Apocalypse Tank,2500,1750,12766,5769,1.8,13.0,1.8,23.4,25.0,6.0,Aircraft Carrier,Aircraft Carrier 胜 (1.8s 击杀;对方需要 23.4s),1.08
+carrier,boris,Aircraft Carrier,Boris Bukov,2500,2000,12766,5417,0.0,14.4,0.0,24.2,25.0,7.0,Aircraft Carrier,Aircraft Carrier 胜 (0.0s 击杀;对方需要 24.2s),8.04
+carrier,civan,Aircraft Carrier,Chrono Ivan,2500,1000,12766,11905,0.0,10.0,0.0,22.9,25.0,1.5,Aircraft Carrier,Aircraft Carrier 胜 (0.0s 击杀;对方需要 22.9s),1.1
+carrier,deso,Aircraft Carrier,Desolator,2500,600,12766,469,0.0,168.0,0.0,181.0,25.0,6.0,Aircraft Carrier,Aircraft Carrier 胜 (0.0s 击杀;对方需要 181.0s),8.37
+carrier,deva,Aircraft Carrier,Devastator,2500,2200,12766,5357,2.4,14.0,2.4,21.4,25.0,6.0,,Aircraft Carrier 胜 (2.4s 击杀;对方需要 21.4s),1.48
+carrier,dog,Aircraft Carrier,Attack Dog,2500,200,12766,0,0.0,,0.0,,25.0,0,,Aircraft Carrier 胜 (0.0s;对方打不动),inf
+carrier,dred,Aircraft Carrier,Dreadnought,2500,2500,12766,4375,1.8,13.2,1.8,13.2,25.0,25.0,,Aircraft Carrier 胜 (1.8s 击杀;对方需要 13.2s),2.92
+carrier,dron,Aircraft Carrier,Terror Drone,2500,500,12766,0,0.0,,0.0,,25.0,0,,Aircraft Carrier 胜 (0.0s;对方打不动),inf
+carrier,dtruck,Aircraft Carrier,Demolition Truck,2500,1500,12766,0,0.0,,0.0,,25.0,0,,Aircraft Carrier 胜 (0.0s;对方打不动),inf
+carrier,e2,Aircraft Carrier,Conscript,2500,100,12766,375,0.0,213.0,0.0,227.3,25.0,4.0,Aircraft Carrier,Aircraft Carrier 胜 (0.0s 击杀;对方需要 227.3s),0.35
+carrier,engineer,Aircraft Carrier,Engineer,2500,500,12766,0,0.0,,0.0,,25.0,0,,Aircraft Carrier 胜 (0.0s;对方打不动),inf
+carrier,flakt,Aircraft Carrier,Flak Trooper,2500,300,12766,200,0.0,399.0,0.0,413.3,25.0,4.0,Aircraft Carrier,Aircraft Carrier 胜 (0.0s 击杀;对方需要 413.3s),5.88
+carrier,ftnk,Aircraft Carrier,Flame Tank,2500,900,12766,938,0.6,84.8,0.6,92.6,25.0,5.0,,Aircraft Carrier 胜 (0.6s 击杀;对方需要 92.6s),3.53
+carrier,harv,Aircraft Carrier,War Miner,2500,1400,12766,750,2.4,106.4,2.4,116.8,25.0,6.0,Aircraft Carrier,Aircraft Carrier 胜 (2.4s 击杀;对方需要 116.8s),4.27
+carrier,havoc,Aircraft Carrier,Havoc Attack Helicopter,2500,1500,0,5000,,15.2,,15.2,0,6.0,,Havoc Attack Helicopter 胜 (15.2s;对方打不动),0.0
+carrier,htk,Aircraft Carrier,Flak Track,2500,500,12766,250,0.6,319.0,0.6,325.1,25.0,5.0,,Aircraft Carrier 胜 (0.6s 击杀;对方需要 325.1s),5.45
+carrier,htnk,Aircraft Carrier,Rhino Heavy Tank,2500,900,12766,2596,0.6,28.6,0.6,36.0,25.0,6.0,,Aircraft Carrier 胜 (0.6s 击杀;对方需要 36.0s),1.27
+carrier,hyd,Aircraft Carrier,Sea Scorpion,2500,600,12766,250,0.0,319.0,0.0,325.1,25.0,5.0,,Aircraft Carrier 胜 (0.0s 击杀;对方需要 325.1s),11.77
+carrier,itrp,Aircraft Carrier,Iron Trooper,2500,1200,12766,0,0.0,,0.0,,25.0,0,,Aircraft Carrier 胜 (0.0s;对方打不动),inf
+carrier,ivan,Aircraft Carrier,Crazy Ivan,2500,600,12766,11905,0.0,10.0,0.0,22.9,25.0,1.5,Aircraft Carrier,Aircraft Carrier 胜 (0.0s 击杀;对方需要 22.9s),0.4
+carrier,kite,Aircraft Carrier,Black Kite,2500,1500,0,1125,,70.0,,70.0,0,0.5,,Black Kite 胜 (70.0s;对方打不动),0.0
+carrier,naflak,Aircraft Carrier,Flak Cannon,2500,700,12766,0,1.2,,1.2,,25.0,0,,Aircraft Carrier 胜 (1.2s;对方打不动),inf
+carrier,nalasr,Aircraft Carrier,Sentry Gun,2500,500,12766,1161,0.6,68.6,0.6,,25.0,6.0,Aircraft Carrier,Aircraft Carrier 胜 (0.6s;对方打不动),0.88
+carrier,napost,Aircraft Carrier,Tesla Fence Post,2500,200,9574,1562,1.2,48.0,1.2,,25.0,3.0,Aircraft Carrier,Aircraft Carrier 胜 (1.2s;对方打不动),0.06
+carrier,schp,Aircraft Carrier,Siege Chopper,2500,1400,0,500,,159.6,,159.6,0,6.0,,Siege Chopper 胜 (159.6s;对方打不动),0.0
+carrier,shk,Aircraft Carrier,Tesla Trooper,2500,300,12766,1562,0.0,50.4,0.0,64.7,25.0,4.0,Aircraft Carrier,Aircraft Carrier 胜 (0.0s 击杀;对方需要 64.7s),0.72
+carrier,sqd,Aircraft Carrier,Giant Squid,2500,1000,12766,3906,0.6,19.2,0.6,26.2,25.0,1.84,,Aircraft Carrier 胜 (0.6s 击杀;对方需要 26.2s),1.05
+carrier,sray,Aircraft Carrier,Stingray,2500,900,12766,3500,0.6,21.0,0.6,30.3,25.0,5.0,,Aircraft Carrier 胜 (0.6s 击杀;对方需要 30.3s),1.26
+carrier,sub,Aircraft Carrier,Typhoon Attack Submarine,2500,1600,12766,2500,1.8,30.0,1.8,38.2,25.0,7.0,,Aircraft Carrier 胜 (1.8s 击杀;对方需要 38.2s),2.09
+carrier,terror,Aircraft Carrier,Terrorist,2500,200,12766,0,0.0,,0.0,,25.0,0,,Aircraft Carrier 胜 (0.0s;对方打不动),inf
+carrier,tesla,Aircraft Carrier,Tesla Coil,2500,1500,12766,6541,1.2,10.4,1.2,,25.0,8.0,Aircraft Carrier,Aircraft Carrier 胜 (1.2s;对方打不动),0.94
+carrier,ttnk,Aircraft Carrier,Tesla Tank,2500,1200,12766,3088,0.6,24.2,0.6,32.0,25.0,5.0,,Aircraft Carrier 胜 (0.6s 击杀;对方需要 32.0s),2.54
+carrier,v3,Aircraft Carrier,V3 Launcher,2500,900,12766,1750,0.0,40.0,0.0,43.2,25.0,18.0,,Aircraft Carrier 胜 (0.0s 击杀;对方需要 43.2s),5.04
+carrier,zep,Aircraft Carrier,Kirov Airship,2500,2000,0,13125,,6.0,,6.0,0,0.25,,Kirov Airship 胜 (6.0s;对方打不动),0.0
+civan,apoc,Chrono Ivan,Apocalypse Tank,1000,1750,11905,1538,10.0,7.8,12.5,7.8,1.5,6.0,Apocalypse Tank,Apocalypse Tank 胜 (7.8s 击杀;对方需要 12.5s),3.7
+civan,boris,Chrono Ivan,Boris Bukov,1000,2000,11905,21667,5.0,0.0,8.0,0.0,1.5,7.0,Boris Bukov,Boris Bukov 胜 (0.0s 击杀;对方需要 8.0s),1.83
+civan,civan,Chrono Ivan,Chrono Ivan,1000,1000,11905,11905,5.0,5.0,5.0,5.0,1.5,1.5,,同归于尽 (5.0s),1.0
+civan,deso,Chrono Ivan,Desolator,1000,600,11905,3125,5.0,0.0,7.5,0.0,1.5,6.0,,Desolator 胜 (0.0s 击杀;对方需要 7.5s),1.14
+civan,deva,Chrono Ivan,Devastator,1000,2200,11905,3571,10.0,2.8,12.5,2.8,1.5,6.0,Devastator,Devastator 胜 (2.8s 击杀;对方需要 12.5s),2.02
+civan,dog,Chrono Ivan,Attack Dog,1000,200,11905,62500,5.0,0.0,5.0,0.1,1.5,1.25,,Attack Dog 胜 (0.1s 击杀;对方需要 5.0s),0.01
+civan,dred,Chrono Ivan,Dreadnought,1000,2500,11905,6250,10.0,0.0,22.9,0.0,1.5,25.0,Dreadnought,Dreadnought 胜 (0.0s 击杀;对方需要 22.9s),1.86
+civan,dron,Chrono Ivan,Terror Drone,1000,500,11905,62500,5.0,0.0,5.8,0.0,1.5,3.0,Terror Drone,Terror Drone 胜 (0.0s 击杀;对方需要 5.8s),0.06
+civan,dtruck,Chrono Ivan,Demolition Truck,1000,1500,11905,0,5.0,0.0,5.3,0.0,1.5,2.0,Demolition Truck,Demolition Truck 胜 (0.0s 击杀;对方需要 5.3s),inf
+civan,e2,Chrono Ivan,Conscript,1000,100,11905,1500,5.0,8.0,6.4,8.0,1.5,4.0,,Chrono Ivan 胜 (6.4s 击杀;对方需要 8.0s),0.08
+civan,engineer,Chrono Ivan,Engineer,1000,500,11905,0,5.0,,5.0,,1.5,0,,Chrono Ivan 胜 (5.0s;对方打不动),inf
+civan,flakt,Chrono Ivan,Flak Trooper,1000,300,11905,3000,5.0,4.0,6.4,4.0,1.5,4.0,,Flak Trooper 胜 (4.0s 击杀;对方需要 6.4s),0.36
+civan,ftnk,Chrono Ivan,Flame Tank,1000,900,11905,9375,5.0,0.0,6.9,0.0,1.5,5.0,Flame Tank,Flame Tank 胜 (0.0s 击杀;对方需要 6.9s),0.32
+civan,harv,Chrono Ivan,War Miner,1000,1400,11905,3750,10.0,3.2,12.5,3.2,1.5,6.0,War Miner,War Miner 胜 (3.2s 击杀;对方需要 12.5s),0.78
+civan,havoc,Chrono Ivan,Havoc Attack Helicopter,1000,1500,0,1000,,12.0,,12.0,0,6.0,,Havoc Attack Helicopter 胜 (12.0s;对方打不动),0.0
+civan,htk,Chrono Ivan,Flak Track,1000,500,11905,3750,5.0,3.0,6.9,3.0,1.5,5.0,Flak Track,Flak Track 胜 (3.0s 击杀;对方需要 6.9s),0.33
+civan,htnk,Chrono Ivan,Rhino Heavy Tank,1000,900,11905,692,5.0,15.6,7.5,15.6,1.5,6.0,Rhino Heavy Tank,Chrono Ivan 胜 (7.5s 击杀;对方需要 15.6s),4.35
+civan,hyd,Chrono Ivan,Sea Scorpion,1000,600,11905,3750,5.0,3.0,6.9,3.0,1.5,5.0,Sea Scorpion,Sea Scorpion 胜 (3.0s 击杀;对方需要 6.9s),0.71
+civan,itrp,Chrono Ivan,Iron Trooper,1000,1200,11905,8333,5.0,0.0,6.9,0.0,1.5,5.0,,Iron Trooper 胜 (0.0s 击杀;对方需要 6.9s),1.71
+civan,ivan,Chrono Ivan,Crazy Ivan,1000,600,11905,11905,5.0,5.0,5.0,5.0,1.5,1.5,,同归于尽 (5.0s),0.36
+civan,kite,Chrono Ivan,Black Kite,1000,1500,0,7500,,0.0,,0.0,0,0.5,,Black Kite 胜 (0.0s;对方打不动),0.0
+civan,naflak,Chrono Ivan,Flak Cannon,1000,700,11905,0,5.0,,5.0,,1.5,0,,Chrono Ivan 胜 (5.0s;对方打不动),inf
+civan,nalasr,Chrono Ivan,Sentry Gun,1000,500,11905,5571,5.0,1.4,7.5,1.4,1.5,6.0,,Sentry Gun 胜 (1.4s 击杀;对方需要 7.5s),0.17
+civan,napost,Chrono Ivan,Tesla Fence Post,1000,200,11905,1562,5.0,6.4,5.8,6.4,1.5,3.0,,Chrono Ivan 胜 (5.8s 击杀;对方需要 6.4s),0.08
+civan,schp,Chrono Ivan,Siege Chopper,1000,1400,0,5000,,2.4,,2.4,0,6.0,,Siege Chopper 胜 (2.4s;对方打不动),0.0
+civan,shk,Chrono Ivan,Tesla Trooper,1000,300,11905,2083,5.0,4.8,6.4,4.8,1.5,4.0,,Tesla Trooper 胜 (4.8s 击杀;对方需要 6.4s),0.49
+civan,sqd,Chrono Ivan,Giant Squid,1000,1000,0,0,,,,,0,0,,双方都无法击杀对方,
+civan,sray,Chrono Ivan,Stingray,1000,900,11905,46667,5.0,0.0,6.9,0.0,1.5,5.0,Stingray,Stingray 胜 (0.0s 击杀;对方需要 6.9s),0.09
+civan,sub,Chrono Ivan,Typhoon Attack Submarine,1000,1600,11905,0,10.0,,10.0,,1.5,0,,Chrono Ivan 胜 (10.0s;对方打不动),inf
+civan,terror,Chrono Ivan,Terrorist,1000,200,11905,0,5.0,0.0,5.3,0.0,1.5,2.0,Terrorist,Terrorist 胜 (0.0s 击杀;对方需要 5.3s),inf
+civan,tesla,Chrono Ivan,Tesla Coil,1000,1500,11905,65407,5.0,0.0,8.5,0.0,1.5,8.0,,Tesla Coil 胜 (0.0s 击杀;对方需要 8.5s),0.09
+civan,ttnk,Chrono Ivan,Tesla Tank,1000,1200,11905,41176,5.0,0.0,6.9,0.0,1.5,5.0,Tesla Tank,Tesla Tank 胜 (0.0s 击杀;对方需要 6.9s),0.17
+civan,v3,Chrono Ivan,V3 Launcher,1000,900,11905,2500,5.0,0.0,14.0,0.0,1.5,18.0,V3 Launcher,V3 Launcher 胜 (0.0s 击杀;对方需要 14.0s),3.21
+civan,zep,Chrono Ivan,Kirov Airship,1000,2000,0,37500,,0.0,,0.0,0,0.25,,Kirov Airship 胜 (0.0s;对方打不动),0.0
+cleg,apoc,Chrono Legionnaire,Apocalypse Tank,1000,1750,0,1538,20.0,7.8,20.7,,5.0,6.0,Apocalypse Tank,Chrono Legionnaire 胜 (20.7s;对方打不动),1.24
+cleg,boris,Chrono Legionnaire,Boris Bukov,1000,2000,0,21667,3.8,0.0,5.1,,5.0,7.0,Boris Bukov,Chrono Legionnaire 胜 (5.1s;对方打不动),0.62
+cleg,civan,Chrono Legionnaire,Chrono Ivan,1000,1000,0,11905,3.1,5.0,3.1,,5.0,1.5,,Chrono Legionnaire 胜 (3.1s;对方打不动),0.34
+cleg,deso,Chrono Legionnaire,Desolator,1000,600,0,3125,3.8,0.0,4.4,,5.0,6.0,Desolator,Chrono Legionnaire 胜 (4.4s;对方打不动),0.38
+cleg,deva,Chrono Legionnaire,Devastator,1000,2200,0,3571,25.0,2.8,25.7,,5.0,6.0,Devastator,Chrono Legionnaire 胜 (25.7s;对方打不动),0.68
+cleg,dog,Chrono Legionnaire,Attack Dog,1000,200,0,62500,2.6,0.0,2.6,,5.0,1.25,,Chrono Legionnaire 胜 (2.6s;对方打不动),0.0
+cleg,dred,Chrono Legionnaire,Dreadnought,1000,2500,0,6250,20.0,0.0,33.7,,5.0,25.0,Dreadnought,Chrono Legionnaire 胜 (33.7s;对方打不动),0.62
+cleg,dron,Chrono Legionnaire,Terror Drone,1000,500,0,62500,2.5,0.0,2.5,,5.0,3.0,,Chrono Legionnaire 胜 (2.5s;对方打不动),0.02
+cleg,dtruck,Chrono Legionnaire,Demolition Truck,1000,1500,0,0,3.8,0.0,3.8,,5.0,2.0,,Chrono Legionnaire 胜 (3.8s;对方打不动),inf
+cleg,e2,Chrono Legionnaire,Conscript,1000,100,0,1500,3.1,8.0,3.1,,5.0,4.0,Chrono Legionnaire,Chrono Legionnaire 胜 (3.1s;对方打不动),0.03
+cleg,engineer,Chrono Legionnaire,Engineer,1000,500,0,0,2.5,,2.5,,5.0,0,,Chrono Legionnaire 胜 (2.5s;对方打不动),inf
+cleg,flakt,Chrono Legionnaire,Flak Trooper,1000,300,0,3000,3.1,4.0,3.1,,5.0,4.0,Chrono Legionnaire,Chrono Legionnaire 胜 (3.1s;对方打不动),0.12
+cleg,ftnk,Chrono Legionnaire,Flame Tank,1000,900,0,9375,10.0,0.0,10.0,,5.0,5.0,,Chrono Legionnaire 胜 (10.0s;对方打不动),0.11
+cleg,harv,Chrono Legionnaire,War Miner,1000,1400,0,3750,25.0,3.2,25.7,,5.0,6.0,War Miner,Chrono Legionnaire 胜 (25.7s;对方打不动),0.26
+cleg,havoc,Chrono Legionnaire,Havoc Attack Helicopter,1000,1500,0,1000,,12.0,,12.0,0,6.0,,Havoc Attack Helicopter 胜 (12.0s;对方打不动),0.0
+cleg,htk,Chrono Legionnaire,Flak Track,1000,500,0,3750,7.5,3.0,7.5,,5.0,5.0,,Chrono Legionnaire 胜 (7.5s;对方打不动),0.11
+cleg,htnk,Chrono Legionnaire,Rhino Heavy Tank,1000,900,0,692,10.0,15.6,10.7,,5.0,6.0,Rhino Heavy Tank,Chrono Legionnaire 胜 (10.7s;对方打不动),1.46
+cleg,hyd,Chrono Legionnaire,Sea Scorpion,1000,600,0,3750,5.0,3.0,5.0,,5.0,5.0,,Chrono Legionnaire 胜 (5.0s;对方打不动),0.24
+cleg,itrp,Chrono Legionnaire,Iron Trooper,1000,1200,0,8333,3.8,0.0,3.8,,5.0,5.0,,Chrono Legionnaire 胜 (3.8s;对方打不动),0.58
+cleg,ivan,Chrono Legionnaire,Crazy Ivan,1000,600,0,11905,3.1,5.0,3.1,,5.0,1.5,,Chrono Legionnaire 胜 (3.1s;对方打不动),0.12
+cleg,kite,Chrono Legionnaire,Black Kite,1000,1500,0,7500,,0.0,,0.0,0,0.5,,Black Kite 胜 (0.0s;对方打不动),0.0
+cleg,naflak,Chrono Legionnaire,Flak Cannon,1000,700,0,0,15.0,,15.0,,5.0,0,,Chrono Legionnaire 胜 (15.0s;对方打不动),inf
+cleg,nalasr,Chrono Legionnaire,Sentry Gun,1000,500,0,5571,10.0,1.4,10.7,,5.0,6.0,,Chrono Legionnaire 胜 (10.7s;对方打不动),0.06
+cleg,napost,Chrono Legionnaire,Tesla Fence Post,1000,200,0,1562,12.5,6.4,12.5,,5.0,3.0,Chrono Legionnaire,Chrono Legionnaire 胜 (12.5s;对方打不动),0.03
+cleg,schp,Chrono Legionnaire,Siege Chopper,1000,1400,0,5000,,2.4,,2.4,0,6.0,,Siege Chopper 胜 (2.4s;对方打不动),0.0
+cleg,shk,Chrono Legionnaire,Tesla Trooper,1000,300,0,2083,3.2,4.8,3.2,,5.0,4.0,Chrono Legionnaire,Chrono Legionnaire 胜 (3.2s;对方打不动),0.17
+cleg,sqd,Chrono Legionnaire,Giant Squid,1000,1000,0,0,10.0,,10.0,,5.0,0,,Chrono Legionnaire 胜 (10.0s;对方打不动),inf
+cleg,sray,Chrono Legionnaire,Stingray,1000,900,0,46667,7.5,0.0,7.5,,5.0,5.0,,Chrono Legionnaire 胜 (7.5s;对方打不动),0.03
+cleg,sub,Chrono Legionnaire,Typhoon Attack Submarine,1000,1600,0,0,20.0,,20.0,,5.0,0,,Chrono Legionnaire 胜 (20.0s;对方打不动),inf
+cleg,terror,Chrono Legionnaire,Terrorist,1000,200,0,0,1.9,0.0,1.9,,5.0,2.0,,Chrono Legionnaire 胜 (1.9s;对方打不动),inf
+cleg,tesla,Chrono Legionnaire,Tesla Coil,1000,1500,0,65407,15.0,0.0,17.0,,5.0,8.0,,Chrono Legionnaire 胜 (17.0s;对方打不动),0.03
+cleg,ttnk,Chrono Legionnaire,Tesla Tank,1000,1200,0,41176,7.5,0.0,7.5,,5.0,5.0,,Chrono Legionnaire 胜 (7.5s;对方打不动),0.06
+cleg,v3,Chrono Legionnaire,V3 Launcher,1000,900,0,2500,3.8,0.0,12.6,,5.0,18.0,V3 Launcher,Chrono Legionnaire 胜 (12.6s;对方打不动),1.08
+cleg,zep,Chrono Legionnaire,Kirov Airship,1000,2000,0,37500,,0.0,,0.0,0,0.25,,Kirov Airship 胜 (0.0s;对方打不动),0.0
+ctnk,apoc,Chrono Dragon,Apocalypse Tank,2200,1750,6356,7692,10.2,0.0,10.2,1.1,8.0,6.0,Chrono Dragon,Apocalypse Tank 胜 (1.1s 击杀;对方需要 10.2s),0.13
+ctnk,boris,Chrono Dragon,Boris Bukov,2200,2000,1271,8125,9.9,2.4,9.9,2.9,8.0,7.0,Chrono Dragon,Boris Bukov 胜 (2.9s 击杀;对方需要 9.9s),0.17
+ctnk,civan,Chrono Dragon,Chrono Ivan,2200,1000,1271,11905,9.4,5.0,9.4,8.5,8.0,1.5,Chrono Dragon,Chrono Ivan 胜 (8.5s 击杀;对方需要 9.4s),0.04
+ctnk,deso,Chrono Dragon,Desolator,2200,600,847,2188,15.0,8.0,15.0,9.4,8.0,6.0,Chrono Dragon,Desolator 胜 (9.4s 击杀;对方需要 15.0s),0.04
+ctnk,deva,Chrono Dragon,Devastator,2200,2200,6356,7143,14.5,0.2,14.5,1.0,8.0,6.0,Chrono Dragon,Devastator 胜 (1.0s 击杀;对方需要 14.5s),0.18
+ctnk,dog,Chrono Dragon,Attack Dog,2200,200,1271,0,5.5,,5.5,,8.0,0,,Chrono Dragon 胜 (5.5s;对方打不动),inf
+ctnk,dred,Chrono Dragon,Dreadnought,2200,2500,6356,6250,10.2,0.0,16.9,0.0,8.0,25.0,,Dreadnought 胜 (0.0s 击杀;对方需要 16.9s),0.33
+ctnk,dron,Chrono Dragon,Terror Drone,2200,500,1695,2174,4.9,7.4,4.9,8.6,8.0,3.0,,Chrono Dragon 胜 (4.9s 击杀;对方需要 8.6s),0.08
+ctnk,dtruck,Chrono Dragon,Demolition Truck,2200,1500,8475,0,0.3,0.0,0.3,2.7,8.0,2.0,Chrono Dragon,Chrono Dragon 胜 (0.3s 击杀;对方需要 2.7s),inf
+ctnk,e2,Chrono Dragon,Conscript,2200,100,1271,600,9.4,33.0,9.4,35.7,8.0,4.0,Chrono Dragon,Chrono Dragon 胜 (9.4s 击杀;对方需要 35.7s),0.01
+ctnk,engineer,Chrono Dragon,Engineer,2200,500,1271,0,5.5,,5.5,,8.0,0,,Chrono Dragon 胜 (5.5s;对方打不动),inf
+ctnk,flakt,Chrono Dragon,Flak Trooper,2200,300,1271,2000,9.4,9.0,9.4,11.7,8.0,4.0,Chrono Dragon,Chrono Dragon 胜 (9.4s 击杀;对方需要 11.7s),0.02
+ctnk,ftnk,Chrono Dragon,Flame Tank,2200,900,6356,6250,5.0,1.6,5.0,2.8,8.0,5.0,Chrono Dragon,Flame Tank 胜 (2.8s 击杀;对方需要 5.0s),0.09
+ctnk,harv,Chrono Dragon,War Miner,2200,1400,8475,1500,9.9,12.8,9.9,13.9,8.0,6.0,Chrono Dragon,Chrono Dragon 胜 (9.9s 击杀;对方需要 13.9s),0.46
+ctnk,havoc,Chrono Dragon,Havoc Attack Helicopter,2200,1500,0,3333,,3.6,,3.6,0,6.0,,Havoc Attack Helicopter 胜 (3.6s;对方打不动),0.0
+ctnk,htk,Chrono Dragon,Flak Track,2200,500,8475,2500,0.8,7.0,0.8,7.9,8.0,5.0,,Chrono Dragon 胜 (0.8s 击杀;对方需要 7.9s),0.12
+ctnk,htnk,Chrono Dragon,Rhino Heavy Tank,2200,900,6356,3462,5.0,5.2,5.0,6.0,8.0,6.0,Chrono Dragon,Chrono Dragon 胜 (5.0s 击杀;对方需要 6.0s),0.15
+ctnk,hyd,Chrono Dragon,Sea Scorpion,2200,600,6356,2500,0.8,7.0,0.8,7.9,8.0,5.0,,Chrono Dragon 胜 (0.8s 击杀;对方需要 7.9s),0.19
+ctnk,itrp,Chrono Dragon,Iron Trooper,2200,1200,847,0,15.0,,15.0,,8.0,0,,Chrono Dragon 胜 (15.0s;对方打不动),inf
+ctnk,ivan,Chrono Dragon,Crazy Ivan,2200,600,1271,11905,9.4,5.0,9.4,8.5,8.0,1.5,Chrono Dragon,Crazy Ivan 胜 (8.5s 击杀;对方需要 9.4s),0.01
+ctnk,kite,Chrono Dragon,Black Kite,2200,1500,0,5250,,2.0,,2.0,0,0.5,,Black Kite 胜 (2.0s;对方打不动),0.0
+ctnk,naflak,Chrono Dragon,Flak Cannon,2200,700,7203,0,5.7,,5.7,,8.0,0,,Chrono Dragon 胜 (5.7s;对方打不动),inf
+ctnk,nalasr,Chrono Dragon,Sentry Gun,2200,500,7203,1857,4.9,9.8,4.9,,8.0,6.0,Chrono Dragon,Chrono Dragon 胜 (4.9s;对方打不动),0.1
+ctnk,napost,Chrono Dragon,Tesla Fence Post,2200,200,5085,1562,9.4,9.6,9.4,,8.0,3.0,Chrono Dragon,Chrono Dragon 胜 (9.4s;对方打不动),0.01
+ctnk,schp,Chrono Dragon,Siege Chopper,2200,1400,0,2500,,7.2,,7.2,0,6.0,,Siege Chopper 胜 (7.2s;对方打不动),0.0
+ctnk,shk,Chrono Dragon,Tesla Trooper,2200,300,847,2083,14.3,7.2,14.3,9.9,8.0,4.0,Chrono Dragon,Tesla Trooper 胜 (9.9s 击杀;对方需要 14.3s),0.01
+ctnk,sqd,Chrono Dragon,Giant Squid,2200,1000,8475,0,1.1,,1.1,,8.0,0,,Chrono Dragon 胜 (1.1s;对方打不动),inf
+ctnk,sray,Chrono Dragon,Stingray,2200,900,8475,4667,0.8,3.0,0.8,4.4,8.0,5.0,Chrono Dragon,Chrono Dragon 胜 (0.8s 击杀;对方需要 4.4s),0.2
+ctnk,sub,Chrono Dragon,Typhoon Attack Submarine,2200,1600,6356,0,10.2,,10.2,,8.0,0,,Chrono Dragon 胜 (10.2s;对方打不动),inf
+ctnk,terror,Chrono Dragon,Terrorist,2200,200,1271,0,4.9,0.0,4.9,2.7,8.0,2.0,Chrono Dragon,Terrorist 胜 (2.7s 击杀;对方需要 4.9s),inf
+ctnk,tesla,Chrono Dragon,Tesla Coil,2200,1500,7203,6541,5.7,0.2,5.7,0.2,8.0,8.0,,Tesla Coil 胜 (0.2s 击杀;对方需要 5.7s),0.17
+ctnk,ttnk,Chrono Dragon,Tesla Tank,2200,1200,6356,4118,1.1,3.4,1.1,4.6,8.0,5.0,Chrono Dragon,Chrono Dragon 胜 (1.1s 击杀;对方需要 4.6s),0.31
+ctnk,v3,Chrono Dragon,V3 Launcher,2200,900,8475,2500,0.3,0.0,4.2,0.0,8.0,18.0,,V3 Launcher 胜 (0.0s 击杀;对方需要 4.2s),0.76
+ctnk,zep,Chrono Dragon,Kirov Airship,2200,2000,0,26250,,0.0,,0.0,0,0.25,,Kirov Airship 胜 (0.0s;对方打不动),0.0
+dlph,apoc,Dolphin,Apocalypse Tank,500,1750,0,7692,,0.0,,0.0,0,6.0,,Apocalypse Tank 胜 (0.0s;对方打不动),0.0
+dlph,boris,Dolphin,Boris Bukov,500,2000,0,8125,,2.4,,2.4,0,7.0,,Boris Bukov 胜 (2.4s;对方打不动),0.0
+dlph,civan,Dolphin,Chrono Ivan,500,1000,0,0,,,,,0,0,,双方都无法击杀对方,
+dlph,deso,Dolphin,Desolator,500,600,0,2188,,8.0,,8.0,0,6.0,,Desolator 胜 (8.0s;对方打不动),0.0
+dlph,deva,Dolphin,Devastator,500,2200,0,7143,,0.2,,0.2,0,6.0,,Devastator 胜 (0.2s;对方打不动),0.0
+dlph,dog,Dolphin,Attack Dog,500,200,0,0,,,,,0,0,,双方都无法击杀对方,
+dlph,dred,Dolphin,Dreadnought,500,2500,438,6250,182.4,0.0,187.4,0.0,5.0,25.0,,Dreadnought 胜 (0.0s 击杀;对方需要 187.4s),0.44
+dlph,dron,Dolphin,Terror Drone,500,500,0,0,,,,,0,0,,双方都无法击杀对方,
+dlph,dtruck,Dolphin,Demolition Truck,500,1500,0,0,,,,,0,0,,双方都无法击杀对方,
+dlph,e2,Dolphin,Conscript,500,100,0,600,,33.0,,33.0,0,4.0,,Conscript 胜 (33.0s;对方打不动),0.0
+dlph,engineer,Dolphin,Engineer,500,500,0,0,,,,,0,0,,双方都无法击杀对方,
+dlph,flakt,Dolphin,Flak Trooper,500,300,0,2000,,9.0,,9.0,0,4.0,,Flak Trooper 胜 (9.0s;对方打不动),0.0
+dlph,ftnk,Dolphin,Flame Tank,500,900,0,6250,,1.6,,1.6,0,5.0,,Flame Tank 胜 (1.6s;对方打不动),0.0
+dlph,harv,Dolphin,War Miner,500,1400,0,1500,,12.8,,12.8,0,6.0,,War Miner 胜 (12.8s;对方打不动),0.0
+dlph,havoc,Dolphin,Havoc Attack Helicopter,500,1500,0,3333,,3.6,,3.6,0,6.0,,Havoc Attack Helicopter 胜 (3.6s;对方打不动),0.0
+dlph,htk,Dolphin,Flak Track,500,500,0,2500,,7.0,,7.0,0,5.0,,Flak Track 胜 (7.0s;对方打不动),0.0
+dlph,htnk,Dolphin,Rhino Heavy Tank,500,900,0,3462,,5.2,,5.2,0,6.0,,Rhino Heavy Tank 胜 (5.2s;对方打不动),0.0
+dlph,hyd,Dolphin,Sea Scorpion,500,600,438,2500,44.8,7.0,44.8,7.0,5.0,5.0,,Sea Scorpion 胜 (7.0s 击杀;对方需要 44.8s),0.25
+dlph,itrp,Dolphin,Iron Trooper,500,1200,0,0,,,,,0,0,,双方都无法击杀对方,
+dlph,ivan,Dolphin,Crazy Ivan,500,600,0,0,,,,,0,0,,双方都无法击杀对方,
+dlph,kite,Dolphin,Black Kite,500,1500,0,5250,,2.0,,2.0,0,0.5,,Black Kite 胜 (2.0s;对方打不动),0.0
+dlph,naflak,Dolphin,Flak Cannon,500,700,0,0,,,,,0,0,,双方都无法击杀对方,
+dlph,nalasr,Dolphin,Sentry Gun,500,500,0,1857,,9.8,,9.8,0,6.0,,Sentry Gun 胜 (9.8s;对方打不动),0.0
+dlph,napost,Dolphin,Tesla Fence Post,500,200,0,1562,,9.6,,9.6,0,3.0,,Tesla Fence Post 胜 (9.6s;对方打不动),0.0
+dlph,schp,Dolphin,Siege Chopper,500,1400,0,2500,,7.2,,7.2,0,6.0,,Siege Chopper 胜 (7.2s;对方打不动),0.0
+dlph,shk,Dolphin,Tesla Trooper,500,300,0,2083,,7.2,,7.2,0,4.0,,Tesla Trooper 胜 (7.2s;对方打不动),0.0
+dlph,sqd,Dolphin,Giant Squid,500,1000,438,3906,91.2,3.8,91.2,4.8,5.0,1.84,Dolphin,Giant Squid 胜 (4.8s 击杀;对方需要 91.2s),0.22
+dlph,sray,Dolphin,Stingray,500,900,0,4667,,3.0,,3.0,0,5.0,,Stingray 胜 (3.0s;对方打不动),0.0
+dlph,sub,Dolphin,Typhoon Attack Submarine,500,1600,438,2500,182.4,6.0,182.9,6.0,5.0,7.0,,Typhoon Attack Submarine 胜 (6.0s 击杀;对方需要 182.9s),0.45
+dlph,terror,Dolphin,Terrorist,500,200,0,0,,,,,0,0,,双方都无法击杀对方,
+dlph,tesla,Dolphin,Tesla Coil,500,1500,0,6541,,0.2,,0.2,0,8.0,,Tesla Coil 胜 (0.2s;对方打不动),0.0
+dlph,ttnk,Dolphin,Tesla Tank,500,1200,0,4118,,3.4,,3.4,0,5.0,,Tesla Tank 胜 (3.4s;对方打不动),0.0
+dlph,v3,Dolphin,V3 Launcher,500,900,0,2500,,0.0,,0.0,0,18.0,,V3 Launcher 胜 (0.0s;对方打不动),0.0
+dlph,zep,Dolphin,Kirov Airship,500,2000,0,26250,,0.0,,0.0,0,0.25,,Kirov Airship 胜 (0.0s;对方打不动),0.0
+dog,apoc,Attack Dog,Apocalypse Tank,200,1750,0,1538,,5.2,,5.2,0,6.0,,Apocalypse Tank 胜 (5.2s;对方打不动),0.0
+dog,boris,Attack Dog,Boris Bukov,200,2000,62500,21667,0.0,0.0,2.0,0.0,1.25,7.0,,Boris Bukov 胜 (0.0s 击杀;对方需要 2.0s),201.92
+dog,civan,Attack Dog,Chrono Ivan,200,1000,62500,11905,0.0,5.0,0.1,5.0,1.25,1.5,,Attack Dog 胜 (0.1s 击杀;对方需要 5.0s),110.25
+dog,deso,Attack Dog,Desolator,200,600,62500,3125,0.0,0.0,1.6,0.0,1.25,6.0,,Desolator 胜 (0.0s 击杀;对方需要 1.6s),126.0
+dog,deva,Attack Dog,Devastator,200,2200,0,3571,,2.8,,2.8,0,6.0,,Devastator 胜 (2.8s;对方打不动),0.0
+dog,dog,Attack Dog,Attack Dog,200,200,62500,62500,0.0,0.0,0.0,0.0,1.25,1.25,,同归于尽 (0.0s),1.0
+dog,dred,Attack Dog,Dreadnought,200,2500,0,6250,,0.0,,0.0,0,25.0,,Dreadnought 胜 (0.0s;对方打不动),0.0
+dog,dron,Attack Dog,Terror Drone,200,500,0,62500,,0.0,,0.0,0,3.0,,Terror Drone 胜 (0.0s;对方打不动),0.0
+dog,dtruck,Attack Dog,Demolition Truck,200,1500,0,0,,0.0,,0.0,0,2.0,,Demolition Truck 胜 (0.0s;对方打不动),
+dog,e2,Attack Dog,Conscript,200,100,62500,1500,0.0,6.0,0.9,6.0,1.25,4.0,,Attack Dog 胜 (0.9s 击杀;对方需要 6.0s),8.75
+dog,engineer,Attack Dog,Engineer,200,500,62500,0,0.0,,0.0,,1.25,0,,Attack Dog 胜 (0.0s;对方打不动),inf
+dog,flakt,Attack Dog,Flak Trooper,200,300,62500,3000,0.0,3.0,0.9,3.0,1.25,4.0,,Attack Dog 胜 (0.9s 击杀;对方需要 3.0s),39.38
+dog,ftnk,Attack Dog,Flame Tank,200,900,0,9375,,0.0,,0.0,0,5.0,,Flame Tank 胜 (0.0s;对方打不动),0.0
+dog,harv,Attack Dog,War Miner,200,1400,0,3750,,2.4,,2.4,0,6.0,,War Miner 胜 (2.4s;对方打不动),0.0
+dog,havoc,Attack Dog,Havoc Attack Helicopter,200,1500,0,1000,,9.2,,9.2,0,6.0,,Havoc Attack Helicopter 胜 (9.2s;对方打不动),0.0
+dog,htk,Attack Dog,Flak Track,200,500,0,3750,,2.0,,2.0,0,5.0,,Flak Track 胜 (2.0s;对方打不动),0.0
+dog,htnk,Attack Dog,Rhino Heavy Tank,200,900,0,692,,13.0,,13.0,0,6.0,,Rhino Heavy Tank 胜 (13.0s;对方打不动),0.0
+dog,hyd,Attack Dog,Sea Scorpion,200,600,0,3750,,2.0,,2.0,0,5.0,,Sea Scorpion 胜 (2.0s;对方打不动),0.0
+dog,itrp,Attack Dog,Iron Trooper,200,1200,0,8333,,0.0,,0.0,0,5.0,,Iron Trooper 胜 (0.0s;对方打不动),0.0
+dog,ivan,Attack Dog,Crazy Ivan,200,600,62500,11905,0.0,5.0,0.1,5.0,1.25,1.5,,Attack Dog 胜 (0.1s 击杀;对方需要 5.0s),39.69
+dog,kite,Attack Dog,Black Kite,200,1500,0,7500,,0.0,,0.0,0,0.5,,Black Kite 胜 (0.0s;对方打不动),0.0
+dog,naflak,Attack Dog,Flak Cannon,200,700,0,0,,,,,0,0,,双方都无法击杀对方,
+dog,nalasr,Attack Dog,Sentry Gun,200,500,0,5571,,1.4,,1.4,0,6.0,,Sentry Gun 胜 (1.4s;对方打不动),0.0
+dog,napost,Attack Dog,Tesla Fence Post,200,200,0,1562,,6.4,,6.4,0,3.0,,Tesla Fence Post 胜 (6.4s;对方打不动),0.0
+dog,schp,Attack Dog,Siege Chopper,200,1400,0,5000,,1.2,,1.2,0,6.0,,Siege Chopper 胜 (1.2s;对方打不动),0.0
+dog,shk,Attack Dog,Tesla Trooper,200,300,62500,2083,0.0,4.8,0.9,4.8,1.25,4.0,,Attack Dog 胜 (0.9s 击杀;对方需要 4.8s),54.52
+dog,sqd,Attack Dog,Giant Squid,200,1000,0,0,,,,,0,0,,双方都无法击杀对方,
+dog,sray,Attack Dog,Stingray,200,900,0,46667,,0.0,,0.0,0,5.0,,Stingray 胜 (0.0s;对方打不动),0.0
+dog,sub,Attack Dog,Typhoon Attack Submarine,200,1600,0,0,,,,,0,0,,双方都无法击杀对方,
+dog,terror,Attack Dog,Terrorist,200,200,62500,0,0.0,0.0,0.3,0.0,1.25,2.0,,Terrorist 胜 (0.0s 击杀;对方需要 0.3s),inf
+dog,tesla,Attack Dog,Tesla Coil,200,1500,0,65407,,0.0,,0.0,0,8.0,,Tesla Coil 胜 (0.0s;对方打不动),0.0
+dog,ttnk,Attack Dog,Tesla Tank,200,1200,0,41176,,0.0,,0.0,0,5.0,,Tesla Tank 胜 (0.0s;对方打不动),0.0
+dog,v3,Attack Dog,V3 Launcher,200,900,0,2500,,0.0,,0.0,0,18.0,,V3 Launcher 胜 (0.0s;对方打不动),0.0
+dog,zep,Attack Dog,Kirov Airship,200,2000,0,37500,,0.0,,0.0,0,0.25,,Kirov Airship 胜 (0.0s;对方打不动),0.0
+e1,apoc,G.I.,Apocalypse Tank,150,1750,375,1538,213.0,7.8,214.4,7.8,4.0,6.0,Apocalypse Tank,Apocalypse Tank 胜 (7.8s 击杀;对方需要 214.4s),5.18
+e1,boris,G.I.,Boris Bukov,150,2000,1350,21667,11.0,0.0,13.0,0.0,4.0,7.0,Boris Bukov,Boris Bukov 胜 (0.0s 击杀;对方需要 13.0s),9.23
+e1,civan,G.I.,Chrono Ivan,150,1000,1500,11905,8.0,5.0,8.0,6.4,4.0,1.5,,Chrono Ivan 胜 (6.4s 击杀;对方需要 8.0s),5.6
+e1,deso,G.I.,Desolator,150,600,1200,3125,12.0,0.0,13.4,0.0,4.0,6.0,Desolator,Desolator 胜 (0.0s 击杀;对方需要 13.4s),5.12
+e1,deva,G.I.,Devastator,150,2200,375,3571,266.0,2.8,267.4,2.8,4.0,6.0,Devastator,Devastator 胜 (2.8s 击杀;对方需要 267.4s),2.82
+e1,dog,G.I.,Attack Dog,150,200,1500,62500,6.0,0.0,6.0,0.9,4.0,1.25,,Attack Dog 胜 (0.9s 击杀;对方需要 6.0s),0.05
+e1,dred,G.I.,Dreadnought,150,2500,375,6250,213.0,0.0,227.3,0.0,4.0,25.0,Dreadnought,Dreadnought 胜 (0.0s 击杀;对方需要 227.3s),2.6
+e1,dron,G.I.,Terror Drone,150,500,1500,62500,6.0,0.0,6.0,0.2,4.0,3.0,,Terror Drone 胜 (0.2s 击杀;对方需要 6.0s),0.33
+e1,dtruck,G.I.,Demolition Truck,150,1500,600,0,24.0,0.0,24.0,0.9,4.0,2.0,,Demolition Truck 胜 (0.9s 击杀;对方需要 24.0s),inf
+e1,e2,G.I.,Conscript,150,100,1500,1500,8.0,8.0,8.0,8.0,4.0,4.0,,同归于尽 (8.0s),0.44
+e1,engineer,G.I.,Engineer,150,500,1500,0,6.0,,6.0,,4.0,0,,G.I. 胜 (6.0s;对方打不动),inf
+e1,flakt,G.I.,Flak Trooper,150,300,1500,3000,8.0,4.0,8.0,4.0,4.0,4.0,,Flak Trooper 胜 (4.0s 击杀;对方需要 8.0s),2.0
+e1,ftnk,G.I.,Flame Tank,150,900,375,9375,106.0,0.0,106.7,0.0,4.0,5.0,Flame Tank,Flame Tank 胜 (0.0s 击杀;对方需要 106.7s),0.45
+e1,harv,G.I.,War Miner,150,1400,375,3750,266.0,3.2,267.4,3.2,4.0,6.0,War Miner,War Miner 胜 (3.2s 击杀;对方需要 267.4s),1.09
+e1,havoc,G.I.,Havoc Attack Helicopter,150,1500,0,1000,,12.0,,12.0,0,6.0,,Havoc Attack Helicopter 胜 (12.0s;对方打不动),0.0
+e1,htk,G.I.,Flak Track,150,500,600,3750,49.0,3.0,49.7,3.0,4.0,5.0,Flak Track,Flak Track 胜 (3.0s 击杀;对方需要 49.7s),0.74
+e1,htnk,G.I.,Rhino Heavy Tank,150,900,375,692,106.0,15.6,107.4,15.6,4.0,6.0,Rhino Heavy Tank,Rhino Heavy Tank 胜 (15.6s 击杀;对方需要 107.4s),6.09
+e1,hyd,G.I.,Sea Scorpion,150,600,375,3750,53.0,3.0,53.7,3.0,4.0,5.0,Sea Scorpion,Sea Scorpion 胜 (3.0s 击杀;对方需要 53.7s),1.0
+e1,itrp,G.I.,Iron Trooper,150,1200,1200,8333,12.0,0.0,12.7,0.0,4.0,5.0,Iron Trooper,Iron Trooper 胜 (0.0s 击杀;对方需要 12.7s),7.68
+e1,ivan,G.I.,Crazy Ivan,150,600,1500,11905,8.0,5.0,8.0,6.4,4.0,1.5,,Crazy Ivan 胜 (6.4s 击杀;对方需要 8.0s),2.02
+e1,kite,G.I.,Black Kite,150,1500,0,7500,,0.0,,0.0,0,0.5,,Black Kite 胜 (0.0s;对方打不动),0.0
+e1,naflak,G.I.,Flak Cannon,150,700,375,0,159.0,,159.0,,4.0,0,,G.I. 胜 (159.0s;对方打不动),inf
+e1,nalasr,G.I.,Sentry Gun,150,500,375,5571,106.0,1.4,107.4,1.4,4.0,6.0,,Sentry Gun 胜 (1.4s 击杀;对方需要 107.4s),0.23
+e1,napost,G.I.,Tesla Fence Post,150,200,450,1562,111.0,6.4,111.0,,4.0,3.0,G.I.,G.I. 胜 (111.0s;对方打不动),0.13
+e1,schp,G.I.,Siege Chopper,150,1400,0,5000,,2.4,,2.4,0,6.0,,Siege Chopper 胜 (2.4s;对方打不动),0.0
+e1,shk,G.I.,Tesla Trooper,150,300,1200,2083,10.0,4.8,10.0,4.8,4.0,4.0,,Tesla Trooper 胜 (4.8s 击杀;对方需要 10.0s),2.22
+e1,sqd,G.I.,Giant Squid,150,1000,600,0,66.0,,66.0,,4.0,0,,G.I. 胜 (66.0s;对方打不动),inf
+e1,sray,G.I.,Stingray,150,900,600,46667,49.0,0.0,49.7,0.0,4.0,5.0,Stingray,Stingray 胜 (0.0s 击杀;对方需要 49.7s),0.19
+e1,sub,G.I.,Typhoon Attack Submarine,150,1600,375,0,213.0,,213.0,,4.0,0,,G.I. 胜 (213.0s;对方打不动),inf
+e1,terror,G.I.,Terrorist,150,200,1350,0,5.0,0.0,5.0,0.9,4.0,2.0,,Terrorist 胜 (0.9s 击杀;对方需要 5.0s),inf
+e1,tesla,G.I.,Tesla Coil,150,1500,375,65407,159.0,0.0,161.7,0.0,4.0,8.0,,Tesla Coil 胜 (0.0s 击杀;对方需要 161.7s),0.12
+e1,ttnk,G.I.,Tesla Tank,150,1200,375,41176,79.0,0.0,79.7,0.0,4.0,5.0,Tesla Tank,Tesla Tank 胜 (0.0s 击杀;对方需要 79.7s),0.24
+e1,v3,G.I.,V3 Launcher,150,900,600,2500,24.0,0.0,33.6,0.0,4.0,18.0,V3 Launcher,V3 Launcher 胜 (0.0s 击杀;对方需要 33.6s),7.2
+e1,zep,G.I.,Kirov Airship,150,2000,0,37500,,0.0,,0.0,0,0.25,,Kirov Airship 胜 (0.0s;对方打不动),0.0
+engineer,apoc,Engineer,Apocalypse Tank,500,1750,0,1538,,5.2,,5.2,0,6.0,,Apocalypse Tank 胜 (5.2s;对方打不动),0.0
+engineer,boris,Engineer,Boris Bukov,500,2000,0,21667,,0.0,,0.0,0,7.0,,Boris Bukov 胜 (0.0s;对方打不动),0.0
+engineer,civan,Engineer,Chrono Ivan,500,1000,0,11905,,5.0,,5.0,0,1.5,,Chrono Ivan 胜 (5.0s;对方打不动),0.0
+engineer,deso,Engineer,Desolator,500,600,0,3125,,0.0,,0.0,0,6.0,,Desolator 胜 (0.0s;对方打不动),0.0
+engineer,deva,Engineer,Devastator,500,2200,0,3571,,0.2,,0.2,0,6.0,,Devastator 胜 (0.2s;对方打不动),0.0
+engineer,dog,Engineer,Attack Dog,500,200,0,62500,,0.0,,0.0,0,1.25,,Attack Dog 胜 (0.0s;对方打不动),0.0
+engineer,dred,Engineer,Dreadnought,500,2500,0,6250,,0.0,,0.0,0,25.0,,Dreadnought 胜 (0.0s;对方打不动),0.0
+engineer,dron,Engineer,Terror Drone,500,500,0,62500,,0.0,,0.0,0,3.0,,Terror Drone 胜 (0.0s;对方打不动),0.0
+engineer,dtruck,Engineer,Demolition Truck,500,1500,0,0,,0.0,,0.0,0,2.0,,Demolition Truck 胜 (0.0s;对方打不动),
+engineer,e2,Engineer,Conscript,500,100,0,1500,,6.0,,6.0,0,4.0,,Conscript 胜 (6.0s;对方打不动),0.0
+engineer,engineer,Engineer,Engineer,500,500,0,0,,,,,0,0,,双方都无法击杀对方,
+engineer,flakt,Engineer,Flak Trooper,500,300,0,3000,,3.0,,3.0,0,4.0,,Flak Trooper 胜 (3.0s;对方打不动),0.0
+engineer,ftnk,Engineer,Flame Tank,500,900,0,9375,,0.0,,0.0,0,5.0,,Flame Tank 胜 (0.0s;对方打不动),0.0
+engineer,harv,Engineer,War Miner,500,1400,0,3750,,2.4,,2.4,0,6.0,,War Miner 胜 (2.4s;对方打不动),0.0
+engineer,havoc,Engineer,Havoc Attack Helicopter,500,1500,0,1000,,9.2,,9.2,0,6.0,,Havoc Attack Helicopter 胜 (9.2s;对方打不动),0.0
+engineer,htk,Engineer,Flak Track,500,500,0,3750,,2.0,,2.0,0,5.0,,Flak Track 胜 (2.0s;对方打不动),0.0
+engineer,htnk,Engineer,Rhino Heavy Tank,500,900,0,692,,13.0,,13.0,0,6.0,,Rhino Heavy Tank 胜 (13.0s;对方打不动),0.0
+engineer,hyd,Engineer,Sea Scorpion,500,600,0,3750,,2.0,,2.0,0,5.0,,Sea Scorpion 胜 (2.0s;对方打不动),0.0
+engineer,itrp,Engineer,Iron Trooper,500,1200,0,8333,,0.0,,0.0,0,5.0,,Iron Trooper 胜 (0.0s;对方打不动),0.0
+engineer,ivan,Engineer,Crazy Ivan,500,600,0,11905,,5.0,,5.0,0,1.5,,Crazy Ivan 胜 (5.0s;对方打不动),0.0
+engineer,kite,Engineer,Black Kite,500,1500,0,7500,,0.0,,0.0,0,0.5,,Black Kite 胜 (0.0s;对方打不动),0.0
+engineer,naflak,Engineer,Flak Cannon,500,700,0,0,,,,,0,0,,双方都无法击杀对方,
+engineer,nalasr,Engineer,Sentry Gun,500,500,0,5571,,1.4,,1.4,0,6.0,,Sentry Gun 胜 (1.4s;对方打不动),0.0
+engineer,napost,Engineer,Tesla Fence Post,500,200,0,1562,,3.2,,3.2,0,3.0,,Tesla Fence Post 胜 (3.2s;对方打不动),0.0
+engineer,schp,Engineer,Siege Chopper,500,1400,0,5000,,1.2,,1.2,0,6.0,,Siege Chopper 胜 (1.2s;对方打不动),0.0
+engineer,shk,Engineer,Tesla Trooper,500,300,0,2083,,2.4,,2.4,0,4.0,,Tesla Trooper 胜 (2.4s;对方打不动),0.0
+engineer,sqd,Engineer,Giant Squid,500,1000,0,0,,,,,0,0,,双方都无法击杀对方,
+engineer,sray,Engineer,Stingray,500,900,0,46667,,0.0,,0.0,0,5.0,,Stingray 胜 (0.0s;对方打不动),0.0
+engineer,sub,Engineer,Typhoon Attack Submarine,500,1600,0,0,,,,,0,0,,双方都无法击杀对方,
+engineer,terror,Engineer,Terrorist,500,200,0,0,,0.0,,0.0,0,2.0,,Terrorist 胜 (0.0s;对方打不动),
+engineer,tesla,Engineer,Tesla Coil,500,1500,0,65407,,0.0,,0.0,0,8.0,,Tesla Coil 胜 (0.0s;对方打不动),0.0
+engineer,ttnk,Engineer,Tesla Tank,500,1200,0,41176,,0.0,,0.0,0,5.0,,Tesla Tank 胜 (0.0s;对方打不动),0.0
+engineer,v3,Engineer,V3 Launcher,500,900,0,2500,,0.0,,0.0,0,18.0,,V3 Launcher 胜 (0.0s;对方打不动),0.0
+engineer,zep,Engineer,Kirov Airship,500,2000,0,37500,,0.0,,0.0,0,0.25,,Kirov Airship 胜 (0.0s;对方打不动),0.0
+fortress,apoc,B2 Spirit,Apocalypse Tank,2500,1750,17361,3294,,10.2,,10.2,2.5,8.0,,Apocalypse Tank 胜 (10.2s;对方打不动),1.13
+fortress,boris,B2 Spirit,Boris Bukov,2500,2000,17361,0,0.1,,0.1,,2.5,0,,B2 Spirit 胜 (0.1s;对方打不动),inf
+fortress,civan,B2 Spirit,Chrono Ivan,2500,1000,17361,0,0.1,,0.1,,2.5,0,,B2 Spirit 胜 (0.1s;对方打不动),inf
+fortress,deso,B2 Spirit,Desolator,2500,600,17361,0,0.1,,0.1,,2.5,0,,B2 Spirit 胜 (0.1s;对方打不动),inf
+fortress,deva,B2 Spirit,Devastator,2500,2200,17361,0,,,,,2.5,0,,双方都无法击杀对方,inf
+fortress,dog,B2 Spirit,Attack Dog,2500,200,17361,0,0.1,,0.1,,2.5,0,,B2 Spirit 胜 (0.1s;对方打不动),inf
+fortress,dred,B2 Spirit,Dreadnought,2500,2500,17361,0,,,,,2.5,0,,双方都无法击杀对方,inf
+fortress,dron,B2 Spirit,Terror Drone,2500,500,17361,0,0.0,,0.0,,2.5,0,,B2 Spirit 胜 (0.0s;对方打不动),inf
+fortress,dtruck,B2 Spirit,Demolition Truck,2500,1500,17361,0,0.1,,0.1,,2.5,0,,B2 Spirit 胜 (0.1s;对方打不动),inf
+fortress,e2,B2 Spirit,Conscript,2500,100,17361,0,0.1,,0.1,,2.5,0,,B2 Spirit 胜 (0.1s;对方打不动),inf
+fortress,engineer,B2 Spirit,Engineer,2500,500,17361,0,0.0,,0.0,,2.5,0,,B2 Spirit 胜 (0.0s;对方打不动),inf
+fortress,flakt,B2 Spirit,Flak Trooper,2500,300,17361,1600,0.1,21.0,1.4,21.0,2.5,8.0,,B2 Spirit 胜 (1.4s 击杀;对方需要 21.0s),0.44
+fortress,ftnk,B2 Spirit,Flame Tank,2500,900,17361,0,0.4,,0.4,,2.5,0,,B2 Spirit 胜 (0.4s;对方打不动),inf
+fortress,harv,B2 Spirit,War Miner,2500,1400,17361,0,,,,,2.5,0,,双方都无法击杀对方,inf
+fortress,havoc,B2 Spirit,Havoc Attack Helicopter,2500,1500,0,0,,,,,0,0,,双方都无法击杀对方,
+fortress,htk,B2 Spirit,Flak Track,2500,500,17361,2500,0.2,13.0,1.5,13.0,2.5,8.0,,B2 Spirit 胜 (1.5s 击杀;对方需要 13.0s),0.32
+fortress,htnk,B2 Spirit,Rhino Heavy Tank,2500,900,17361,0,0.4,,0.4,,2.5,0,,B2 Spirit 胜 (0.4s;对方打不动),inf
+fortress,hyd,B2 Spirit,Sea Scorpion,2500,600,17361,2500,0.1,13.0,2.3,13.0,2.5,12.0,,B2 Spirit 胜 (2.3s 击杀;对方需要 13.0s),0.7
+fortress,itrp,B2 Spirit,Iron Trooper,2500,1200,17361,0,0.1,,0.1,,2.5,0,,B2 Spirit 胜 (0.1s;对方打不动),inf
+fortress,ivan,B2 Spirit,Crazy Ivan,2500,600,17361,0,0.1,,0.1,,2.5,0,,B2 Spirit 胜 (0.1s;对方打不动),inf
+fortress,kite,B2 Spirit,Black Kite,2500,1500,0,0,,,,,0,0,,双方都无法击杀对方,
+fortress,naflak,B2 Spirit,Flak Cannon,2500,700,26042,6667,0.4,4.8,2.5,4.8,2.5,12.0,,B2 Spirit 胜 (2.5s 击杀;对方需要 4.8s),0.18
+fortress,nalasr,B2 Spirit,Sentry Gun,2500,500,26042,0,0.2,,0.2,,2.5,0,,B2 Spirit 胜 (0.2s;对方打不动),inf
+fortress,napost,B2 Spirit,Tesla Fence Post,2500,200,15625,0,,,,,2.5,0,,双方都无法击杀对方,inf
+fortress,schp,B2 Spirit,Siege Chopper,2500,1400,0,2500,,13.2,,13.2,0,6.0,,Siege Chopper 胜 (13.2s;对方打不动),0.0
+fortress,shk,B2 Spirit,Tesla Trooper,2500,300,17361,0,0.1,,0.1,,2.5,0,,B2 Spirit 胜 (0.1s;对方打不动),inf
+fortress,sqd,B2 Spirit,Giant Squid,2500,1000,17361,0,0.4,,0.4,,2.5,0,,B2 Spirit 胜 (0.4s;对方打不动),inf
+fortress,sray,B2 Spirit,Stingray,2500,900,17361,0,0.2,,0.2,,2.5,0,,B2 Spirit 胜 (0.2s;对方打不动),inf
+fortress,sub,B2 Spirit,Typhoon Attack Submarine,2500,1600,17361,0,,,,,2.5,0,,双方都无法击杀对方,inf
+fortress,terror,B2 Spirit,Terrorist,2500,200,17361,0,0.0,,0.0,,2.5,0,,B2 Spirit 胜 (0.0s;对方打不动),inf
+fortress,tesla,B2 Spirit,Tesla Coil,2500,1500,26042,0,0.4,,0.4,,2.5,0,,B2 Spirit 胜 (0.4s;对方打不动),inf
+fortress,ttnk,B2 Spirit,Tesla Tank,2500,1200,17361,0,0.2,,0.2,,2.5,0,,B2 Spirit 胜 (0.2s;对方打不动),inf
+fortress,v3,B2 Spirit,V3 Launcher,2500,900,17361,0,0.1,,0.1,,2.5,0,,B2 Spirit 胜 (0.1s;对方打不动),inf
+fortress,zep,B2 Spirit,Kirov Airship,2500,2000,0,0,,,,,0,0,,双方都无法击杀对方,
+fv,apoc,Infantry Fighting Vehicle,Apocalypse Tank,600,1750,955,7692,83.6,2.6,83.6,2.6,6.0,6.0,,Apocalypse Tank 胜 (2.6s 击杀;对方需要 83.6s),0.33
+fv,boris,Infantry Fighting Vehicle,Boris Bukov,600,2000,2727,8125,4.4,3.0,4.7,3.0,6.0,7.0,,Boris Bukov 胜 (3.0s 击杀;对方需要 4.7s),6.22
+fv,civan,Infantry Fighting Vehicle,Chrono Ivan,600,1000,2727,11905,4.4,5.0,4.4,7.5,6.0,1.5,Infantry Fighting Vehicle,Infantry Fighting Vehicle 胜 (4.4s 击杀;对方需要 7.5s),1.27
+fv,deso,Infantry Fighting Vehicle,Desolator,600,600,2455,2188,4.6,8.0,4.6,8.0,6.0,6.0,,Infantry Fighting Vehicle 胜 (4.6s 击杀;对方需要 8.0s),1.87
+fv,deva,Infantry Fighting Vehicle,Devastator,600,2200,955,7143,103.6,2.8,103.6,2.8,6.0,6.0,,Devastator 胜 (2.8s 击杀;对方需要 103.6s),0.45
+fv,dog,Infantry Fighting Vehicle,Attack Dog,600,200,2727,0,2.4,,2.4,,6.0,0,,Infantry Fighting Vehicle 胜 (2.4s;对方打不动),inf
+fv,dred,Infantry Fighting Vehicle,Dreadnought,600,2500,955,6250,83.6,0.4,88.8,0.4,6.0,25.0,,Dreadnought 胜 (0.4s 击杀;对方需要 88.8s),0.83
+fv,dron,Infantry Fighting Vehicle,Terror Drone,600,500,545,2174,17.6,11.0,17.6,11.8,6.0,3.0,,Terror Drone 胜 (11.8s 击杀;对方需要 17.6s),0.44
+fv,dtruck,Infantry Fighting Vehicle,Demolition Truck,600,1500,2727,0,4.4,0.0,4.4,1.8,6.0,2.0,Infantry Fighting Vehicle,Demolition Truck 胜 (1.8s 击杀;对方需要 4.4s),inf
+fv,e2,Infantry Fighting Vehicle,Conscript,600,100,2727,600,4.4,41.0,4.4,42.4,6.0,4.0,Infantry Fighting Vehicle,Infantry Fighting Vehicle 胜 (4.4s 击杀;对方需要 42.4s),0.25
+fv,engineer,Infantry Fighting Vehicle,Engineer,600,500,2727,0,2.4,,2.4,,6.0,0,,Infantry Fighting Vehicle 胜 (2.4s;对方打不动),inf
+fv,flakt,Infantry Fighting Vehicle,Flak Trooper,600,300,2727,2000,4.4,12.0,4.4,13.4,6.0,4.0,Infantry Fighting Vehicle,Infantry Fighting Vehicle 胜 (4.4s 击杀;对方需要 13.4s),0.68
+fv,ftnk,Infantry Fighting Vehicle,Flame Tank,600,900,955,6250,41.8,3.2,41.8,3.6,6.0,5.0,Infantry Fighting Vehicle,Flame Tank 胜 (3.6s 击杀;对方需要 41.8s),0.21
+fv,harv,Infantry Fighting Vehicle,War Miner,600,1400,955,1500,103.6,16.0,103.6,16.0,6.0,6.0,,War Miner 胜 (16.0s 击杀;对方需要 103.6s),0.87
+fv,havoc,Infantry Fighting Vehicle,Havoc Attack Helicopter,600,1500,2727,3333,9.0,6.2,9.0,6.7,8.0,6.0,,Havoc Attack Helicopter 胜 (6.7s 击杀;对方需要 9.0s),4.26
+fv,htk,Infantry Fighting Vehicle,Flak Track,600,500,2727,2500,9.0,9.0,9.0,9.3,6.0,5.0,Infantry Fighting Vehicle,Infantry Fighting Vehicle 胜 (9.0s 击杀;对方需要 9.3s),0.63
+fv,htnk,Infantry Fighting Vehicle,Rhino Heavy Tank,600,900,955,3462,41.8,5.2,41.8,5.2,6.0,6.0,,Rhino Heavy Tank 胜 (5.2s 击杀;对方需要 41.8s),0.39
+fv,hyd,Infantry Fighting Vehicle,Sea Scorpion,600,600,955,2500,20.0,9.0,20.0,9.3,6.0,5.0,Infantry Fighting Vehicle,Sea Scorpion 胜 (9.3s 击杀;对方需要 20.0s),0.48
+fv,itrp,Infantry Fighting Vehicle,Iron Trooper,600,1200,2455,0,4.6,,4.6,,6.0,0,,Infantry Fighting Vehicle 胜 (4.6s;对方打不动),inf
+fv,ivan,Infantry Fighting Vehicle,Crazy Ivan,600,600,2727,11905,4.4,5.0,4.4,7.5,6.0,1.5,Infantry Fighting Vehicle,Infantry Fighting Vehicle 胜 (4.4s 击杀;对方需要 7.5s),0.46
+fv,kite,Infantry Fighting Vehicle,Black Kite,600,1500,2727,5250,17.6,4.0,17.6,5.9,8.0,0.5,,Black Kite 胜 (5.9s 击杀;对方需要 17.6s),1.62
+fv,naflak,Infantry Fighting Vehicle,Flak Cannon,600,700,955,0,61.8,,61.8,,6.0,0,,Infantry Fighting Vehicle 胜 (61.8s;对方打不动),inf
+fv,nalasr,Infantry Fighting Vehicle,Sentry Gun,600,500,955,1857,41.8,12.6,41.8,12.6,6.0,6.0,,Sentry Gun 胜 (12.6s 击杀;对方需要 41.8s),0.22
+fv,napost,Infantry Fighting Vehicle,Tesla Fence Post,600,200,1636,1562,28.8,12.8,28.8,,6.0,3.0,Infantry Fighting Vehicle,Infantry Fighting Vehicle 胜 (28.8s;对方打不动),0.06
+fv,schp,Infantry Fighting Vehicle,Siege Chopper,600,1400,2727,2500,9.0,9.6,9.0,10.1,8.0,6.0,,Infantry Fighting Vehicle 胜 (9.0s 击杀;对方需要 10.1s),4.95
+fv,shk,Infantry Fighting Vehicle,Tesla Trooper,600,300,2455,2083,4.4,9.6,4.4,11.0,6.0,4.0,Infantry Fighting Vehicle,Infantry Fighting Vehicle 胜 (4.4s 击杀;对方需要 11.0s),0.57
+fv,sqd,Infantry Fighting Vehicle,Giant Squid,600,1000,2727,0,13.4,,13.4,,6.0,0,,Infantry Fighting Vehicle 胜 (13.4s;对方打不动),inf
+fv,sray,Infantry Fighting Vehicle,Stingray,600,900,2727,4667,9.0,3.0,9.0,3.5,6.0,5.0,Infantry Fighting Vehicle,Stingray 胜 (3.5s 击杀;对方需要 9.0s),1.1
+fv,sub,Infantry Fighting Vehicle,Typhoon Attack Submarine,600,1600,955,0,83.6,,83.6,,6.0,0,,Infantry Fighting Vehicle 胜 (83.6s;对方打不动),inf
+fv,terror,Infantry Fighting Vehicle,Terrorist,600,200,2727,0,2.2,0.0,2.2,1.8,6.0,2.0,Infantry Fighting Vehicle,Terrorist 胜 (1.8s 击杀;对方需要 2.2s),inf
+fv,tesla,Infantry Fighting Vehicle,Tesla Coil,600,1500,955,6541,61.8,3.4,62.3,3.4,6.0,8.0,,Tesla Coil 胜 (3.4s 击杀;对方需要 62.3s),0.38
+fv,ttnk,Infantry Fighting Vehicle,Tesla Tank,600,1200,955,4118,30.8,3.8,30.8,4.2,6.0,5.0,Infantry Fighting Vehicle,Tesla Tank 胜 (4.2s 击杀;对方需要 30.8s),0.77
+fv,v3,Infantry Fighting Vehicle,V3 Launcher,600,900,2727,2500,4.4,8.0,7.7,8.0,6.0,18.0,,Infantry Fighting Vehicle 胜 (7.7s 击杀;对方需要 8.0s),4.09
+fv,zep,Infantry Fighting Vehicle,Kirov Airship,600,2000,2727,26250,145.4,0.0,145.4,7.1,8.0,0.25,Infantry Fighting Vehicle,Kirov Airship 胜 (7.1s 击杀;对方需要 145.4s),0.07
+gagun,apoc,Gun Turret,Apocalypse Tank,650,1750,4688,5000,16.8,7.8,16.8,8.3,7.0,6.0,,Apocalypse Tank 胜 (8.3s 击杀;对方需要 16.8s),4.25
+gagun,boris,Gun Turret,Boris Bukov,650,2000,1250,0,9.6,,9.6,,7.0,0,,Gun Turret 胜 (9.6s;对方打不动),inf
+gagun,civan,Gun Turret,Chrono Ivan,650,1000,1250,11905,9.6,5.0,9.6,8.0,7.0,1.5,,Chrono Ivan 胜 (8.0s 击杀;对方需要 9.6s),0.99
+gagun,deso,Gun Turret,Desolator,650,600,938,0,14.4,,14.4,,7.0,0,,Gun Turret 胜 (14.4s;对方打不动),inf
+gagun,deva,Gun Turret,Devastator,650,2200,4688,4643,19.2,8.6,19.2,9.0,7.0,6.0,,Devastator 胜 (9.0s 击杀;对方需要 19.2s),5.78
+gagun,dog,Gun Turret,Attack Dog,650,200,1250,0,7.2,,7.2,,7.0,0,,Gun Turret 胜 (7.2s;对方打不动),inf
+gagun,dred,Gun Turret,Dreadnought,650,2500,4688,6250,16.8,6.4,,6.4,7.0,25.0,Dreadnought,Dreadnought 胜 (6.4s;对方打不动),6.93
+gagun,dron,Gun Turret,Terror Drone,650,500,3750,0,2.4,,2.4,,7.0,0,,Gun Turret 胜 (2.4s;对方打不动),inf
+gagun,dtruck,Gun Turret,Demolition Truck,650,1500,6250,0,0.0,0.0,0.0,2.3,7.0,2.0,,Gun Turret 胜 (0.0s 击杀;对方需要 2.3s),inf
+gagun,e2,Gun Turret,Conscript,650,100,1250,375,9.6,133.0,9.6,135.0,7.0,4.0,,Gun Turret 胜 (9.6s 击杀;对方需要 135.0s),0.32
+gagun,engineer,Gun Turret,Engineer,650,500,1250,0,7.2,,7.2,,7.0,0,,Gun Turret 胜 (7.2s;对方打不动),inf
+gagun,flakt,Gun Turret,Flak Trooper,650,300,1250,200,9.6,249.0,9.6,251.0,7.0,4.0,,Gun Turret 胜 (9.6s 击杀;对方需要 251.0s),5.33
+gagun,ftnk,Gun Turret,Flame Tank,650,900,4688,2188,7.2,22.4,7.2,23.2,7.0,5.0,,Gun Turret 胜 (7.2s 击杀;对方需要 23.2s),5.14
+gagun,harv,Gun Turret,War Miner,650,1400,6250,750,14.4,66.4,14.4,66.9,7.0,6.0,,Gun Turret 胜 (14.4s 击杀;对方需要 66.9s),19.33
+gagun,havoc,Gun Turret,Havoc Attack Helicopter,650,1500,0,4333,,9.6,,9.6,0,6.0,,Havoc Attack Helicopter 胜 (9.6s;对方打不动),0.0
+gagun,htk,Gun Turret,Flak Track,650,500,6250,250,2.4,199.0,2.4,199.6,7.0,5.0,,Gun Turret 胜 (2.4s 击杀;对方需要 199.6s),24.65
+gagun,htnk,Gun Turret,Rhino Heavy Tank,650,900,4688,2250,7.2,20.8,7.2,21.2,7.0,6.0,,Gun Turret 胜 (7.2s 击杀;对方需要 21.2s),4.99
+gagun,hyd,Gun Turret,Sea Scorpion,650,600,4688,250,2.4,199.0,2.4,199.6,7.0,5.0,,Gun Turret 胜 (2.4s 击杀;对方需要 199.6s),39.94
+gagun,itrp,Gun Turret,Iron Trooper,650,1200,938,0,14.4,,14.4,,7.0,0,,Gun Turret 胜 (14.4s;对方打不动),inf
+gagun,ivan,Gun Turret,Crazy Ivan,650,600,1250,11905,9.6,5.0,9.6,8.0,7.0,1.5,,Crazy Ivan 胜 (8.0s 击杀;对方需要 9.6s),0.36
+gagun,kite,Gun Turret,Black Kite,650,1500,0,2625,,18.0,,18.0,0,0.5,,Black Kite 胜 (18.0s;对方打不动),0.0
+gagun,naflak,Gun Turret,Flak Cannon,650,700,3438,0,16.8,,16.8,,7.0,0,,Gun Turret 胜 (16.8s;对方打不动),inf
+gagun,nalasr,Gun Turret,Sentry Gun,650,500,3438,1161,9.6,42.0,9.6,,7.0,6.0,,Gun Turret 胜 (9.6s;对方打不动),2.19
+gagun,napost,Gun Turret,Tesla Fence Post,650,200,2500,1562,19.2,28.8,19.2,,7.0,3.0,,Gun Turret 胜 (19.2s;对方打不动),0.15
+gagun,schp,Gun Turret,Siege Chopper,650,1400,0,250,,199.2,,199.2,0,6.0,,Siege Chopper 胜 (199.2s;对方打不动),0.0
+gagun,shk,Gun Turret,Tesla Trooper,650,300,938,1354,12.0,36.0,12.0,38.0,7.0,4.0,,Gun Turret 胜 (12.0s 击杀;对方需要 38.0s),0.57
+gagun,sqd,Gun Turret,Giant Squid,650,1000,6250,0,4.8,,4.8,,7.0,0,,Gun Turret 胜 (4.8s;对方打不动),inf
+gagun,sray,Gun Turret,Stingray,650,900,6250,3967,2.4,12.0,2.4,12.9,7.0,5.0,,Gun Turret 胜 (2.4s 击杀;对方需要 12.9s),5.03
+gagun,sub,Gun Turret,Typhoon Attack Submarine,650,1600,4688,0,16.8,,16.8,,7.0,0,,Gun Turret 胜 (16.8s;对方打不动),inf
+gagun,terror,Gun Turret,Terrorist,650,200,1250,0,4.8,0.0,4.8,2.3,7.0,2.0,,Terrorist 胜 (2.3s 击杀;对方需要 4.8s),inf
+gagun,tesla,Gun Turret,Tesla Coil,650,1500,3438,6541,16.8,6.9,,6.9,7.0,8.0,,Tesla Coil 胜 (6.9s;对方打不动),2.33
+gagun,ttnk,Gun Turret,Tesla Tank,650,1200,4688,3500,4.8,13.6,4.8,14.4,7.0,5.0,,Gun Turret 胜 (4.8s 击杀;对方需要 14.4s),7.61
+gagun,v3,Gun Turret,V3 Launcher,650,900,6250,2500,0.0,16.0,,16.0,7.0,18.0,V3 Launcher,V3 Launcher 胜 (16.0s;对方打不动),15.98
+gagun,zep,Gun Turret,Kirov Airship,650,2000,0,28125,,0.0,,0.0,0,0.25,,Kirov Airship 胜 (0.0s;对方打不动),0.0
+gamgun,apoc,Mirage Turret,Apocalypse Tank,800,1750,2679,5000,28.0,7.8,28.0,8.3,7.0,6.0,,Apocalypse Tank 胜 (8.3s 击杀;对方需要 28.0s),1.6
+gamgun,boris,Mirage Turret,Boris Bukov,800,2000,5357,0,0.0,,0.0,,7.0,0,,Mirage Turret 胜 (0.0s;对方打不动),inf
+gamgun,civan,Mirage Turret,Chrono Ivan,800,1000,5357,11905,0.0,5.0,0.0,8.0,7.0,1.5,,Mirage Turret 胜 (0.0s 击杀;对方需要 8.0s),2.81
+gamgun,deso,Mirage Turret,Desolator,800,600,4286,0,2.8,,2.8,,7.0,0,,Mirage Turret 胜 (2.8s;对方打不动),inf
+gamgun,deva,Mirage Turret,Devastator,800,2200,2679,4643,36.4,8.6,36.4,9.0,7.0,6.0,,Devastator 胜 (9.0s 击杀;对方需要 36.4s),2.18
+gamgun,dog,Mirage Turret,Attack Dog,800,200,5357,0,0.0,,0.0,,7.0,0,,Mirage Turret 胜 (0.0s;对方打不动),inf
+gamgun,dred,Mirage Turret,Dreadnought,800,2500,2679,6250,28.0,6.4,,6.4,7.0,25.0,Dreadnought,Dreadnought 胜 (6.4s;对方打不动),2.62
+gamgun,dron,Mirage Turret,Terror Drone,800,500,3571,0,0.0,,0.0,,7.0,0,,Mirage Turret 胜 (0.0s;对方打不动),inf
+gamgun,dtruck,Mirage Turret,Demolition Truck,800,1500,3571,0,2.8,0.0,2.8,2.3,7.0,2.0,,Demolition Truck 胜 (2.3s 击杀;对方需要 2.8s),inf
+gamgun,e2,Mirage Turret,Conscript,800,100,5357,375,0.0,133.0,0.0,135.0,7.0,4.0,,Mirage Turret 胜 (0.0s 击杀;对方需要 135.0s),0.89
+gamgun,engineer,Mirage Turret,Engineer,800,500,5357,0,0.0,,0.0,,7.0,0,,Mirage Turret 胜 (0.0s;对方打不动),inf
+gamgun,flakt,Mirage Turret,Flak Trooper,800,300,5357,200,0.0,249.0,0.0,251.0,7.0,4.0,,Mirage Turret 胜 (0.0s 击杀;对方需要 251.0s),15.07
+gamgun,ftnk,Mirage Turret,Flame Tank,800,900,2679,2188,14.0,22.4,14.0,23.2,7.0,5.0,,Mirage Turret 胜 (14.0s 击杀;对方需要 23.2s),1.94
+gamgun,harv,Mirage Turret,War Miner,800,1400,3571,750,25.2,66.4,25.2,66.9,7.0,6.0,,Mirage Turret 胜 (25.2s 击杀;对方需要 66.9s),7.29
+gamgun,havoc,Mirage Turret,Havoc Attack Helicopter,800,1500,0,4333,,9.6,,9.6,0,6.0,,Havoc Attack Helicopter 胜 (9.6s;对方打不动),0.0
+gamgun,htk,Mirage Turret,Flak Track,800,500,3571,250,5.6,199.0,5.6,199.6,7.0,5.0,,Mirage Turret 胜 (5.6s 击杀;对方需要 199.6s),9.3
+gamgun,htnk,Mirage Turret,Rhino Heavy Tank,800,900,2679,2250,14.0,20.8,14.0,21.2,7.0,6.0,,Mirage Turret 胜 (14.0s 击杀;对方需要 21.2s),1.88
+gamgun,hyd,Mirage Turret,Sea Scorpion,800,600,2679,250,5.6,199.0,5.6,199.6,7.0,5.0,,Mirage Turret 胜 (5.6s 击杀;对方需要 199.6s),15.07
+gamgun,itrp,Mirage Turret,Iron Trooper,800,1200,4286,0,2.8,,2.8,,7.0,0,,Mirage Turret 胜 (2.8s;对方打不动),inf
+gamgun,ivan,Mirage Turret,Crazy Ivan,800,600,5357,11905,0.0,5.0,0.0,8.0,7.0,1.5,,Mirage Turret 胜 (0.0s 击杀;对方需要 8.0s),1.01
+gamgun,kite,Mirage Turret,Black Kite,800,1500,0,2625,,18.0,,18.0,0,0.5,,Black Kite 胜 (18.0s;对方打不动),0.0
+gamgun,naflak,Mirage Turret,Flak Cannon,800,700,893,0,64.4,,64.4,,7.0,0,,Mirage Turret 胜 (64.4s;对方打不动),inf
+gamgun,nalasr,Mirage Turret,Sentry Gun,800,500,893,1161,42.0,42.0,42.0,,7.0,6.0,,Mirage Turret 胜 (42.0s;对方打不动),0.38
+gamgun,napost,Mirage Turret,Tesla Fence Post,800,200,536,1562,92.4,28.8,92.4,,7.0,3.0,,Mirage Turret 胜 (92.4s;对方打不动),0.02
+gamgun,schp,Mirage Turret,Siege Chopper,800,1400,0,250,,199.2,,199.2,0,6.0,,Siege Chopper 胜 (199.2s;对方打不动),0.0
+gamgun,shk,Mirage Turret,Tesla Trooper,800,300,4286,1354,2.8,36.0,2.8,38.0,7.0,4.0,,Mirage Turret 胜 (2.8s 击杀;对方需要 38.0s),1.71
+gamgun,sqd,Mirage Turret,Giant Squid,800,1000,3571,0,8.4,,8.4,,7.0,0,,Mirage Turret 胜 (8.4s;对方打不动),inf
+gamgun,sray,Mirage Turret,Stingray,800,900,3571,3967,5.6,12.0,5.6,12.9,7.0,5.0,,Mirage Turret 胜 (5.6s 击杀;对方需要 12.9s),1.9
+gamgun,sub,Mirage Turret,Typhoon Attack Submarine,800,1600,2679,0,28.0,,28.0,,7.0,0,,Mirage Turret 胜 (28.0s;对方打不动),inf
+gamgun,terror,Mirage Turret,Terrorist,800,200,5357,0,0.0,0.0,0.0,2.3,7.0,2.0,,Mirage Turret 胜 (0.0s 击杀;对方需要 2.3s),inf
+gamgun,tesla,Mirage Turret,Tesla Coil,800,1500,893,6541,64.4,6.9,,6.9,7.0,8.0,,Tesla Coil 胜 (6.9s;对方打不动),0.4
+gamgun,ttnk,Mirage Turret,Tesla Tank,800,1200,2679,3500,8.4,13.6,8.4,14.4,7.0,5.0,,Mirage Turret 胜 (8.4s 击杀;对方需要 14.4s),2.87
+gamgun,v3,Mirage Turret,V3 Launcher,800,900,3571,2500,2.8,16.0,,16.0,7.0,18.0,V3 Launcher,V3 Launcher 胜 (16.0s;对方打不动),6.03
+gamgun,zep,Mirage Turret,Kirov Airship,800,2000,0,28125,,0.0,,0.0,0,0.25,,Kirov Airship 胜 (0.0s;对方打不动),0.0
+gapill,apoc,Pill Box,Apocalypse Tank,500,1750,1161,5000,68.6,7.8,68.6,7.8,6.0,6.0,,Apocalypse Tank 胜 (7.8s 击杀;对方需要 68.6s),1.42
+gapill,boris,Pill Box,Boris Bukov,500,2000,5107,0,2.8,,2.8,,6.0,0,,Pill Box 胜 (2.8s;对方打不动),inf
+gapill,civan,Pill Box,Chrono Ivan,500,1000,5571,11905,1.4,5.0,1.4,7.5,6.0,1.5,,Pill Box 胜 (1.4s 击杀;对方需要 7.5s),5.99
+gapill,deso,Pill Box,Desolator,500,600,4643,0,2.8,,2.8,,6.0,0,,Pill Box 胜 (2.8s;对方打不动),inf
+gapill,deva,Pill Box,Devastator,500,2200,1161,4643,85.4,8.4,85.4,8.4,6.0,6.0,,Devastator 胜 (8.4s 击杀;对方需要 85.4s),1.94
+gapill,dog,Pill Box,Attack Dog,500,200,5571,0,1.4,,1.4,,6.0,0,,Pill Box 胜 (1.4s;对方打不动),inf
+gapill,dred,Pill Box,Dreadnought,500,2500,1161,6250,68.6,0.4,,0.4,6.0,25.0,Dreadnought,Dreadnought 胜 (0.4s;对方打不动),2.32
+gapill,dron,Pill Box,Terror Drone,500,500,4643,0,1.4,,1.4,,6.0,0,,Pill Box 胜 (1.4s;对方打不动),inf
+gapill,dtruck,Pill Box,Demolition Truck,500,1500,1857,0,7.0,0.0,7.0,1.8,6.0,2.0,,Demolition Truck 胜 (1.8s 击杀;对方需要 7.0s),inf
+gapill,e2,Pill Box,Conscript,500,100,5571,375,1.4,106.0,1.4,107.4,6.0,4.0,,Pill Box 胜 (1.4s 击杀;对方需要 107.4s),1.9
+gapill,engineer,Pill Box,Engineer,500,500,5571,0,1.4,,1.4,,6.0,0,,Pill Box 胜 (1.4s;对方打不动),inf
+gapill,flakt,Pill Box,Flak Trooper,500,300,5571,200,1.4,199.0,1.4,200.4,6.0,4.0,,Pill Box 胜 (1.4s 击杀;对方需要 200.4s),32.09
+gapill,ftnk,Pill Box,Flame Tank,500,900,1161,2188,33.6,17.6,33.6,18.0,6.0,5.0,,Flame Tank 胜 (18.0s 击杀;对方需要 33.6s),1.72
+gapill,harv,Pill Box,War Miner,500,1400,1161,750,85.4,52.8,85.4,52.8,6.0,6.0,,War Miner 胜 (52.8s 击杀;对方需要 85.4s),4.85
+gapill,havoc,Pill Box,Havoc Attack Helicopter,500,1500,0,4333,,9.0,,9.0,0,6.0,,Havoc Attack Helicopter 胜 (9.0s;对方打不动),0.0
+gapill,htk,Pill Box,Flak Track,500,500,1857,250,15.4,159.0,15.4,159.3,6.0,5.0,,Pill Box 胜 (15.4s 击杀;对方需要 159.3s),9.9
+gapill,htnk,Pill Box,Rhino Heavy Tank,500,900,1161,2250,33.6,15.6,33.6,15.6,6.0,6.0,,Rhino Heavy Tank 胜 (15.6s 击杀;对方需要 33.6s),1.67
+gapill,hyd,Pill Box,Sea Scorpion,500,600,1161,250,16.8,159.0,16.8,159.3,6.0,5.0,,Pill Box 胜 (16.8s 击杀;对方需要 159.3s),13.37
+gapill,itrp,Pill Box,Iron Trooper,500,1200,4643,0,2.8,,2.8,,6.0,0,,Pill Box 胜 (2.8s;对方打不动),inf
+gapill,ivan,Pill Box,Crazy Ivan,500,600,5571,11905,1.4,5.0,1.4,7.5,6.0,1.5,,Pill Box 胜 (1.4s 击杀;对方需要 7.5s),2.16
+gapill,kite,Pill Box,Black Kite,500,1500,0,2625,,14.0,,14.0,0,0.5,,Black Kite 胜 (14.0s;对方打不动),0.0
+gapill,naflak,Pill Box,Flak Cannon,500,700,1161,0,50.4,,50.4,,6.0,0,,Pill Box 胜 (50.4s;对方打不动),inf
+gapill,nalasr,Pill Box,Sentry Gun,500,500,1161,1161,33.6,33.6,33.6,33.6,6.0,6.0,,同归于尽 (33.6s),1.0
+gapill,napost,Pill Box,Tesla Fence Post,500,200,1393,1562,35.0,22.4,35.0,,6.0,3.0,,Pill Box 胜 (35.0s;对方打不动),0.11
+gapill,schp,Pill Box,Siege Chopper,500,1400,0,250,,159.6,,159.6,0,6.0,,Siege Chopper 胜 (159.6s;对方打不动),0.0
+gapill,shk,Pill Box,Tesla Trooper,500,300,4643,1354,1.4,28.8,1.4,30.2,6.0,4.0,,Pill Box 胜 (1.4s 击杀;对方需要 30.2s),3.8
+gapill,sqd,Pill Box,Giant Squid,500,1000,1857,0,21.0,,21.0,,6.0,0,,Pill Box 胜 (21.0s;对方打不动),inf
+gapill,sray,Pill Box,Stingray,500,900,1857,3967,15.4,9.0,15.4,9.5,6.0,5.0,,Stingray 胜 (9.5s 击杀;对方需要 15.4s),2.02
+gapill,sub,Pill Box,Typhoon Attack Submarine,500,1600,1161,0,68.6,,68.6,,6.0,0,,Pill Box 胜 (68.6s;对方打不动),inf
+gapill,terror,Pill Box,Terrorist,500,200,5107,0,1.4,0.0,1.4,1.8,6.0,2.0,,Pill Box 胜 (1.4s 击杀;对方需要 1.8s),inf
+gapill,tesla,Pill Box,Tesla Coil,500,1500,1161,6541,50.4,3.7,,3.7,6.0,8.0,,Tesla Coil 胜 (3.7s;对方打不动),1.06
+gapill,ttnk,Pill Box,Tesla Tank,500,1200,1161,3500,25.2,10.2,25.2,10.6,6.0,5.0,,Tesla Tank 胜 (10.6s 击杀;对方需要 25.2s),2.55
+gapill,v3,Pill Box,V3 Launcher,500,900,1857,2500,7.0,8.0,,8.0,6.0,18.0,V3 Launcher,V3 Launcher 胜 (8.0s;对方打不动),6.42
+gapill,zep,Pill Box,Kirov Airship,500,2000,0,28125,,0.0,,0.0,0,0.25,,Kirov Airship 胜 (0.0s;对方打不动),0.0
+ggi,apoc,Guardian G.I.,Apocalypse Tank,300,1750,375,1538,213.0,7.8,214.4,7.8,4.0,6.0,Apocalypse Tank,Apocalypse Tank 胜 (7.8s 击杀;对方需要 214.4s),1.3
+ggi,boris,Guardian G.I.,Boris Bukov,300,2000,1350,21667,11.0,0.0,13.0,0.0,4.0,7.0,Boris Bukov,Boris Bukov 胜 (0.0s 击杀;对方需要 13.0s),2.31
+ggi,civan,Guardian G.I.,Chrono Ivan,300,1000,1500,11905,8.0,5.0,8.0,6.4,4.0,1.5,,Chrono Ivan 胜 (6.4s 击杀;对方需要 8.0s),1.4
+ggi,deso,Guardian G.I.,Desolator,300,600,1200,3125,12.0,0.0,13.4,0.0,4.0,6.0,Desolator,Desolator 胜 (0.0s 击杀;对方需要 13.4s),1.28
+ggi,deva,Guardian G.I.,Devastator,300,2200,375,3571,266.0,2.8,267.4,2.8,4.0,6.0,Devastator,Devastator 胜 (2.8s 击杀;对方需要 267.4s),0.71
+ggi,dog,Guardian G.I.,Attack Dog,300,200,1500,62500,6.0,0.0,6.0,0.9,4.0,1.25,,Attack Dog 胜 (0.9s 击杀;对方需要 6.0s),0.01
+ggi,dred,Guardian G.I.,Dreadnought,300,2500,375,6250,213.0,0.0,227.3,0.0,4.0,25.0,Dreadnought,Dreadnought 胜 (0.0s 击杀;对方需要 227.3s),0.65
+ggi,dron,Guardian G.I.,Terror Drone,300,500,1500,62500,6.0,0.0,6.0,0.2,4.0,3.0,,Terror Drone 胜 (0.2s 击杀;对方需要 6.0s),0.08
+ggi,dtruck,Guardian G.I.,Demolition Truck,300,1500,600,0,24.0,0.0,24.0,0.9,4.0,2.0,,Demolition Truck 胜 (0.9s 击杀;对方需要 24.0s),inf
+ggi,e2,Guardian G.I.,Conscript,300,100,1500,1500,8.0,8.0,8.0,8.0,4.0,4.0,,同归于尽 (8.0s),0.11
+ggi,engineer,Guardian G.I.,Engineer,300,500,1500,0,6.0,,6.0,,4.0,0,,Guardian G.I. 胜 (6.0s;对方打不动),inf
+ggi,flakt,Guardian G.I.,Flak Trooper,300,300,1500,3000,8.0,4.0,8.0,4.0,4.0,4.0,,Flak Trooper 胜 (4.0s 击杀;对方需要 8.0s),0.5
+ggi,ftnk,Guardian G.I.,Flame Tank,300,900,375,9375,106.0,0.0,106.7,0.0,4.0,5.0,Flame Tank,Flame Tank 胜 (0.0s 击杀;对方需要 106.7s),0.11
+ggi,harv,Guardian G.I.,War Miner,300,1400,375,3750,266.0,3.2,267.4,3.2,4.0,6.0,War Miner,War Miner 胜 (3.2s 击杀;对方需要 267.4s),0.27
+ggi,havoc,Guardian G.I.,Havoc Attack Helicopter,300,1500,0,1000,,12.0,,12.0,0,6.0,,Havoc Attack Helicopter 胜 (12.0s;对方打不动),0.0
+ggi,htk,Guardian G.I.,Flak Track,300,500,600,3750,49.0,3.0,49.7,3.0,4.0,5.0,Flak Track,Flak Track 胜 (3.0s 击杀;对方需要 49.7s),0.19
+ggi,htnk,Guardian G.I.,Rhino Heavy Tank,300,900,375,692,106.0,15.6,107.4,15.6,4.0,6.0,Rhino Heavy Tank,Rhino Heavy Tank 胜 (15.6s 击杀;对方需要 107.4s),1.52
+ggi,hyd,Guardian G.I.,Sea Scorpion,300,600,375,3750,53.0,3.0,53.7,3.0,4.0,5.0,Sea Scorpion,Sea Scorpion 胜 (3.0s 击杀;对方需要 53.7s),0.25
+ggi,itrp,Guardian G.I.,Iron Trooper,300,1200,1200,8333,12.0,0.0,12.7,0.0,4.0,5.0,Iron Trooper,Iron Trooper 胜 (0.0s 击杀;对方需要 12.7s),1.92
+ggi,ivan,Guardian G.I.,Crazy Ivan,300,600,1500,11905,8.0,5.0,8.0,6.4,4.0,1.5,,Crazy Ivan 胜 (6.4s 击杀;对方需要 8.0s),0.5
+ggi,kite,Guardian G.I.,Black Kite,300,1500,0,7500,,0.0,,0.0,0,0.5,,Black Kite 胜 (0.0s;对方打不动),0.0
+ggi,naflak,Guardian G.I.,Flak Cannon,300,700,375,0,159.0,,159.0,,4.0,0,,Guardian G.I. 胜 (159.0s;对方打不动),inf
+ggi,nalasr,Guardian G.I.,Sentry Gun,300,500,375,5571,106.0,1.4,107.4,1.4,4.0,6.0,,Sentry Gun 胜 (1.4s 击杀;对方需要 107.4s),0.06
+ggi,napost,Guardian G.I.,Tesla Fence Post,300,200,450,1562,111.0,6.4,111.0,,4.0,3.0,Guardian G.I.,Guardian G.I. 胜 (111.0s;对方打不动),0.03
+ggi,schp,Guardian G.I.,Siege Chopper,300,1400,0,5000,,2.4,,2.4,0,6.0,,Siege Chopper 胜 (2.4s;对方打不动),0.0
+ggi,shk,Guardian G.I.,Tesla Trooper,300,300,1200,2083,10.0,4.8,10.0,4.8,4.0,4.0,,Tesla Trooper 胜 (4.8s 击杀;对方需要 10.0s),0.55
+ggi,sqd,Guardian G.I.,Giant Squid,300,1000,600,0,66.0,,66.0,,4.0,0,,Guardian G.I. 胜 (66.0s;对方打不动),inf
+ggi,sray,Guardian G.I.,Stingray,300,900,600,46667,49.0,0.0,49.7,0.0,4.0,5.0,Stingray,Stingray 胜 (0.0s 击杀;对方需要 49.7s),0.05
+ggi,sub,Guardian G.I.,Typhoon Attack Submarine,300,1600,375,0,213.0,,213.0,,4.0,0,,Guardian G.I. 胜 (213.0s;对方打不动),inf
+ggi,terror,Guardian G.I.,Terrorist,300,200,1350,0,5.0,0.0,5.0,0.9,4.0,2.0,,Terrorist 胜 (0.9s 击杀;对方需要 5.0s),inf
+ggi,tesla,Guardian G.I.,Tesla Coil,300,1500,375,65407,159.0,0.0,161.7,0.0,4.0,8.0,,Tesla Coil 胜 (0.0s 击杀;对方需要 161.7s),0.03
+ggi,ttnk,Guardian G.I.,Tesla Tank,300,1200,375,41176,79.0,0.0,79.7,0.0,4.0,5.0,Tesla Tank,Tesla Tank 胜 (0.0s 击杀;对方需要 79.7s),0.06
+ggi,v3,Guardian G.I.,V3 Launcher,300,900,600,2500,24.0,0.0,33.6,0.0,4.0,18.0,V3 Launcher,V3 Launcher 胜 (0.0s 击杀;对方需要 33.6s),1.8
+ggi,zep,Guardian G.I.,Kirov Airship,300,2000,0,37500,,0.0,,0.0,0,0.25,,Kirov Airship 胜 (0.0s;对方打不动),0.0
+ghost,apoc,Navy SEAL,Apocalypse Tank,800,1750,4083,1538,19.2,7.8,19.7,7.8,5.0,6.0,Apocalypse Tank,Apocalypse Tank 胜 (7.8s 击杀;对方需要 19.7s),1.98
+ghost,boris,Navy SEAL,Boris Bukov,800,2000,17500,21667,0.6,0.0,1.7,0.0,5.0,7.0,Boris Bukov,Boris Bukov 胜 (0.0s 击杀;对方需要 1.7s),4.21
+ghost,civan,Navy SEAL,Chrono Ivan,800,1000,23333,11905,0.0,5.0,0.0,6.9,5.0,1.5,Navy SEAL,Navy SEAL 胜 (0.0s 击杀;对方需要 6.9s),3.06
+ghost,deso,Navy SEAL,Desolator,800,600,11667,3125,1.2,0.0,1.7,0.0,5.0,6.0,,Desolator 胜 (0.0s 击杀;对方需要 1.7s),1.75
+ghost,deva,Navy SEAL,Devastator,800,2200,4083,3571,24.0,2.8,24.5,2.8,5.0,6.0,Devastator,Devastator 胜 (2.8s 击杀;对方需要 24.5s),1.08
+ghost,dog,Navy SEAL,Attack Dog,800,200,23333,62500,0.0,0.0,0.0,1.3,5.0,1.25,,Navy SEAL 胜 (0.0s 击杀;对方需要 1.3s),0.03
+ghost,dred,Navy SEAL,Dreadnought,800,2500,4083,6250,19.2,0.0,30.1,0.0,5.0,25.0,Dreadnought,Dreadnought 胜 (0.0s 击杀;对方需要 30.1s),1.0
+ghost,dron,Navy SEAL,Terror Drone,800,500,5833,62500,1.2,0.0,1.2,0.5,5.0,3.0,,Terror Drone 胜 (0.5s 击杀;对方需要 1.2s),0.05
+ghost,dtruck,Navy SEAL,Demolition Truck,800,1500,5833,0,2.4,0.0,2.4,1.4,5.0,2.0,,Demolition Truck 胜 (1.4s 击杀;对方需要 2.4s),inf
+ghost,e2,Navy SEAL,Conscript,800,100,23333,1350,0.0,9.0,0.0,9.7,5.0,4.0,Navy SEAL,Navy SEAL 胜 (0.0s 击杀;对方需要 9.7s),0.27
+ghost,engineer,Navy SEAL,Engineer,800,500,23333,0,0.0,,0.0,,5.0,0,,Navy SEAL 胜 (0.0s;对方打不动),inf
+ghost,flakt,Navy SEAL,Flak Trooper,800,300,23333,3000,0.0,4.0,0.0,4.7,5.0,4.0,Navy SEAL,Navy SEAL 胜 (0.0s 击杀;对方需要 4.7s),1.09
+ghost,ftnk,Navy SEAL,Flame Tank,800,900,4083,9375,9.6,0.0,9.6,0.0,5.0,5.0,,Flame Tank 胜 (0.0s 击杀;对方需要 9.6s),0.17
+ghost,harv,Navy SEAL,War Miner,800,1400,4083,3375,24.0,3.2,24.5,3.2,5.0,6.0,War Miner,War Miner 胜 (3.2s 击杀;对方需要 24.5s),0.46
+ghost,havoc,Navy SEAL,Havoc Attack Helicopter,800,1500,0,1000,,12.0,,12.0,0,6.0,,Havoc Attack Helicopter 胜 (12.0s;对方打不动),0.0
+ghost,htk,Navy SEAL,Flak Track,800,500,5833,3750,4.8,3.0,4.8,3.0,5.0,5.0,,Flak Track 胜 (3.0s 击杀;对方需要 4.8s),0.25
+ghost,htnk,Navy SEAL,Rhino Heavy Tank,800,900,4083,692,9.6,15.6,10.1,15.6,5.0,6.0,Rhino Heavy Tank,Navy SEAL 胜 (10.1s 击杀;对方需要 15.6s),2.33
+ghost,hyd,Navy SEAL,Sea Scorpion,800,600,4083,3750,4.8,3.0,4.8,3.0,5.0,5.0,,Sea Scorpion 胜 (3.0s 击杀;对方需要 4.8s),0.38
+ghost,itrp,Navy SEAL,Iron Trooper,800,1200,11667,8333,1.2,0.0,1.2,0.0,5.0,5.0,,Iron Trooper 胜 (0.0s 击杀;对方需要 1.2s),2.62
+ghost,ivan,Navy SEAL,Crazy Ivan,800,600,23333,11905,0.0,5.0,0.0,6.9,5.0,1.5,Navy SEAL,Navy SEAL 胜 (0.0s 击杀;对方需要 6.9s),1.1
+ghost,kite,Navy SEAL,Black Kite,800,1500,0,7500,,0.0,,0.0,0,0.5,,Black Kite 胜 (0.0s;对方打不动),0.0
+ghost,naflak,Navy SEAL,Flak Cannon,800,700,0,0,,,,,0,0,,双方都无法击杀对方,
+ghost,nalasr,Navy SEAL,Sentry Gun,800,500,0,5107,,1.4,,1.4,0,6.0,,Sentry Gun 胜 (1.4s;对方打不动),0.0
+ghost,napost,Navy SEAL,Tesla Fence Post,800,200,0,1562,,6.4,,6.4,0,3.0,,Tesla Fence Post 胜 (6.4s;对方打不动),0.0
+ghost,schp,Navy SEAL,Siege Chopper,800,1400,0,4500,,2.4,,2.4,0,6.0,,Siege Chopper 胜 (2.4s;对方打不动),0.0
+ghost,shk,Navy SEAL,Tesla Trooper,800,300,11667,2083,0.6,4.8,0.6,5.5,5.0,4.0,Navy SEAL,Navy SEAL 胜 (0.6s 击杀;对方需要 5.5s),0.76
+ghost,sqd,Navy SEAL,Giant Squid,800,1000,5833,0,6.6,,6.6,,5.0,0,,Navy SEAL 胜 (6.6s;对方打不动),inf
+ghost,sray,Navy SEAL,Stingray,800,900,5833,46667,4.8,0.0,4.8,0.0,5.0,5.0,,Stingray 胜 (0.0s 击杀;对方需要 4.8s),0.07
+ghost,sub,Navy SEAL,Typhoon Attack Submarine,800,1600,4083,0,19.2,,19.2,,5.0,0,,Navy SEAL 胜 (19.2s;对方打不动),inf
+ghost,terror,Navy SEAL,Terrorist,800,200,17500,0,0.0,0.0,0.0,1.4,5.0,2.0,,Navy SEAL 胜 (0.0s 击杀;对方需要 1.4s),inf
+ghost,tesla,Navy SEAL,Tesla Coil,800,1500,0,65407,,0.0,,0.0,0,8.0,,Tesla Coil 胜 (0.0s;对方打不动),0.0
+ghost,ttnk,Navy SEAL,Tesla Tank,800,1200,4083,41176,7.2,0.0,7.2,0.0,5.0,5.0,,Tesla Tank 胜 (0.0s 击杀;对方需要 7.2s),0.09
+ghost,v3,Navy SEAL,V3 Launcher,800,900,5833,2500,2.4,0.0,9.5,0.0,5.0,18.0,V3 Launcher,V3 Launcher 胜 (0.0s 击杀;对方需要 9.5s),2.46
+ghost,zep,Navy SEAL,Kirov Airship,800,2000,0,37500,,0.0,,0.0,0,0.25,,Kirov Airship 胜 (0.0s;对方打不动),0.0
+gren,apoc,Grenadier,Apocalypse Tank,250,1750,2000,1538,38.4,7.8,38.9,7.8,5.0,6.0,Apocalypse Tank,Apocalypse Tank 胜 (7.8s 击杀;对方需要 38.9s),9.95
+gren,boris,Grenadier,Boris Bukov,250,2000,3333,21667,2.4,0.0,3.5,0.0,5.0,7.0,Boris Bukov,Boris Bukov 胜 (0.0s 击杀;对方需要 3.5s),8.21
+gren,civan,Grenadier,Chrono Ivan,250,1000,3333,11905,2.4,5.0,2.4,6.9,5.0,1.5,Grenadier,Grenadier 胜 (2.4s 击杀;对方需要 6.9s),4.48
+gren,deso,Grenadier,Desolator,250,600,3333,3125,2.4,0.0,2.9,0.0,5.0,6.0,,Desolator 胜 (0.0s 击杀;对方需要 2.9s),5.12
+gren,deva,Grenadier,Devastator,250,2200,2000,3571,48.0,2.8,48.5,2.8,5.0,6.0,Devastator,Devastator 胜 (2.8s 击杀;对方需要 48.5s),5.42
+gren,dog,Grenadier,Attack Dog,250,200,3333,62500,2.4,0.0,2.4,1.3,5.0,1.25,,Attack Dog 胜 (1.3s 击杀;对方需要 2.4s),0.04
+gren,dred,Grenadier,Dreadnought,250,2500,2000,6250,38.4,0.0,49.3,0.0,5.0,25.0,Dreadnought,Dreadnought 胜 (0.0s 击杀;对方需要 49.3s),5.0
+gren,dron,Grenadier,Terror Drone,250,500,3333,62500,2.4,0.0,2.4,0.5,5.0,3.0,,Terror Drone 胜 (0.5s 击杀;对方需要 2.4s),0.27
+gren,dtruck,Grenadier,Demolition Truck,250,1500,2833,0,4.8,0.0,4.8,1.4,5.0,2.0,,Demolition Truck 胜 (1.4s 击杀;对方需要 4.8s),inf
+gren,e2,Grenadier,Conscript,250,100,3333,1350,2.4,9.0,2.4,9.7,5.0,4.0,Grenadier,Grenadier 胜 (2.4s 击杀;对方需要 9.7s),0.4
+gren,engineer,Grenadier,Engineer,250,500,3333,0,2.4,,2.4,,5.0,0,,Grenadier 胜 (2.4s;对方打不动),inf
+gren,flakt,Grenadier,Flak Trooper,250,300,3333,3000,2.4,4.0,2.4,4.7,5.0,4.0,Grenadier,Grenadier 胜 (2.4s 击杀;对方需要 4.7s),1.6
+gren,ftnk,Grenadier,Flame Tank,250,900,2000,9375,19.2,0.0,19.2,0.0,5.0,5.0,,Flame Tank 胜 (0.0s 击杀;对方需要 19.2s),0.86
+gren,harv,Grenadier,War Miner,250,1400,2000,3375,48.0,3.2,48.5,3.2,5.0,6.0,War Miner,War Miner 胜 (3.2s 击杀;对方需要 48.5s),2.32
+gren,havoc,Grenadier,Havoc Attack Helicopter,250,1500,0,1000,,12.0,,12.0,0,6.0,,Havoc Attack Helicopter 胜 (12.0s;对方打不动),0.0
+gren,htk,Grenadier,Flak Track,250,500,2833,3750,9.6,3.0,9.6,3.0,5.0,5.0,,Flak Track 胜 (3.0s 击杀;对方需要 9.6s),1.26
+gren,htnk,Grenadier,Rhino Heavy Tank,250,900,2000,692,19.2,15.6,19.7,15.6,5.0,6.0,Rhino Heavy Tank,Rhino Heavy Tank 胜 (15.6s 击杀;对方需要 19.7s),11.7
+gren,hyd,Grenadier,Sea Scorpion,250,600,2000,3750,9.6,3.0,9.6,3.0,5.0,5.0,,Sea Scorpion 胜 (3.0s 击杀;对方需要 9.6s),1.92
+gren,itrp,Grenadier,Iron Trooper,250,1200,3333,8333,2.4,0.0,2.4,0.0,5.0,5.0,,Iron Trooper 胜 (0.0s 击杀;对方需要 2.4s),7.68
+gren,ivan,Grenadier,Crazy Ivan,250,600,3333,11905,2.4,5.0,2.4,6.9,5.0,1.5,Grenadier,Grenadier 胜 (2.4s 击杀;对方需要 6.9s),1.61
+gren,kite,Grenadier,Black Kite,250,1500,0,7500,,0.0,,0.0,0,0.5,,Black Kite 胜 (0.0s;对方打不动),0.0
+gren,naflak,Grenadier,Flak Cannon,250,700,2500,0,21.6,,21.6,,5.0,0,,Grenadier 胜 (21.6s;对方打不动),inf
+gren,nalasr,Grenadier,Sentry Gun,250,500,2500,5107,14.4,1.4,14.9,1.4,5.0,6.0,,Sentry Gun 胜 (1.4s 击杀;对方需要 14.9s),0.61
+gren,napost,Grenadier,Tesla Fence Post,250,200,3000,1562,14.4,6.4,14.4,,5.0,3.0,Grenadier,Grenadier 胜 (14.4s;对方打不动),0.31
+gren,schp,Grenadier,Siege Chopper,250,1400,0,4500,,2.4,,2.4,0,6.0,,Siege Chopper 胜 (2.4s;对方打不动),0.0
+gren,shk,Grenadier,Tesla Trooper,250,300,3333,2083,2.4,4.8,2.4,5.5,5.0,4.0,Grenadier,Grenadier 胜 (2.4s 击杀;对方需要 5.5s),2.22
+gren,sqd,Grenadier,Giant Squid,250,1000,2833,0,12.0,,12.0,,5.0,0,,Grenadier 胜 (12.0s;对方打不动),inf
+gren,sray,Grenadier,Stingray,250,900,2833,46667,9.6,0.0,9.6,0.0,5.0,5.0,,Stingray 胜 (0.0s 击杀;对方需要 9.6s),0.33
+gren,sub,Grenadier,Typhoon Attack Submarine,250,1600,2000,0,38.4,,38.4,,5.0,0,,Grenadier 胜 (38.4s;对方打不动),inf
+gren,terror,Grenadier,Terrorist,250,200,3333,0,0.0,0.0,0.0,1.4,5.0,2.0,,Grenadier 胜 (0.0s 击杀;对方需要 1.4s),inf
+gren,tesla,Grenadier,Tesla Coil,250,1500,2500,65407,21.6,0.0,23.2,0.0,5.0,8.0,,Tesla Coil 胜 (0.0s 击杀;对方需要 23.2s),0.29
+gren,ttnk,Grenadier,Tesla Tank,250,1200,2000,41176,14.4,0.0,14.4,0.0,5.0,5.0,,Tesla Tank 胜 (0.0s 击杀;对方需要 14.4s),0.47
+gren,v3,Grenadier,V3 Launcher,250,900,2833,2500,4.8,0.0,11.9,0.0,5.0,18.0,V3 Launcher,V3 Launcher 胜 (0.0s 击杀;对方需要 11.9s),12.24
+gren,zep,Grenadier,Kirov Airship,250,2000,0,37500,,0.0,,0.0,0,0.25,,Kirov Airship 胜 (0.0s;对方打不动),0.0
+gtgcan,apoc,Grand Cannon,Apocalypse Tank,1500,1750,3750,5000,20.0,15.6,20.0,20.5,15.0,6.0,,Grand Cannon 胜 (20.0s 击杀;对方需要 20.5s),1.15
+gtgcan,boris,Grand Cannon,Boris Bukov,1500,2000,3750,0,0.0,,0.0,,15.0,0,,Grand Cannon 胜 (0.0s;对方打不动),inf
+gtgcan,civan,Grand Cannon,Chrono Ivan,1500,1000,3750,11905,0.0,10.0,0.0,17.4,15.0,1.5,,Grand Cannon 胜 (0.0s 击杀;对方需要 17.4s),1.01
+gtgcan,deso,Grand Cannon,Desolator,1500,600,3750,0,0.0,,0.0,,15.0,0,,Grand Cannon 胜 (0.0s;对方打不动),inf
+gtgcan,deva,Grand Cannon,Devastator,1500,2200,3750,4643,24.0,17.0,24.0,20.5,15.0,6.0,,Devastator 胜 (20.5s 击杀;对方需要 24.0s),1.56
+gtgcan,dog,Grand Cannon,Attack Dog,1500,200,3750,0,0.0,,0.0,,15.0,0,,Grand Cannon 胜 (0.0s;对方打不动),inf
+gtgcan,dred,Grand Cannon,Dreadnought,1500,2500,3750,6250,20.0,12.8,,12.8,15.0,25.0,Dreadnought,Dreadnought 胜 (12.8s;对方打不动),1.88
+gtgcan,dron,Grand Cannon,Terror Drone,1500,500,3750,0,0.0,,0.0,,15.0,0,,Grand Cannon 胜 (0.0s;对方打不动),inf
+gtgcan,dtruck,Grand Cannon,Demolition Truck,1500,1500,3750,0,0.0,0.0,0.0,5.9,15.0,2.0,,Grand Cannon 胜 (0.0s 击杀;对方需要 5.9s),inf
+gtgcan,e2,Grand Cannon,Conscript,1500,100,3750,375,0.0,239.0,0.0,246.5,15.0,4.0,,Grand Cannon 胜 (0.0s 击杀;对方需要 246.5s),0.32
+gtgcan,engineer,Grand Cannon,Engineer,1500,500,3750,0,0.0,,0.0,,15.0,0,,Grand Cannon 胜 (0.0s;对方打不动),inf
+gtgcan,flakt,Grand Cannon,Flak Trooper,1500,300,3750,200,0.0,449.0,0.0,456.5,15.0,4.0,,Grand Cannon 胜 (0.0s 击杀;对方需要 456.5s),5.4
+gtgcan,ftnk,Grand Cannon,Flame Tank,1500,900,3750,2188,8.0,40.0,8.0,43.9,15.0,5.0,,Grand Cannon 胜 (8.0s 击杀;对方需要 43.9s),1.39
+gtgcan,harv,Grand Cannon,War Miner,1500,1400,3750,750,24.0,119.2,24.0,124.1,15.0,6.0,,Grand Cannon 胜 (24.0s 击杀;对方需要 124.1s),3.92
+gtgcan,havoc,Grand Cannon,Havoc Attack Helicopter,1500,1500,0,4333,,18.6,,18.6,0,6.0,,Havoc Attack Helicopter 胜 (18.6s;对方打不动),0.0
+gtgcan,htk,Grand Cannon,Flak Track,1500,500,3750,250,4.0,359.0,4.0,362.0,15.0,5.0,,Grand Cannon 胜 (4.0s 击杀;对方需要 362.0s),5.0
+gtgcan,htnk,Grand Cannon,Rhino Heavy Tank,1500,900,3750,2250,8.0,39.0,8.0,42.5,15.0,6.0,,Grand Cannon 胜 (8.0s 击杀;对方需要 42.5s),1.35
+gtgcan,hyd,Grand Cannon,Sea Scorpion,1500,600,3750,250,4.0,359.0,4.0,362.0,15.0,5.0,,Grand Cannon 胜 (4.0s 击杀;对方需要 362.0s),10.8
+gtgcan,itrp,Grand Cannon,Iron Trooper,1500,1200,3750,0,0.0,,0.0,,15.0,0,,Grand Cannon 胜 (0.0s;对方打不动),inf
+gtgcan,ivan,Grand Cannon,Crazy Ivan,1500,600,3750,11905,0.0,10.0,0.0,17.4,15.0,1.5,,Grand Cannon 胜 (0.0s 击杀;对方需要 17.4s),0.36
+gtgcan,kite,Grand Cannon,Black Kite,1500,1500,0,2625,,34.0,,34.0,0,0.5,,Black Kite 胜 (34.0s;对方打不动),0.0
+gtgcan,naflak,Grand Cannon,Flak Cannon,1500,700,3750,0,12.0,,12.0,,15.0,0,,Grand Cannon 胜 (12.0s;对方打不动),inf
+gtgcan,nalasr,Grand Cannon,Sentry Gun,1500,500,3750,1161,8.0,77.0,8.0,,15.0,6.0,,Grand Cannon 胜 (8.0s;对方打不动),0.81
+gtgcan,napost,Grand Cannon,Tesla Fence Post,1500,200,3375,1562,12.0,54.4,12.0,,15.0,3.0,,Grand Cannon 胜 (12.0s;对方打不动),0.07
+gtgcan,schp,Grand Cannon,Siege Chopper,1500,1400,0,250,,358.8,,358.8,0,6.0,,Siege Chopper 胜 (358.8s;对方打不动),0.0
+gtgcan,shk,Grand Cannon,Tesla Trooper,1500,300,3750,1354,0.0,64.8,0.0,72.3,15.0,4.0,,Grand Cannon 胜 (0.0s 击杀;对方需要 72.3s),0.77
+gtgcan,sqd,Grand Cannon,Giant Squid,1500,1000,3750,0,8.0,,8.0,,15.0,0,,Grand Cannon 胜 (8.0s;对方打不动),inf
+gtgcan,sray,Grand Cannon,Stingray,1500,900,3750,3967,4.0,21.0,4.0,25.6,15.0,5.0,,Grand Cannon 胜 (4.0s 击杀;对方需要 25.6s),1.02
+gtgcan,sub,Grand Cannon,Typhoon Attack Submarine,1500,1600,3750,0,20.0,,20.0,,15.0,0,,Grand Cannon 胜 (20.0s;对方打不动),inf
+gtgcan,terror,Grand Cannon,Terrorist,1500,200,3750,0,0.0,,0.0,,15.0,2.0,,Grand Cannon 胜 (0.0s;对方打不动),inf
+gtgcan,tesla,Grand Cannon,Tesla Coil,1500,1500,3750,6541,12.0,10.6,12.0,,15.0,8.0,,Grand Cannon 胜 (12.0s;对方打不动),0.86
+gtgcan,ttnk,Grand Cannon,Tesla Tank,1500,1200,3750,3500,4.0,24.2,4.0,28.1,15.0,5.0,,Grand Cannon 胜 (4.0s 击杀;对方需要 28.1s),2.06
+gtgcan,v3,Grand Cannon,V3 Launcher,1500,900,3750,2500,0.0,32.0,,32.0,15.0,18.0,V3 Launcher,V3 Launcher 胜 (32.0s;对方打不动),3.24
+gtgcan,zep,Grand Cannon,Kirov Airship,1500,2000,0,28125,,2.0,,2.0,0,0.25,,Kirov Airship 胜 (2.0s;对方打不动),0.0
+hwtz,apoc,Howitzer,Apocalypse Tank,900,1750,2386,7692,30.8,0.0,30.8,2.2,10.0,6.0,Howitzer,Apocalypse Tank 胜 (2.2s 击杀;对方需要 30.8s),0.29
+hwtz,boris,Howitzer,Boris Bukov,900,2000,3977,8125,0.0,2.4,0.0,4.0,10.0,7.0,Howitzer,Howitzer 胜 (0.0s 击杀;对方需要 4.0s),3.22
+hwtz,civan,Howitzer,Chrono Ivan,900,1000,3977,11905,0.0,5.0,0.0,9.6,10.0,1.5,Howitzer,Howitzer 胜 (0.0s 击杀;对方需要 9.6s),0.66
+hwtz,deso,Howitzer,Desolator,900,600,3977,2188,0.0,8.0,0.0,10.7,10.0,6.0,Howitzer,Howitzer 胜 (0.0s 击杀;对方需要 10.7s),1.08
+hwtz,deva,Howitzer,Devastator,900,2200,2386,7143,39.6,0.2,39.6,1.8,10.0,6.0,Howitzer,Devastator 胜 (1.8s 击杀;对方需要 39.6s),0.4
+hwtz,dog,Howitzer,Attack Dog,900,200,3977,0,0.0,,0.0,,10.0,0,,Howitzer 胜 (0.0s;对方打不动),inf
+hwtz,dred,Howitzer,Dreadnought,900,2500,2386,6250,30.8,0.0,36.7,0.0,10.0,25.0,,Dreadnought 胜 (0.0s 击杀;对方需要 36.7s),0.74
+hwtz,dron,Howitzer,Terror Drone,900,500,3977,2174,0.0,7.4,0.0,9.1,10.0,3.0,,Howitzer 胜 (0.0s 击杀;对方需要 9.1s),1.13
+hwtz,dtruck,Howitzer,Demolition Truck,900,1500,3381,0,4.4,0.0,4.4,3.6,10.0,2.0,Howitzer,Demolition Truck 胜 (3.6s 击杀;对方需要 4.4s),inf
+hwtz,e2,Howitzer,Conscript,900,100,3977,600,0.0,33.0,0.0,37.1,10.0,4.0,Howitzer,Howitzer 胜 (0.0s 击杀;对方需要 37.1s),0.13
+hwtz,engineer,Howitzer,Engineer,900,500,3977,0,0.0,,0.0,,10.0,0,,Howitzer 胜 (0.0s;对方打不动),inf
+hwtz,flakt,Howitzer,Flak Trooper,900,300,3977,2000,0.0,9.0,0.0,13.1,10.0,4.0,Howitzer,Howitzer 胜 (0.0s 击杀;对方需要 13.1s),0.35
+hwtz,ftnk,Howitzer,Flame Tank,900,900,2386,6250,13.2,1.6,13.2,3.6,10.0,5.0,Howitzer,Flame Tank 胜 (3.6s 击杀;对方需要 13.2s),0.19
+hwtz,harv,Howitzer,War Miner,900,1400,2386,1500,39.6,12.8,39.6,15.0,10.0,6.0,Howitzer,War Miner 胜 (15.0s 击杀;对方需要 39.6s),0.77
+hwtz,havoc,Howitzer,Havoc Attack Helicopter,900,1500,0,3333,,3.6,,3.6,0,6.0,,Havoc Attack Helicopter 胜 (3.6s;对方打不动),0.0
+hwtz,htk,Howitzer,Flak Track,900,500,3381,2500,8.8,7.0,8.8,8.5,10.0,5.0,,Flak Track 胜 (8.5s 击杀;对方需要 8.8s),0.28
+hwtz,htnk,Howitzer,Rhino Heavy Tank,900,900,2386,3462,13.2,5.2,13.2,6.8,10.0,6.0,Howitzer,Rhino Heavy Tank 胜 (6.8s 击杀;对方需要 13.2s),0.34
+hwtz,hyd,Howitzer,Sea Scorpion,900,600,2386,2500,4.4,7.0,4.4,8.5,10.0,5.0,,Howitzer 胜 (4.4s 击杀;对方需要 8.5s),0.42
+hwtz,itrp,Howitzer,Iron Trooper,900,1200,3977,0,0.0,,0.0,,10.0,0,,Howitzer 胜 (0.0s;对方打不动),inf
+hwtz,ivan,Howitzer,Crazy Ivan,900,600,3977,11905,0.0,5.0,0.0,9.6,10.0,1.5,Howitzer,Howitzer 胜 (0.0s 击杀;对方需要 9.6s),0.24
+hwtz,kite,Howitzer,Black Kite,900,1500,0,5250,,2.0,,2.0,0,0.5,,Black Kite 胜 (2.0s;对方打不动),0.0
+hwtz,naflak,Howitzer,Flak Cannon,900,700,2585,0,22.0,,22.0,,10.0,0,,Howitzer 胜 (22.0s;对方打不动),inf
+hwtz,nalasr,Howitzer,Sentry Gun,900,500,2585,1857,13.2,9.8,13.2,,10.0,6.0,Howitzer,Howitzer 胜 (13.2s;对方打不动),0.21
+hwtz,napost,Howitzer,Tesla Fence Post,900,200,1989,1562,22.0,9.6,22.0,,10.0,3.0,Howitzer,Howitzer 胜 (22.0s;对方打不动),0.03
+hwtz,schp,Howitzer,Siege Chopper,900,1400,0,2500,,7.2,,7.2,0,6.0,,Siege Chopper 胜 (7.2s;对方打不动),0.0
+hwtz,shk,Howitzer,Tesla Trooper,900,300,3977,2083,0.0,7.2,0.0,11.3,10.0,4.0,Howitzer,Howitzer 胜 (0.0s 击杀;对方需要 11.3s),0.33
+hwtz,sqd,Howitzer,Giant Squid,900,1000,3381,0,8.8,,8.8,,10.0,0,,Howitzer 胜 (8.8s;对方打不动),inf
+hwtz,sray,Howitzer,Stingray,900,900,3381,4667,8.8,3.0,8.8,5.3,10.0,5.0,Howitzer,Stingray 胜 (5.3s 击杀;对方需要 8.8s),0.48
+hwtz,sub,Howitzer,Typhoon Attack Submarine,900,1600,2386,0,30.8,,30.8,,10.0,0,,Howitzer 胜 (30.8s;对方打不动),inf
+hwtz,terror,Howitzer,Terrorist,900,200,3977,0,0.0,0.0,0.0,3.6,10.0,2.0,Howitzer,Howitzer 胜 (0.0s 击杀;对方需要 3.6s),inf
+hwtz,tesla,Howitzer,Tesla Coil,900,1500,2585,6541,22.0,0.2,22.0,,10.0,8.0,Howitzer,Howitzer 胜 (22.0s;对方打不动),0.37
+hwtz,ttnk,Howitzer,Tesla Tank,900,1200,2386,4118,8.8,3.4,8.8,5.4,10.0,5.0,Howitzer,Tesla Tank 胜 (5.4s 击杀;对方需要 8.8s),0.69
+hwtz,v3,Howitzer,V3 Launcher,900,900,3381,2500,4.4,0.0,7.5,0.0,10.0,18.0,,V3 Launcher 胜 (0.0s 击杀;对方需要 7.5s),1.8
+hwtz,zep,Howitzer,Kirov Airship,900,2000,0,26250,,0.0,,0.0,0,0.25,,Kirov Airship 胜 (0.0s;对方打不动),0.0
+jumpjet,apoc,Rocketeer,Apocalypse Tank,450,1750,833,3294,94.8,3.4,95.8,3.4,4.0,8.0,,Apocalypse Tank 胜 (3.4s 击杀;对方需要 95.8s),0.6
+jumpjet,boris,Rocketeer,Boris Bukov,450,2000,2083,0,6.0,,6.0,,4.0,0,,Rocketeer 胜 (6.0s;对方打不动),inf
+jumpjet,civan,Rocketeer,Chrono Ivan,450,1000,2083,11905,4.8,5.0,4.8,6.4,4.0,1.5,Rocketeer,Rocketeer 胜 (4.8s 击杀;对方需要 6.4s),0.86
+jumpjet,deso,Rocketeer,Desolator,450,600,1667,0,8.4,,8.4,,4.0,0,,Rocketeer 胜 (8.4s;对方打不动),inf
+jumpjet,deva,Rocketeer,Devastator,450,2200,833,0,118.8,,118.8,,4.0,0,,Rocketeer 胜 (118.8s;对方打不动),inf
+jumpjet,dog,Rocketeer,Attack Dog,450,200,2083,0,4.8,,4.8,,4.0,0,,Rocketeer 胜 (4.8s;对方打不动),inf
+jumpjet,dred,Rocketeer,Dreadnought,450,2500,833,0,94.8,,94.8,,4.0,0,,Rocketeer 胜 (94.8s;对方打不动),inf
+jumpjet,dron,Rocketeer,Terror Drone,450,500,2083,0,3.6,,3.6,,4.0,0,,Rocketeer 胜 (3.6s;对方打不动),inf
+jumpjet,dtruck,Rocketeer,Demolition Truck,450,1500,1042,0,13.2,,13.2,,4.0,0,,Rocketeer 胜 (13.2s;对方打不动),inf
+jumpjet,e2,Rocketeer,Conscript,450,100,2083,0,4.8,,4.8,,4.0,0,,Rocketeer 胜 (4.8s;对方打不动),inf
+jumpjet,engineer,Rocketeer,Engineer,450,500,2083,0,3.6,,3.6,,4.0,0,,Rocketeer 胜 (3.6s;对方打不动),inf
+jumpjet,flakt,Rocketeer,Flak Trooper,450,300,2083,1600,4.8,7.0,5.8,7.0,4.0,8.0,,Rocketeer 胜 (5.8s 击杀;对方需要 7.0s),0.58
+jumpjet,ftnk,Rocketeer,Flame Tank,450,900,833,0,46.8,,46.8,,4.0,0,,Rocketeer 胜 (46.8s;对方打不动),inf
+jumpjet,harv,Rocketeer,War Miner,450,1400,833,0,118.8,,118.8,,4.0,0,,Rocketeer 胜 (118.8s;对方打不动),inf
+jumpjet,havoc,Rocketeer,Havoc Attack Helicopter,450,1500,1042,0,27.6,,27.6,,5.0,0,,Rocketeer 胜 (27.6s;对方打不动),inf
+jumpjet,htk,Rocketeer,Flak Track,450,500,1042,2500,27.6,4.0,28.6,4.0,4.0,8.0,,Flak Track 胜 (4.0s 击杀;对方需要 28.6s),0.21
+jumpjet,htnk,Rocketeer,Rhino Heavy Tank,450,900,833,0,46.8,,46.8,,4.0,0,,Rocketeer 胜 (46.8s;对方打不动),inf
+jumpjet,hyd,Rocketeer,Sea Scorpion,450,600,833,2500,22.8,4.0,24.8,4.0,4.0,12.0,,Sea Scorpion 胜 (4.0s 击杀;对方需要 24.8s),0.37
+jumpjet,itrp,Rocketeer,Iron Trooper,450,1200,1667,0,8.4,,8.4,,4.0,0,,Rocketeer 胜 (8.4s;对方打不动),inf
+jumpjet,ivan,Rocketeer,Crazy Ivan,450,600,2083,11905,4.8,5.0,4.8,6.4,4.0,1.5,Rocketeer,Rocketeer 胜 (4.8s 击杀;对方需要 6.4s),0.31
+jumpjet,kite,Rocketeer,Black Kite,450,1500,1042,0,46.8,,46.8,,5.0,0,,Rocketeer 胜 (46.8s;对方打不动),inf
+jumpjet,naflak,Rocketeer,Flak Cannon,450,700,521,6667,114.0,1.8,116.0,1.8,4.0,12.0,,Flak Cannon 胜 (1.8s 击杀;对方需要 116.0s),0.04
+jumpjet,nalasr,Rocketeer,Sentry Gun,450,500,521,0,75.6,,75.6,,4.0,0,,Rocketeer 胜 (75.6s;对方打不动),inf
+jumpjet,napost,Rocketeer,Tesla Fence Post,450,200,625,0,79.2,,79.2,,4.0,0,,Rocketeer 胜 (79.2s;对方打不动),inf
+jumpjet,schp,Rocketeer,Siege Chopper,450,1400,1042,2500,27.6,4.8,27.8,4.8,5.0,6.0,Siege Chopper,Siege Chopper 胜 (4.8s 击杀;对方需要 27.8s),1.68
+jumpjet,shk,Rocketeer,Tesla Trooper,450,300,1667,0,7.2,,7.2,,4.0,0,,Rocketeer 胜 (7.2s;对方打不动),inf
+jumpjet,sqd,Rocketeer,Giant Squid,450,1000,1042,0,37.2,,37.2,,4.0,0,,Rocketeer 胜 (37.2s;对方打不动),inf
+jumpjet,sray,Rocketeer,Stingray,450,900,1042,0,27.6,,27.6,,4.0,0,,Rocketeer 胜 (27.6s;对方打不动),inf
+jumpjet,sub,Rocketeer,Typhoon Attack Submarine,450,1600,833,0,94.8,,94.8,,4.0,0,,Rocketeer 胜 (94.8s;对方打不动),inf
+jumpjet,terror,Rocketeer,Terrorist,450,200,2083,0,2.4,,2.4,,4.0,0,,Rocketeer 胜 (2.4s;对方打不动),inf
+jumpjet,tesla,Rocketeer,Tesla Coil,450,1500,521,0,114.0,,114.0,,4.0,0,,Rocketeer 胜 (114.0s;对方打不动),inf
+jumpjet,ttnk,Rocketeer,Tesla Tank,450,1200,833,0,34.8,,34.8,,4.0,0,,Rocketeer 胜 (34.8s;对方打不动),inf
+jumpjet,v3,Rocketeer,V3 Launcher,450,900,1042,0,13.2,,13.2,,4.0,0,,Rocketeer 胜 (13.2s;对方打不动),inf
+jumpjet,zep,Rocketeer,Kirov Airship,450,2000,1042,0,382.8,,382.8,,5.0,0,,Rocketeer 胜 (382.8s;对方打不动),inf
+mgtk,apoc,Mirage Tank,Apocalypse Tank,1000,1750,2679,5769,28.0,2.6,28.0,3.1,7.0,6.0,Mirage Tank,Apocalypse Tank 胜 (3.1s 击杀;对方需要 28.0s),0.36
+mgtk,boris,Mirage Tank,Boris Bukov,1000,2000,3571,5417,2.8,3.6,2.8,3.6,7.0,7.0,,Mirage Tank 胜 (2.8s 击杀;对方需要 3.6s),3.52
+mgtk,civan,Mirage Tank,Chrono Ivan,1000,1000,3571,11905,2.8,5.0,2.8,8.0,7.0,1.5,Mirage Tank,Mirage Tank 胜 (2.8s 击杀;对方需要 8.0s),0.48
+mgtk,deso,Mirage Tank,Desolator,1000,600,2857,469,2.8,40.0,2.8,40.7,7.0,6.0,Mirage Tank,Mirage Tank 胜 (2.8s 击杀;对方需要 40.7s),2.93
+mgtk,deva,Mirage Tank,Devastator,1000,2200,2679,5357,36.4,2.8,36.4,3.2,7.0,6.0,Mirage Tank,Devastator 胜 (3.2s 击杀;对方需要 36.4s),0.48
+mgtk,dog,Mirage Tank,Attack Dog,1000,200,3571,0,2.8,,2.8,,7.0,0,,Mirage Tank 胜 (2.8s;对方打不动),inf
+mgtk,dred,Mirage Tank,Dreadnought,1000,2500,2679,4375,28.0,0.4,34.1,0.4,7.0,25.0,,Dreadnought 胜 (0.4s 击杀;对方需要 34.1s),0.96
+mgtk,dron,Mirage Tank,Terror Drone,1000,500,3571,2174,0.0,7.4,0.0,8.4,7.0,3.0,,Mirage Tank 胜 (0.0s 击杀;对方需要 8.4s),0.82
+mgtk,dtruck,Mirage Tank,Demolition Truck,1000,1500,3571,0,2.8,0.0,2.8,2.3,7.0,2.0,Mirage Tank,Demolition Truck 胜 (2.3s 击杀;对方需要 2.8s),inf
+mgtk,e2,Mirage Tank,Conscript,1000,100,3571,375,2.8,53.0,2.8,55.0,7.0,4.0,Mirage Tank,Mirage Tank 胜 (2.8s 击杀;对方需要 55.0s),0.15
+mgtk,engineer,Mirage Tank,Engineer,1000,500,3571,0,0.0,,0.0,,7.0,0,,Mirage Tank 胜 (0.0s;对方打不动),inf
+mgtk,flakt,Mirage Tank,Flak Trooper,1000,300,3571,200,2.8,99.0,2.8,101.0,7.0,4.0,Mirage Tank,Mirage Tank 胜 (2.8s 击杀;对方需要 101.0s),2.57
+mgtk,ftnk,Mirage Tank,Flame Tank,1000,900,2679,938,14.0,20.8,14.0,21.6,7.0,5.0,Mirage Tank,Mirage Tank 胜 (14.0s 击杀;对方需要 21.6s),1.16
+mgtk,harv,Mirage Tank,War Miner,1000,1400,3571,750,25.2,26.4,25.2,26.9,7.0,6.0,Mirage Tank,Mirage Tank 胜 (25.2s 击杀;对方需要 26.9s),1.87
+mgtk,havoc,Mirage Tank,Havoc Attack Helicopter,1000,1500,0,5000,,3.2,,3.2,0,6.0,,Havoc Attack Helicopter 胜 (3.2s;对方打不动),0.0
+mgtk,htk,Mirage Tank,Flak Track,1000,500,3571,250,5.6,79.0,5.6,79.6,7.0,5.0,,Mirage Tank 胜 (5.6s 击杀;对方需要 79.6s),2.38
+mgtk,htnk,Mirage Tank,Rhino Heavy Tank,1000,900,2679,2596,14.0,5.2,14.0,5.6,7.0,6.0,Mirage Tank,Rhino Heavy Tank 胜 (5.6s 击杀;对方需要 14.0s),0.42
+mgtk,hyd,Mirage Tank,Sea Scorpion,1000,600,2679,250,5.6,79.0,5.6,79.6,7.0,5.0,,Mirage Tank 胜 (5.6s 击杀;对方需要 79.6s),3.86
+mgtk,itrp,Mirage Tank,Iron Trooper,1000,1200,2857,0,2.8,,2.8,,7.0,0,,Mirage Tank 胜 (2.8s;对方打不动),inf
+mgtk,ivan,Mirage Tank,Crazy Ivan,1000,600,3571,11905,2.8,5.0,2.8,8.0,7.0,1.5,Mirage Tank,Mirage Tank 胜 (2.8s 击杀;对方需要 8.0s),0.17
+mgtk,kite,Mirage Tank,Black Kite,1000,1500,0,1125,,16.0,,16.0,0,0.5,,Black Kite 胜 (16.0s;对方打不动),0.0
+mgtk,naflak,Mirage Tank,Flak Cannon,1000,700,893,0,64.4,,64.4,,7.0,0,,Mirage Tank 胜 (64.4s;对方打不动),inf
+mgtk,nalasr,Mirage Tank,Sentry Gun,1000,500,893,1161,42.0,16.8,42.0,,7.0,6.0,Mirage Tank,Mirage Tank 胜 (42.0s;对方打不动),0.1
+mgtk,napost,Mirage Tank,Tesla Fence Post,1000,200,536,1562,92.4,9.6,92.4,,7.0,3.0,Mirage Tank,Mirage Tank 胜 (92.4s;对方打不动),0.01
+mgtk,schp,Mirage Tank,Siege Chopper,1000,1400,0,500,,39.6,,39.6,0,6.0,,Siege Chopper 胜 (39.6s;对方打不动),0.0
+mgtk,shk,Mirage Tank,Tesla Trooper,1000,300,2857,1562,2.8,12.0,2.8,14.0,7.0,4.0,Mirage Tank,Mirage Tank 胜 (2.8s 击杀;对方需要 14.0s),0.25
+mgtk,sqd,Mirage Tank,Giant Squid,1000,1000,3571,0,8.4,,8.4,,7.0,0,,Mirage Tank 胜 (8.4s;对方打不动),inf
+mgtk,sray,Mirage Tank,Stingray,1000,900,3571,3500,5.6,3.0,5.6,3.9,7.0,5.0,Mirage Tank,Stingray 胜 (3.9s 击杀;对方需要 5.6s),0.55
+mgtk,sub,Mirage Tank,Typhoon Attack Submarine,1000,1600,2679,0,28.0,,28.0,,7.0,0,,Mirage Tank 胜 (28.0s;对方打不动),inf
+mgtk,terror,Mirage Tank,Terrorist,1000,200,3571,0,0.0,0.0,0.0,2.3,7.0,2.0,Mirage Tank,Mirage Tank 胜 (0.0s 击杀;对方需要 2.3s),inf
+mgtk,tesla,Mirage Tank,Tesla Coil,1000,1500,893,6541,64.4,0.2,64.7,0.2,7.0,8.0,,Tesla Coil 胜 (0.2s 击杀;对方需要 64.7s),0.1
+mgtk,ttnk,Mirage Tank,Tesla Tank,1000,1200,2679,3088,8.4,3.8,8.4,4.6,7.0,5.0,Mirage Tank,Tesla Tank 胜 (4.6s 击杀;对方需要 8.4s),0.83
+mgtk,v3,Mirage Tank,V3 Launcher,1000,900,3571,1750,2.8,8.0,6.6,8.0,7.0,18.0,,Mirage Tank 胜 (6.6s 击杀;对方需要 8.0s),2.2
+mgtk,zep,Mirage Tank,Kirov Airship,1000,2000,0,13125,,0.0,,0.0,0,0.25,,Kirov Airship 胜 (0.0s;对方打不动),0.0
+mtnk,apoc,Grizzly Battle Tank,Apocalypse Tank,700,1750,2031,5769,38.4,2.6,38.4,2.6,6.0,6.0,,Apocalypse Tank 胜 (2.6s 击杀;对方需要 38.4s),0.83
+mtnk,boris,Grizzly Battle Tank,Boris Bukov,700,2000,542,5417,26.4,5.4,26.7,5.4,6.0,7.0,,Boris Bukov 胜 (5.4s 击杀;对方需要 26.7s),1.63
+mtnk,civan,Grizzly Battle Tank,Chrono Ivan,700,1000,542,11905,21.6,5.0,21.6,7.5,6.0,1.5,Grizzly Battle Tank,Chrono Ivan 胜 (7.5s 击杀;对方需要 21.6s),0.22
+mtnk,deso,Grizzly Battle Tank,Desolator,700,600,406,469,36.0,60.0,36.0,60.0,6.0,6.0,,Grizzly Battle Tank 胜 (36.0s 击杀;对方需要 60.0s),1.27
+mtnk,deva,Grizzly Battle Tank,Devastator,700,2200,2031,5357,48.0,3.0,48.0,3.0,6.0,6.0,,Devastator 胜 (3.0s 击杀;对方需要 48.0s),1.12
+mtnk,dog,Grizzly Battle Tank,Attack Dog,700,200,542,0,19.2,,19.2,,6.0,0,,Grizzly Battle Tank 胜 (19.2s;对方打不动),inf
+mtnk,dred,Grizzly Battle Tank,Dreadnought,700,2500,2031,4375,38.4,6.4,44.9,6.4,6.0,25.0,,Dreadnought 胜 (6.4s 击杀;对方需要 44.9s),2.22
+mtnk,dron,Grizzly Battle Tank,Terror Drone,700,500,1625,2174,4.8,12.9,4.8,13.6,6.0,3.0,,Grizzly Battle Tank 胜 (4.8s 击杀;对方需要 13.6s),1.14
+mtnk,dtruck,Grizzly Battle Tank,Demolition Truck,700,1500,2708,0,4.8,0.0,4.8,1.8,6.0,2.0,Grizzly Battle Tank,Demolition Truck 胜 (1.8s 击杀;对方需要 4.8s),inf
+mtnk,e2,Grizzly Battle Tank,Conscript,700,100,542,375,21.6,79.0,21.6,80.4,6.0,4.0,Grizzly Battle Tank,Grizzly Battle Tank 胜 (21.6s 击杀;对方需要 80.4s),0.07
+mtnk,engineer,Grizzly Battle Tank,Engineer,700,500,542,0,16.8,,16.8,,6.0,0,,Grizzly Battle Tank 胜 (16.8s;对方打不动),inf
+mtnk,flakt,Grizzly Battle Tank,Flak Trooper,700,300,542,200,21.6,149.0,21.6,150.4,6.0,4.0,Grizzly Battle Tank,Grizzly Battle Tank 胜 (21.6s 击杀;对方需要 150.4s),1.19
+mtnk,ftnk,Grizzly Battle Tank,Flame Tank,700,900,2031,938,19.2,30.4,19.2,30.8,6.0,5.0,Grizzly Battle Tank,Grizzly Battle Tank 胜 (19.2s 击杀;对方需要 30.8s),2.69
+mtnk,harv,Grizzly Battle Tank,War Miner,700,1400,2708,750,36.0,39.2,36.0,39.2,6.0,6.0,,Grizzly Battle Tank 胜 (36.0s 击杀;对方需要 39.2s),4.33
+mtnk,havoc,Grizzly Battle Tank,Havoc Attack Helicopter,700,1500,0,5000,,3.6,,3.6,0,6.0,,Havoc Attack Helicopter 胜 (3.6s;对方打不动),0.0
+mtnk,htk,Grizzly Battle Tank,Flak Track,700,500,2708,250,9.6,119.0,9.6,119.3,6.0,5.0,,Grizzly Battle Tank 胜 (9.6s 击杀;对方需要 119.3s),5.53
+mtnk,htnk,Grizzly Battle Tank,Rhino Heavy Tank,700,900,2031,2596,19.2,10.4,19.2,10.4,6.0,6.0,,Rhino Heavy Tank 胜 (10.4s 击杀;对方需要 19.2s),0.97
+mtnk,hyd,Grizzly Battle Tank,Sea Scorpion,700,600,2031,250,9.6,119.0,9.6,119.3,6.0,5.0,,Grizzly Battle Tank 胜 (9.6s 击杀;对方需要 119.3s),8.95
+mtnk,itrp,Grizzly Battle Tank,Iron Trooper,700,1200,406,0,36.0,,36.0,,6.0,0,,Grizzly Battle Tank 胜 (36.0s;对方打不动),inf
+mtnk,ivan,Grizzly Battle Tank,Crazy Ivan,700,600,542,11905,21.6,5.0,21.6,7.5,6.0,1.5,Grizzly Battle Tank,Crazy Ivan 胜 (7.5s 击杀;对方需要 21.6s),0.08
+mtnk,kite,Grizzly Battle Tank,Black Kite,700,1500,0,1125,,26.0,,26.0,0,0.5,,Black Kite 胜 (26.0s;对方打不动),0.0
+mtnk,naflak,Grizzly Battle Tank,Flak Cannon,700,700,1760,0,33.6,,33.6,,6.0,0,,Grizzly Battle Tank 胜 (33.6s;对方打不动),inf
+mtnk,nalasr,Grizzly Battle Tank,Sentry Gun,700,500,1760,1161,21.6,25.2,21.6,25.2,6.0,6.0,,Grizzly Battle Tank 胜 (21.6s 击杀;对方需要 25.2s),0.58
+mtnk,napost,Grizzly Battle Tank,Tesla Fence Post,700,200,1354,1562,36.0,16.0,36.0,,6.0,3.0,Grizzly Battle Tank,Grizzly Battle Tank 胜 (36.0s;对方打不动),0.04
+mtnk,schp,Grizzly Battle Tank,Siege Chopper,700,1400,0,500,,58.8,,58.8,0,6.0,,Siege Chopper 胜 (58.8s;对方打不动),0.0
+mtnk,shk,Grizzly Battle Tank,Tesla Trooper,700,300,406,1562,31.2,16.8,31.2,18.2,6.0,4.0,Grizzly Battle Tank,Tesla Trooper 胜 (18.2s 击杀;对方需要 31.2s),0.11
+mtnk,sqd,Grizzly Battle Tank,Giant Squid,700,1000,2708,0,14.4,,14.4,,6.0,0,,Grizzly Battle Tank 胜 (14.4s;对方打不动),inf
+mtnk,sray,Grizzly Battle Tank,Stingray,700,900,2708,3500,9.6,6.0,9.6,6.5,6.0,5.0,Grizzly Battle Tank,Stingray 胜 (6.5s 击杀;对方需要 9.6s),1.28
+mtnk,sub,Grizzly Battle Tank,Typhoon Attack Submarine,700,1600,2031,0,38.4,,38.4,,6.0,0,,Grizzly Battle Tank 胜 (38.4s;对方打不动),inf
+mtnk,terror,Grizzly Battle Tank,Terrorist,700,200,542,0,12.0,,12.0,,6.0,2.0,Grizzly Battle Tank,Grizzly Battle Tank 胜 (12.0s;对方打不动),inf
+mtnk,tesla,Grizzly Battle Tank,Tesla Coil,700,1500,1760,6541,33.6,3.4,34.3,3.4,6.0,8.0,,Tesla Coil 胜 (3.4s 击杀;对方需要 34.3s),0.62
+mtnk,ttnk,Grizzly Battle Tank,Tesla Tank,700,1200,2031,3088,14.4,7.2,14.4,7.6,6.0,5.0,Grizzly Battle Tank,Tesla Tank 胜 (7.6s 击杀;对方需要 14.4s),1.93
+mtnk,v3,Grizzly Battle Tank,V3 Launcher,700,900,2708,1750,4.8,16.0,8.9,16.0,6.0,18.0,,Grizzly Battle Tank 胜 (8.9s 击杀;对方需要 16.0s),5.12
+mtnk,zep,Grizzly Battle Tank,Kirov Airship,700,2000,0,13125,,2.0,,2.0,0,0.25,,Kirov Airship 胜 (2.0s;对方打不动),0.0
+nasam,apoc,Patriot Missile System,Apocalypse Tank,500,1750,0,5000,,10.4,,10.4,0,6.0,,Apocalypse Tank 胜 (10.4s;对方打不动),0.0
+nasam,boris,Patriot Missile System,Boris Bukov,500,2000,0,0,,,,,0,0,,双方都无法击杀对方,
+nasam,civan,Patriot Missile System,Chrono Ivan,500,1000,0,11905,,5.0,,5.0,0,1.5,,Chrono Ivan 胜 (5.0s;对方打不动),0.0
+nasam,deso,Patriot Missile System,Desolator,500,600,0,0,,,,,0,0,,双方都无法击杀对方,
+nasam,deva,Patriot Missile System,Devastator,500,2200,0,4643,,11.4,,11.4,0,6.0,,Devastator 胜 (11.4s;对方打不动),0.0
+nasam,dog,Patriot Missile System,Attack Dog,500,200,0,0,,,,,0,0,,双方都无法击杀对方,
+nasam,dred,Patriot Missile System,Dreadnought,500,2500,0,6250,,6.4,,6.4,0,25.0,,Dreadnought 胜 (6.4s;对方打不动),0.0
+nasam,dron,Patriot Missile System,Terror Drone,500,500,0,0,,,,,0,0,,双方都无法击杀对方,
+nasam,dtruck,Patriot Missile System,Demolition Truck,500,1500,0,0,,0.0,,0.0,0,2.0,,Demolition Truck 胜 (0.0s;对方打不动),
+nasam,e2,Patriot Missile System,Conscript,500,100,0,375,,159.0,,159.0,0,4.0,,Conscript 胜 (159.0s;对方打不动),0.0
+nasam,engineer,Patriot Missile System,Engineer,500,500,0,0,,,,,0,0,,双方都无法击杀对方,
+nasam,flakt,Patriot Missile System,Flak Trooper,500,300,0,200,,299.0,,299.0,0,4.0,,Flak Trooper 胜 (299.0s;对方打不动),0.0
+nasam,ftnk,Patriot Missile System,Flame Tank,500,900,0,2188,,27.2,,27.2,0,5.0,,Flame Tank 胜 (27.2s;对方打不动),0.0
+nasam,harv,Patriot Missile System,War Miner,500,1400,0,750,,79.2,,79.2,0,6.0,,War Miner 胜 (79.2s;对方打不动),0.0
+nasam,havoc,Patriot Missile System,Havoc Attack Helicopter,500,1500,4286,4333,5.8,12.4,5.8,13.3,10.0,6.0,,Patriot Missile System 胜 (5.8s 击杀;对方需要 13.3s),17.8
+nasam,htk,Patriot Missile System,Flak Track,500,500,0,250,,239.0,,239.0,0,5.0,,Flak Track 胜 (239.0s;对方打不动),0.0
+nasam,htnk,Patriot Missile System,Rhino Heavy Tank,500,900,0,2250,,26.0,,26.0,0,6.0,,Rhino Heavy Tank 胜 (26.0s;对方打不动),0.0
+nasam,hyd,Patriot Missile System,Sea Scorpion,500,600,0,250,,239.0,,239.0,0,5.0,,Sea Scorpion 胜 (239.0s;对方打不动),0.0
+nasam,itrp,Patriot Missile System,Iron Trooper,500,1200,0,0,,,,,0,0,,双方都无法击杀对方,
+nasam,ivan,Patriot Missile System,Crazy Ivan,500,600,0,11905,,5.0,,5.0,0,1.5,,Crazy Ivan 胜 (5.0s;对方打不动),0.0
+nasam,kite,Patriot Missile System,Black Kite,500,1500,4286,2625,11.2,22.0,11.2,24.4,10.0,0.5,,Patriot Missile System 胜 (11.2s 击杀;对方需要 24.4s),17.63
+nasam,naflak,Patriot Missile System,Flak Cannon,500,700,0,0,,,,,0,0,,双方都无法击杀对方,
+nasam,nalasr,Patriot Missile System,Sentry Gun,500,500,0,1161,,50.4,,50.4,0,6.0,,Sentry Gun 胜 (50.4s;对方打不动),0.0
+nasam,napost,Patriot Missile System,Tesla Fence Post,500,200,0,1562,,35.2,,35.2,0,3.0,,Tesla Fence Post 胜 (35.2s;对方打不动),0.0
+nasam,schp,Patriot Missile System,Siege Chopper,500,1400,4286,250,5.8,238.8,5.8,239.7,10.0,6.0,,Patriot Missile System 胜 (5.8s 击杀;对方需要 239.7s),268.8
+nasam,shk,Patriot Missile System,Tesla Trooper,500,300,0,1354,,43.2,,43.2,0,4.0,,Tesla Trooper 胜 (43.2s;对方打不动),0.0
+nasam,sqd,Patriot Missile System,Giant Squid,500,1000,0,0,,,,,0,0,,双方都无法击杀对方,
+nasam,sray,Patriot Missile System,Stingray,500,900,0,3967,,15.0,,15.0,0,5.0,,Stingray 胜 (15.0s;对方打不动),0.0
+nasam,sub,Patriot Missile System,Typhoon Attack Submarine,500,1600,0,0,,,,,0,0,,双方都无法击杀对方,
+nasam,terror,Patriot Missile System,Terrorist,500,200,0,0,,0.0,,0.0,0,2.0,,Terrorist 胜 (0.0s;对方打不动),
+nasam,tesla,Patriot Missile System,Tesla Coil,500,1500,0,6541,,7.0,,7.0,0,8.0,,Tesla Coil 胜 (7.0s;对方打不动),0.0
+nasam,ttnk,Patriot Missile System,Tesla Tank,500,1200,0,3500,,17.0,,17.0,0,5.0,,Tesla Tank 胜 (17.0s;对方打不动),0.0
+nasam,v3,Patriot Missile System,V3 Launcher,500,900,0,2500,,16.0,,16.0,0,18.0,,V3 Launcher 胜 (16.0s;对方打不动),0.0
+nasam,zep,Patriot Missile System,Kirov Airship,500,2000,4286,28125,92.6,2.0,92.6,10.9,10.0,0.25,,Kirov Airship 胜 (10.9s 击杀;对方需要 92.6s),0.37
+orca,apoc,Harrier,Apocalypse Tank,1200,1750,62500,3294,,3.4,,3.4,6.0,8.0,,Apocalypse Tank 胜 (3.4s;对方打不动),7.57
+orca,boris,Harrier,Boris Bukov,1200,2000,125000,0,0.0,,0.0,,6.0,0,,Harrier 胜 (0.0s;对方打不动),inf
+orca,civan,Harrier,Chrono Ivan,1200,1000,125000,0,0.0,,0.0,,6.0,0,,Harrier 胜 (0.0s;对方打不动),inf
+orca,deso,Harrier,Desolator,1200,600,83333,0,0.1,,0.1,,6.0,0,,Harrier 胜 (0.1s;对方打不动),inf
+orca,deva,Harrier,Devastator,1200,2200,62500,0,,,,,6.0,0,,双方都无法击杀对方,inf
+orca,dog,Harrier,Attack Dog,1200,200,125000,0,0.0,,0.0,,6.0,0,,Harrier 胜 (0.0s;对方打不动),inf
+orca,dred,Harrier,Dreadnought,1200,2500,62500,0,,,,,6.0,0,,双方都无法击杀对方,inf
+orca,dron,Harrier,Terror Drone,1200,500,83333,0,0.0,,0.0,,6.0,0,,Harrier 胜 (0.0s;对方打不动),inf
+orca,dtruck,Harrier,Demolition Truck,1200,1500,41667,0,0.2,,0.2,,6.0,0,,Harrier 胜 (0.2s;对方打不动),inf
+orca,e2,Harrier,Conscript,1200,100,125000,0,0.0,,0.0,,6.0,0,,Harrier 胜 (0.0s;对方打不动),inf
+orca,engineer,Harrier,Engineer,1200,500,125000,0,0.0,,0.0,,6.0,0,,Harrier 胜 (0.0s;对方打不动),inf
+orca,flakt,Harrier,Flak Trooper,1200,300,125000,1600,0.0,9.0,0.4,9.0,6.0,8.0,,Harrier 胜 (0.4s 击杀;对方需要 9.0s),5.86
+orca,ftnk,Harrier,Flame Tank,1200,900,62500,0,,,,,6.0,0,,双方都无法击杀对方,inf
+orca,harv,Harrier,War Miner,1200,1400,62500,0,,,,,6.0,0,,双方都无法击杀对方,inf
+orca,havoc,Harrier,Havoc Attack Helicopter,1200,1500,0,0,,,,,0,0,,双方都无法击杀对方,
+orca,htk,Harrier,Flak Track,1200,500,41667,2500,,5.0,,5.0,6.0,8.0,,Flak Track 胜 (5.0s;对方打不动),1.45
+orca,htnk,Harrier,Rhino Heavy Tank,1200,900,62500,0,,,,,6.0,0,,双方都无法击杀对方,inf
+orca,hyd,Harrier,Sea Scorpion,1200,600,62500,2500,0.2,5.0,1.3,5.0,6.0,12.0,,Harrier 胜 (1.3s 击杀;对方需要 5.0s),4.69
+orca,itrp,Harrier,Iron Trooper,1200,1200,83333,0,0.1,,0.1,,6.0,0,,Harrier 胜 (0.1s;对方打不动),inf
+orca,ivan,Harrier,Crazy Ivan,1200,600,125000,0,0.0,,0.0,,6.0,0,,Harrier 胜 (0.0s;对方打不动),inf
+orca,kite,Harrier,Black Kite,1200,1500,0,0,,,,,0,0,,双方都无法击杀对方,
+orca,naflak,Harrier,Flak Cannon,1200,700,62500,6667,,1.8,,1.8,6.0,12.0,,Flak Cannon 胜 (1.8s;对方打不动),0.8
+orca,nalasr,Harrier,Sentry Gun,1200,500,62500,0,,,,,6.0,0,,双方都无法击杀对方,inf
+orca,napost,Harrier,Tesla Fence Post,1200,200,41667,0,,,,,6.0,0,,双方都无法击杀对方,inf
+orca,schp,Harrier,Siege Chopper,1200,1400,0,2500,,4.8,,4.8,0,6.0,,Siege Chopper 胜 (4.8s;对方打不动),0.0
+orca,shk,Harrier,Tesla Trooper,1200,300,83333,0,0.1,,0.1,,6.0,0,,Harrier 胜 (0.1s;对方打不动),inf
+orca,sqd,Harrier,Giant Squid,1200,1000,41667,0,,,,,6.0,0,,双方都无法击杀对方,inf
+orca,sray,Harrier,Stingray,1200,900,41667,0,,,,,6.0,0,,双方都无法击杀对方,inf
+orca,sub,Harrier,Typhoon Attack Submarine,1200,1600,62500,0,,,,,6.0,0,,双方都无法击杀对方,inf
+orca,terror,Harrier,Terrorist,1200,200,125000,0,0.0,,0.0,,6.0,0,,Harrier 胜 (0.0s;对方打不动),inf
+orca,tesla,Harrier,Tesla Coil,1200,1500,62500,0,,,,,6.0,0,,双方都无法击杀对方,inf
+orca,ttnk,Harrier,Tesla Tank,1200,1200,62500,0,,,,,6.0,0,,双方都无法击杀对方,inf
+orca,v3,Harrier,V3 Launcher,1200,900,41667,0,0.2,,0.2,,6.0,0,,Harrier 胜 (0.2s;对方打不动),inf
+orca,zep,Harrier,Kirov Airship,1200,2000,0,0,,,,,0,0,,双方都无法击杀对方,
+robo,apoc,Robot Tank,Apocalypse Tank,500,1750,1042,7692,76.2,2.6,76.5,2.6,5.0,6.0,,Apocalypse Tank 胜 (2.6s 击杀;对方需要 76.5s),0.52
+robo,boris,Robot Tank,Boris Bukov,500,2000,3750,8125,3.6,3.0,4.1,3.0,5.0,7.0,,Boris Bukov 胜 (3.0s 击杀;对方需要 4.1s),12.31
+robo,civan,Robot Tank,Chrono Ivan,500,1000,4167,11905,2.4,5.0,2.4,6.9,5.0,1.5,Robot Tank,Robot Tank 胜 (2.4s 击杀;对方需要 6.9s),2.8
+robo,deso,Robot Tank,Desolator,500,600,3333,0,4.2,,4.2,,5.0,0,,Robot Tank 胜 (4.2s;对方打不动),inf
+robo,deva,Robot Tank,Devastator,500,2200,1042,7143,95.4,2.8,95.7,2.8,5.0,6.0,,Devastator 胜 (2.8s 击杀;对方需要 95.7s),0.71
+robo,dog,Robot Tank,Attack Dog,500,200,4167,0,2.4,,2.4,,5.0,0,,Robot Tank 胜 (2.4s;对方打不动),inf
+robo,dred,Robot Tank,Dreadnought,500,2500,1042,6250,76.2,0.4,81.7,0.4,5.0,25.0,,Dreadnought 胜 (0.4s 击杀;对方需要 81.7s),1.3
+robo,dron,Robot Tank,Terror Drone,500,500,8333,2174,0.6,11.0,0.6,11.5,5.0,3.0,,Robot Tank 胜 (0.6s 击杀;对方需要 11.5s),9.58
+robo,dtruck,Robot Tank,Demolition Truck,500,1500,1667,0,8.4,0.0,8.4,1.4,5.0,2.0,Robot Tank,Demolition Truck 胜 (1.4s 击杀;对方需要 8.4s),inf
+robo,e2,Robot Tank,Conscript,500,100,4167,600,2.4,41.0,2.4,41.7,5.0,4.0,Robot Tank,Robot Tank 胜 (2.4s 击杀;对方需要 41.7s),0.56
+robo,engineer,Robot Tank,Engineer,500,500,4167,0,1.8,,1.8,,5.0,0,,Robot Tank 胜 (1.8s;对方打不动),inf
+robo,flakt,Robot Tank,Flak Trooper,500,300,4167,2000,2.4,12.0,2.4,12.7,5.0,4.0,Robot Tank,Robot Tank 胜 (2.4s 击杀;对方需要 12.7s),1.5
+robo,ftnk,Robot Tank,Flame Tank,500,900,1042,6250,37.8,3.2,37.8,3.2,5.0,5.0,,Flame Tank 胜 (3.2s 击杀;对方需要 37.8s),0.34
+robo,harv,Robot Tank,War Miner,500,1400,1042,1500,95.4,16.0,95.7,16.0,5.0,6.0,,War Miner 胜 (16.0s 击杀;对方需要 95.7s),1.36
+robo,havoc,Robot Tank,Havoc Attack Helicopter,500,1500,0,3333,,6.2,,6.2,0,6.0,,Havoc Attack Helicopter 胜 (6.2s;对方打不动),0.0
+robo,htk,Robot Tank,Flak Track,500,500,1667,2500,17.4,9.0,17.4,9.0,5.0,5.0,,Flak Track 胜 (9.0s 击杀;对方需要 17.4s),0.56
+robo,htnk,Robot Tank,Rhino Heavy Tank,500,900,1042,3462,37.8,5.2,38.1,5.2,5.0,6.0,,Rhino Heavy Tank 胜 (5.2s 击杀;对方需要 38.1s),0.61
+robo,hyd,Robot Tank,Sea Scorpion,500,600,1042,2500,18.6,9.0,18.6,9.0,5.0,5.0,,Sea Scorpion 胜 (9.0s 击杀;对方需要 18.6s),0.75
+robo,itrp,Robot Tank,Iron Trooper,500,1200,3333,0,4.2,,4.2,,5.0,0,,Robot Tank 胜 (4.2s;对方打不动),inf
+robo,ivan,Robot Tank,Crazy Ivan,500,600,4167,11905,2.4,5.0,2.4,6.9,5.0,1.5,Robot Tank,Robot Tank 胜 (2.4s 击杀;对方需要 6.9s),1.01
+robo,kite,Robot Tank,Black Kite,500,1500,0,5250,,4.0,,4.0,0,0.5,,Black Kite 胜 (4.0s;对方打不动),0.0
+robo,naflak,Robot Tank,Flak Cannon,500,700,1042,0,57.0,,57.0,,5.0,0,,Robot Tank 胜 (57.0s;对方打不动),inf
+robo,nalasr,Robot Tank,Sentry Gun,500,500,1042,1857,37.8,12.6,38.1,12.6,5.0,6.0,,Sentry Gun 胜 (12.6s 击杀;对方需要 38.1s),0.35
+robo,napost,Robot Tank,Tesla Fence Post,500,200,1250,1562,39.6,12.8,39.6,,5.0,3.0,Robot Tank,Robot Tank 胜 (39.6s;对方打不动),0.06
+robo,schp,Robot Tank,Siege Chopper,500,1400,0,2500,,9.6,,9.6,0,6.0,,Siege Chopper 胜 (9.6s;对方打不动),0.0
+robo,shk,Robot Tank,Tesla Trooper,500,300,3333,2083,3.6,9.6,3.6,10.3,5.0,4.0,Robot Tank,Robot Tank 胜 (3.6s 击杀;对方需要 10.3s),1.11
+robo,sqd,Robot Tank,Giant Squid,500,1000,1667,0,23.4,,23.4,,5.0,0,,Robot Tank 胜 (23.4s;对方打不动),inf
+robo,sray,Robot Tank,Stingray,500,900,1667,4667,17.4,3.0,17.4,3.0,5.0,5.0,,Stingray 胜 (3.0s 击杀;对方需要 17.4s),0.96
+robo,sub,Robot Tank,Typhoon Attack Submarine,500,1600,1042,0,76.2,,76.2,,5.0,0,,Robot Tank 胜 (76.2s;对方打不动),inf
+robo,terror,Robot Tank,Terrorist,500,200,3750,0,1.8,0.0,1.8,1.4,5.0,2.0,Robot Tank,Terrorist 胜 (1.4s 击杀;对方需要 1.8s),inf
+robo,tesla,Robot Tank,Tesla Coil,500,1500,1042,6541,57.0,3.4,57.8,3.4,5.0,8.0,,Tesla Coil 胜 (3.4s 击杀;对方需要 57.8s),0.6
+robo,ttnk,Robot Tank,Tesla Tank,500,1200,1042,4118,28.2,3.8,28.2,3.8,5.0,5.0,,Tesla Tank 胜 (3.8s 击杀;对方需要 28.2s),1.21
+robo,v3,Robot Tank,V3 Launcher,500,900,1667,2500,8.4,8.0,11.9,8.0,5.0,18.0,,V3 Launcher 胜 (8.0s 击杀;对方需要 11.9s),3.6
+robo,zep,Robot Tank,Kirov Airship,500,2000,0,26250,,0.0,,0.0,0,0.25,,Kirov Airship 胜 (0.0s;对方打不动),0.0
+shad,apoc,Night Hawk,Apocalypse Tank,500,1750,547,3294,145.6,6.8,146.2,6.8,5.0,8.0,,Apocalypse Tank 胜 (6.8s 击杀;对方需要 146.2s),0.57
+shad,boris,Night Hawk,Boris Bukov,500,2000,1969,0,6.4,,6.4,,5.0,0,,Night Hawk 胜 (6.4s;对方打不动),inf
+shad,civan,Night Hawk,Chrono Ivan,500,1000,2188,0,4.8,,4.8,,5.0,0,,Night Hawk 胜 (4.8s;对方打不动),inf
+shad,deso,Night Hawk,Desolator,500,600,1750,0,8.0,,8.0,,5.0,0,,Night Hawk 胜 (8.0s;对方打不动),inf
+shad,deva,Night Hawk,Devastator,500,2200,547,0,182.4,,182.4,,5.0,0,,Night Hawk 胜 (182.4s;对方打不动),inf
+shad,dog,Night Hawk,Attack Dog,500,200,2188,0,3.2,,3.2,,5.0,0,,Night Hawk 胜 (3.2s;对方打不动),inf
+shad,dred,Night Hawk,Dreadnought,500,2500,547,0,145.6,,145.6,,5.0,0,,Night Hawk 胜 (145.6s;对方打不动),inf
+shad,dron,Night Hawk,Terror Drone,500,500,2188,0,3.2,,3.2,,5.0,0,,Night Hawk 胜 (3.2s;对方打不动),inf
+shad,dtruck,Night Hawk,Demolition Truck,500,1500,875,0,16.0,,16.0,,5.0,0,,Night Hawk 胜 (16.0s;对方打不动),inf
+shad,e2,Night Hawk,Conscript,500,100,2188,0,4.8,,4.8,,5.0,0,,Night Hawk 胜 (4.8s;对方打不动),inf
+shad,engineer,Night Hawk,Engineer,500,500,2188,0,3.2,,3.2,,5.0,0,,Night Hawk 胜 (3.2s;对方打不动),inf
+shad,flakt,Night Hawk,Flak Trooper,500,300,2188,1600,4.8,14.0,5.4,14.0,5.0,8.0,,Night Hawk 胜 (5.4s 击杀;对方需要 14.0s),0.89
+shad,ftnk,Night Hawk,Flame Tank,500,900,547,0,72.0,,72.0,,5.0,0,,Night Hawk 胜 (72.0s;对方打不动),inf
+shad,harv,Night Hawk,War Miner,500,1400,547,0,182.4,,182.4,,5.0,0,,Night Hawk 胜 (182.4s;对方打不动),inf
+shad,havoc,Night Hawk,Havoc Attack Helicopter,500,1500,875,0,33.6,,33.6,,5.0,0,,Night Hawk 胜 (33.6s;对方打不动),inf
+shad,htk,Night Hawk,Flak Track,500,500,875,2500,33.6,8.0,34.2,8.0,5.0,8.0,,Flak Track 胜 (8.0s 击杀;对方需要 34.2s),0.26
+shad,htnk,Night Hawk,Rhino Heavy Tank,500,900,547,0,72.0,,72.0,,5.0,0,,Night Hawk 胜 (72.0s;对方打不动),inf
+shad,hyd,Night Hawk,Sea Scorpion,500,600,547,2500,35.2,8.0,36.7,8.0,5.0,12.0,,Sea Scorpion 胜 (8.0s 击杀;对方需要 36.7s),0.35
+shad,itrp,Night Hawk,Iron Trooper,500,1200,1750,0,8.0,,8.0,,5.0,0,,Night Hawk 胜 (8.0s;对方打不动),inf
+shad,ivan,Night Hawk,Crazy Ivan,500,600,2188,0,4.8,,4.8,,5.0,0,,Night Hawk 胜 (4.8s;对方打不动),inf
+shad,kite,Night Hawk,Black Kite,500,1500,875,0,56.0,,56.0,,5.0,0,,Night Hawk 胜 (56.0s;对方打不动),inf
+shad,naflak,Night Hawk,Flak Cannon,500,700,547,6667,108.8,3.0,110.3,3.0,5.0,12.0,,Flak Cannon 胜 (3.0s 击杀;对方需要 110.3s),0.06
+shad,nalasr,Night Hawk,Sentry Gun,500,500,547,0,72.0,,72.0,,5.0,0,,Night Hawk 胜 (72.0s;对方打不动),inf
+shad,napost,Night Hawk,Tesla Fence Post,500,200,656,0,75.2,,75.2,,5.0,0,,Night Hawk 胜 (75.2s;对方打不动),inf
+shad,schp,Night Hawk,Siege Chopper,500,1400,875,2500,33.6,8.4,33.8,8.4,5.0,6.0,,Siege Chopper 胜 (8.4s 击杀;对方需要 33.8s),2.06
+shad,shk,Night Hawk,Tesla Trooper,500,300,1750,0,6.4,,6.4,,5.0,0,,Night Hawk 胜 (6.4s;对方打不动),inf
+shad,sqd,Night Hawk,Giant Squid,500,1000,875,0,44.8,,44.8,,5.0,0,,Night Hawk 胜 (44.8s;对方打不动),inf
+shad,sray,Night Hawk,Stingray,500,900,875,0,33.6,,33.6,,5.0,0,,Night Hawk 胜 (33.6s;对方打不动),inf
+shad,sub,Night Hawk,Typhoon Attack Submarine,500,1600,547,0,145.6,,145.6,,5.0,0,,Night Hawk 胜 (145.6s;对方打不动),inf
+shad,terror,Night Hawk,Terrorist,500,200,1969,0,3.2,,3.2,,5.0,0,,Night Hawk 胜 (3.2s;对方打不动),inf
+shad,tesla,Night Hawk,Tesla Coil,500,1500,547,0,108.8,,108.8,,5.0,0,,Night Hawk 胜 (108.8s;对方打不动),inf
+shad,ttnk,Night Hawk,Tesla Tank,500,1200,547,0,54.4,,54.4,,5.0,0,,Night Hawk 胜 (54.4s;对方打不动),inf
+shad,v3,Night Hawk,V3 Launcher,500,900,875,0,16.0,,16.0,,5.0,0,,Night Hawk 胜 (16.0s;对方打不动),inf
+shad,zep,Night Hawk,Kirov Airship,500,2000,875,0,456.0,,456.0,,5.0,0,,Night Hawk 胜 (456.0s;对方打不动),inf
+snipe,apoc,Sniper,Apocalypse Tank,600,1750,0,1538,,7.8,,7.8,0,6.0,,Apocalypse Tank 胜 (7.8s;对方打不动),0.0
+snipe,boris,Sniper,Boris Bukov,600,2000,4167,21667,0.0,0.0,0.0,2.7,12.0,7.0,,Sniper 胜 (0.0s 击杀;对方需要 2.7s),1.78
+snipe,civan,Sniper,Chrono Ivan,600,1000,4167,11905,0.0,5.0,0.0,10.7,12.0,1.5,,Sniper 胜 (0.0s 击杀;对方需要 10.7s),0.97
+snipe,deso,Sniper,Desolator,600,600,2083,3125,4.8,0.0,4.8,4.1,12.0,6.0,Sniper,Desolator 胜 (4.1s 击杀;对方需要 4.8s),0.56
+snipe,deva,Sniper,Devastator,600,2200,0,3571,,2.8,,2.8,0,6.0,,Devastator 胜 (2.8s;对方打不动),0.0
+snipe,dog,Sniper,Attack Dog,600,200,4167,62500,0.0,0.0,0.0,3.7,12.0,1.25,,Sniper 胜 (0.0s 击杀;对方需要 3.7s),0.01
+snipe,dred,Sniper,Dreadnought,600,2500,0,6250,,0.0,,0.0,0,25.0,,Dreadnought 胜 (0.0s;对方打不动),0.0
+snipe,dron,Sniper,Terror Drone,600,500,1042,62500,4.8,0.0,4.8,2.2,12.0,3.0,,Terror Drone 胜 (2.2s 击杀;对方需要 4.8s),0.01
+snipe,dtruck,Sniper,Demolition Truck,600,1500,0,0,,0.0,,0.0,0,2.0,,Demolition Truck 胜 (0.0s;对方打不动),
+snipe,e2,Sniper,Conscript,600,100,4167,1500,0.0,8.0,0.0,13.5,12.0,4.0,Sniper,Sniper 胜 (0.0s 击杀;对方需要 13.5s),0.08
+snipe,engineer,Sniper,Engineer,600,500,4167,0,0.0,,0.0,,12.0,0,,Sniper 胜 (0.0s;对方打不动),inf
+snipe,flakt,Sniper,Flak Trooper,600,300,4167,3000,0.0,4.0,0.0,9.5,12.0,4.0,Sniper,Sniper 胜 (0.0s 击杀;对方需要 9.5s),0.35
+snipe,ftnk,Sniper,Flame Tank,600,900,0,9375,,0.0,,0.0,0,5.0,,Flame Tank 胜 (0.0s;对方打不动),0.0
+snipe,harv,Sniper,War Miner,600,1400,0,3750,,3.2,,3.2,0,6.0,,War Miner 胜 (3.2s;对方打不动),0.0
+snipe,havoc,Sniper,Havoc Attack Helicopter,600,1500,0,1000,,12.0,,12.0,0,6.0,,Havoc Attack Helicopter 胜 (12.0s;对方打不动),0.0
+snipe,htk,Sniper,Flak Track,600,500,0,3750,,3.0,,3.0,0,5.0,,Flak Track 胜 (3.0s;对方打不动),0.0
+snipe,htnk,Sniper,Rhino Heavy Tank,600,900,0,692,,15.6,,15.6,0,6.0,,Rhino Heavy Tank 胜 (15.6s;对方打不动),0.0
+snipe,hyd,Sniper,Sea Scorpion,600,600,0,3750,,3.0,,3.0,0,5.0,,Sea Scorpion 胜 (3.0s;对方打不动),0.0
+snipe,itrp,Sniper,Iron Trooper,600,1200,2083,8333,4.8,0.0,4.8,4.8,12.0,5.0,Sniper,Iron Trooper 胜 (4.8s 击杀;对方需要 4.8s),0.83
+snipe,ivan,Sniper,Crazy Ivan,600,600,4167,11905,0.0,5.0,0.0,10.7,12.0,1.5,,Sniper 胜 (0.0s 击杀;对方需要 10.7s),0.35
+snipe,kite,Sniper,Black Kite,600,1500,0,7500,,0.0,,0.0,0,0.5,,Black Kite 胜 (0.0s;对方打不动),0.0
+snipe,naflak,Sniper,Flak Cannon,600,700,0,0,,,,,0,0,,双方都无法击杀对方,
+snipe,nalasr,Sniper,Sentry Gun,600,500,0,5571,,1.4,,1.4,0,6.0,,Sentry Gun 胜 (1.4s;对方打不动),0.0
+snipe,napost,Sniper,Tesla Fence Post,600,200,0,1562,,6.4,,6.4,0,3.0,,Tesla Fence Post 胜 (6.4s;对方打不动),0.0
+snipe,schp,Sniper,Siege Chopper,600,1400,0,5000,,2.4,,2.4,0,6.0,,Siege Chopper 胜 (2.4s;对方打不动),0.0
+snipe,shk,Sniper,Tesla Trooper,600,300,2083,2083,4.8,4.8,4.8,10.3,12.0,4.0,Sniper,Sniper 胜 (4.8s 击杀;对方需要 10.3s),0.24
+snipe,sqd,Sniper,Giant Squid,600,1000,2083,0,14.4,,14.4,,12.0,0,,Sniper 胜 (14.4s;对方打不动),inf
+snipe,sray,Sniper,Stingray,600,900,0,46667,,0.0,,0.0,0,5.0,,Stingray 胜 (0.0s;对方打不动),0.0
+snipe,sub,Sniper,Typhoon Attack Submarine,600,1600,0,0,,,,,0,0,,双方都无法击杀对方,
+snipe,terror,Sniper,Terrorist,600,200,4167,0,0.0,0.0,0.0,4.6,12.0,2.0,,Sniper 胜 (0.0s 击杀;对方需要 4.6s),inf
+snipe,tesla,Sniper,Tesla Coil,600,1500,0,65407,,0.0,,0.0,0,8.0,,Tesla Coil 胜 (0.0s;对方打不动),0.0
+snipe,ttnk,Sniper,Tesla Tank,600,1200,0,41176,,0.0,,0.0,0,5.0,,Tesla Tank 胜 (0.0s;对方打不动),0.0
+snipe,v3,Sniper,V3 Launcher,600,900,0,2500,,0.0,,0.0,0,18.0,,V3 Launcher 胜 (0.0s;对方打不动),0.0
+snipe,zep,Sniper,Kirov Airship,600,2000,0,37500,,0.0,,0.0,0,0.25,,Kirov Airship 胜 (0.0s;对方打不动),0.0
+sref,apoc,Prism Tank,Apocalypse Tank,1200,1750,875,7692,88.0,2.6,88.0,4.8,10.0,6.0,Prism Tank,Apocalypse Tank 胜 (4.8s 击杀;对方需要 88.0s),0.08
+sref,boris,Prism Tank,Boris Bukov,1200,2000,2500,8125,4.0,3.0,4.0,4.6,10.0,7.0,Prism Tank,Prism Tank 胜 (4.0s 击杀;对方需要 4.6s),1.42
+sref,civan,Prism Tank,Chrono Ivan,1200,1000,2500,11905,4.0,5.0,4.0,9.6,10.0,1.5,Prism Tank,Prism Tank 胜 (4.0s 击杀;对方需要 9.6s),0.29
+sref,deso,Prism Tank,Desolator,1200,600,2500,2188,4.0,8.0,4.0,10.7,10.0,6.0,Prism Tank,Prism Tank 胜 (4.0s 击杀;对方需要 10.7s),0.48
+sref,deva,Prism Tank,Devastator,1200,2200,875,7143,112.0,2.8,112.0,4.4,10.0,6.0,,Devastator 胜 (4.4s 击杀;对方需要 112.0s),0.1
+sref,dog,Prism Tank,Attack Dog,1200,200,2500,0,4.0,,4.0,,10.0,0,,Prism Tank 胜 (4.0s;对方打不动),inf
+sref,dred,Prism Tank,Dreadnought,1200,2500,875,6250,88.0,0.4,94.8,0.4,10.0,25.0,Dreadnought,Dreadnought 胜 (0.4s 击杀;对方需要 94.8s),0.19
+sref,dron,Prism Tank,Terror Drone,1200,500,2500,2174,0.0,11.0,0.0,12.8,10.0,3.0,,Prism Tank 胜 (0.0s 击杀;对方需要 12.8s),0.5
+sref,dtruck,Prism Tank,Demolition Truck,1200,1500,1875,0,4.0,0.0,4.0,3.6,10.0,2.0,Prism Tank,Demolition Truck 胜 (3.6s 击杀;对方需要 4.0s),inf
+sref,e2,Prism Tank,Conscript,1200,100,2500,600,4.0,41.0,4.0,45.1,10.0,4.0,Prism Tank,Prism Tank 胜 (4.0s 击杀;对方需要 45.1s),0.06
+sref,engineer,Prism Tank,Engineer,1200,500,2500,0,0.0,,0.0,,10.0,0,,Prism Tank 胜 (0.0s;对方打不动),inf
+sref,flakt,Prism Tank,Flak Trooper,1200,300,2500,2000,4.0,12.0,4.0,16.1,10.0,4.0,Prism Tank,Prism Tank 胜 (4.0s 击杀;对方需要 16.1s),0.16
+sref,ftnk,Prism Tank,Flame Tank,1200,900,875,6250,44.0,3.2,44.0,5.2,10.0,5.0,,Flame Tank 胜 (5.2s 击杀;对方需要 44.0s),0.05
+sref,harv,Prism Tank,War Miner,1200,1400,875,1500,112.0,16.0,112.0,18.2,10.0,6.0,Prism Tank,War Miner 胜 (18.2s 击杀;对方需要 112.0s),0.2
+sref,havoc,Prism Tank,Havoc Attack Helicopter,1200,1500,0,3333,,6.2,,6.2,0,6.0,,Havoc Attack Helicopter 胜 (6.2s;对方打不动),0.0
+sref,htk,Prism Tank,Flak Track,1200,500,1875,2500,12.0,9.0,12.0,10.5,10.0,5.0,,Flak Track 胜 (10.5s 击杀;对方需要 12.0s),0.11
+sref,htnk,Prism Tank,Rhino Heavy Tank,1200,900,875,3462,44.0,5.2,44.0,6.8,10.0,6.0,,Rhino Heavy Tank 胜 (6.8s 击杀;对方需要 44.0s),0.09
+sref,hyd,Prism Tank,Sea Scorpion,1200,600,875,2500,20.0,9.0,20.0,10.5,10.0,5.0,,Sea Scorpion 胜 (10.5s 击杀;对方需要 20.0s),0.11
+sref,itrp,Prism Tank,Iron Trooper,1200,1200,2500,0,4.0,,4.0,,10.0,0,,Prism Tank 胜 (4.0s;对方打不动),inf
+sref,ivan,Prism Tank,Crazy Ivan,1200,600,2500,11905,4.0,5.0,4.0,9.6,10.0,1.5,Prism Tank,Prism Tank 胜 (4.0s 击杀;对方需要 9.6s),0.1
+sref,kite,Prism Tank,Black Kite,1200,1500,0,5250,,4.0,,4.0,0,0.5,,Black Kite 胜 (4.0s;对方打不动),0.0
+sref,naflak,Prism Tank,Flak Cannon,1200,700,2500,0,20.0,,20.0,,10.0,0,,Prism Tank 胜 (20.0s;对方打不动),inf
+sref,nalasr,Prism Tank,Sentry Gun,1200,500,2500,1857,12.0,12.6,12.0,,10.0,6.0,Prism Tank,Prism Tank 胜 (12.0s;对方打不动),0.15
+sref,napost,Prism Tank,Tesla Fence Post,1200,200,2250,1562,20.0,12.8,20.0,,10.0,3.0,Prism Tank,Prism Tank 胜 (20.0s;对方打不动),0.02
+sref,schp,Prism Tank,Siege Chopper,1200,1400,0,2500,,9.6,,9.6,0,6.0,,Siege Chopper 胜 (9.6s;对方打不动),0.0
+sref,shk,Prism Tank,Tesla Trooper,1200,300,2500,2083,4.0,9.6,4.0,13.7,10.0,4.0,Prism Tank,Prism Tank 胜 (4.0s 击杀;对方需要 13.7s),0.14
+sref,sqd,Prism Tank,Giant Squid,1200,1000,1875,0,20.0,,20.0,,10.0,0,,Prism Tank 胜 (20.0s;对方打不动),inf
+sref,sray,Prism Tank,Stingray,1200,900,1875,4667,12.0,3.0,12.0,5.3,10.0,5.0,Prism Tank,Stingray 胜 (5.3s 击杀;对方需要 12.0s),0.19
+sref,sub,Prism Tank,Typhoon Attack Submarine,1200,1600,875,0,88.0,,88.0,,10.0,0,,Prism Tank 胜 (88.0s;对方打不动),inf
+sref,terror,Prism Tank,Terrorist,1200,200,2500,0,0.0,0.0,0.0,3.6,10.0,2.0,Prism Tank,Prism Tank 胜 (0.0s 击杀;对方需要 3.6s),inf
+sref,tesla,Prism Tank,Tesla Coil,1200,1500,2500,6541,20.0,3.4,20.0,,10.0,8.0,Prism Tank,Prism Tank 胜 (20.0s;对方打不动),0.25
+sref,ttnk,Prism Tank,Tesla Tank,1200,1200,875,4118,32.0,3.8,32.0,5.8,10.0,5.0,,Tesla Tank 胜 (5.8s 击杀;对方需要 32.0s),0.18
+sref,v3,Prism Tank,V3 Launcher,1200,900,1875,2500,4.0,8.0,7.6,8.0,10.0,18.0,V3 Launcher,Prism Tank 胜 (7.6s 击杀;对方需要 8.0s),0.7
+sref,zep,Prism Tank,Kirov Airship,1200,2000,0,26250,,0.0,,0.0,0,0.25,,Kirov Airship 胜 (0.0s;对方打不动),0.0
+tany,apoc,Tanya Adams,Apocalypse Tank,2000,1750,4901961,1538,2.0,7.8,4.5,7.8,1.5,6.0,Apocalypse Tank,Tanya Adams 胜 (4.5s 击杀;对方需要 7.8s),457.4
+tany,boris,Tanya Adams,Boris Bukov,2000,2000,31250,21667,0.4,0.6,1.5,0.6,5.0,7.0,Boris Bukov,Boris Bukov 胜 (0.6s 击杀;对方需要 1.5s),1.44
+tany,civan,Tanya Adams,Chrono Ivan,2000,1000,62500,11905,0.0,5.0,0.0,6.9,5.0,1.5,Tanya Adams,Tanya Adams 胜 (0.0s 击杀;对方需要 6.9s),1.57
+tany,deso,Tanya Adams,Desolator,2000,600,31250,3125,0.4,4.0,0.9,4.0,5.0,6.0,,Tanya Adams 胜 (0.9s 击杀;对方需要 4.0s),0.9
+tany,deva,Tanya Adams,Devastator,2000,2200,4901961,3571,2.0,2.8,4.5,2.8,1.5,6.0,Devastator,Devastator 胜 (2.8s 击杀;对方需要 4.5s),249.12
+tany,dog,Tanya Adams,Attack Dog,2000,200,62500,62500,0.0,0.0,0.0,1.3,5.0,1.25,,Tanya Adams 胜 (0.0s 击杀;对方需要 1.3s),0.01
+tany,dred,Tanya Adams,Dreadnought,2000,2500,4901961,6250,2.0,0.0,14.8,0.0,1.5,25.0,Dreadnought,Dreadnought 胜 (0.0s 击杀;对方需要 14.8s),229.78
+tany,dron,Tanya Adams,Terror Drone,2000,500,15625,62500,0.4,0.0,0.4,0.5,5.0,3.0,,Tanya Adams 胜 (0.4s 击杀;对方需要 0.5s),0.02
+tany,dtruck,Tanya Adams,Demolition Truck,2000,1500,4901961,0,2.0,0.0,2.3,0.0,1.5,2.0,Demolition Truck,Demolition Truck 胜 (0.0s 击杀;对方需要 2.3s),inf
+tany,e2,Tanya Adams,Conscript,2000,100,62500,1350,0.0,11.0,0.0,11.7,5.0,4.0,Tanya Adams,Tanya Adams 胜 (0.0s 击杀;对方需要 11.7s),0.14
+tany,engineer,Tanya Adams,Engineer,2000,500,62500,0,0.0,,0.0,,5.0,0,,Tanya Adams 胜 (0.0s;对方打不动),inf
+tany,flakt,Tanya Adams,Flak Trooper,2000,300,62500,3000,0.0,4.0,0.0,4.7,5.0,4.0,Tanya Adams,Tanya Adams 胜 (0.0s 击杀;对方需要 4.7s),0.56
+tany,ftnk,Tanya Adams,Flame Tank,2000,900,4901961,9375,2.0,0.0,3.9,0.0,1.5,5.0,Flame Tank,Flame Tank 胜 (0.0s 击杀;对方需要 3.9s),39.71
+tany,harv,Tanya Adams,War Miner,2000,1400,4901961,3375,2.0,4.0,4.5,4.0,1.5,6.0,War Miner,War Miner 胜 (4.0s 击杀;对方需要 4.5s),106.75
+tany,havoc,Tanya Adams,Havoc Attack Helicopter,2000,1500,0,1000,,12.6,,12.6,0,6.0,,Havoc Attack Helicopter 胜 (12.6s;对方打不动),0.0
+tany,htk,Tanya Adams,Flak Track,2000,500,4901961,3750,2.0,3.0,3.9,3.0,1.5,5.0,Flak Track,Flak Track 胜 (3.0s 击杀;对方需要 3.9s),40.85
+tany,htnk,Tanya Adams,Rhino Heavy Tank,2000,900,4901961,692,2.0,20.8,4.5,20.8,1.5,6.0,Rhino Heavy Tank,Tanya Adams 胜 (4.5s 击杀;对方需要 20.8s),537.68
+tany,hyd,Tanya Adams,Sea Scorpion,2000,600,4901961,3750,2.0,3.0,3.9,3.0,1.5,5.0,Sea Scorpion,Sea Scorpion 胜 (3.0s 击杀;对方需要 3.9s),88.24
+tany,itrp,Tanya Adams,Iron Trooper,2000,1200,31250,8333,0.4,0.0,0.4,0.0,5.0,5.0,,Iron Trooper 胜 (0.0s 击杀;对方需要 0.4s),1.35
+tany,ivan,Tanya Adams,Crazy Ivan,2000,600,62500,11905,0.0,5.0,0.0,6.9,5.0,1.5,Tanya Adams,Tanya Adams 胜 (0.0s 击杀;对方需要 6.9s),0.57
+tany,kite,Tanya Adams,Black Kite,2000,1500,0,7500,,0.0,,0.0,0,0.5,,Black Kite 胜 (0.0s;对方打不动),0.0
+tany,naflak,Tanya Adams,Flak Cannon,2000,700,0,0,,,,,0,0,,双方都无法击杀对方,
+tany,nalasr,Tanya Adams,Sentry Gun,2000,500,0,5107,,2.8,,2.8,0,6.0,,Sentry Gun 胜 (2.8s;对方打不动),0.0
+tany,napost,Tanya Adams,Tesla Fence Post,2000,200,0,1562,,6.4,,6.4,0,3.0,,Tesla Fence Post 胜 (6.4s;对方打不动),0.0
+tany,schp,Tanya Adams,Siege Chopper,2000,1400,0,4500,,2.4,,2.4,0,6.0,,Siege Chopper 胜 (2.4s;对方打不动),0.0
+tany,shk,Tanya Adams,Tesla Trooper,2000,300,31250,2083,0.4,4.8,0.4,5.5,5.0,4.0,Tanya Adams,Tanya Adams 胜 (0.4s 击杀;对方需要 5.5s),0.39
+tany,sqd,Tanya Adams,Giant Squid,2000,1000,15625,0,2.4,,2.4,,5.0,0,,Tanya Adams 胜 (2.4s;对方打不动),inf
+tany,sray,Tanya Adams,Stingray,2000,900,4901961,46667,2.0,0.0,3.9,0.0,1.5,5.0,Stingray,Stingray 胜 (0.0s 击杀;对方需要 3.9s),10.64
+tany,sub,Tanya Adams,Typhoon Attack Submarine,2000,1600,4901961,0,2.0,,2.0,,1.5,0,,Tanya Adams 胜 (2.0s;对方打不动),inf
+tany,terror,Tanya Adams,Terrorist,2000,200,31250,0,0.0,0.0,0.0,1.4,5.0,2.0,,Tanya Adams 胜 (0.0s 击杀;对方需要 1.4s),inf
+tany,tesla,Tanya Adams,Tesla Coil,2000,1500,0,65407,,0.0,,0.0,0,8.0,,Tesla Coil 胜 (0.0s;对方打不动),0.0
+tany,ttnk,Tanya Adams,Tesla Tank,2000,1200,4901961,41176,2.0,0.0,3.9,0.0,1.5,5.0,Tesla Tank,Tesla Tank 胜 (0.0s 击杀;对方需要 3.9s),21.43
+tany,v3,Tanya Adams,V3 Launcher,2000,900,4901961,2500,2.0,0.0,11.0,0.0,1.5,18.0,V3 Launcher,V3 Launcher 胜 (0.0s 击杀;对方需要 11.0s),397.06
+tany,zep,Tanya Adams,Kirov Airship,2000,2000,0,37500,,0.0,,0.0,0,0.25,,Kirov Airship 胜 (0.0s;对方打不动),0.0
+tnkd,apoc,Tank Destroyer,Apocalypse Tank,900,1750,4018,5769,19.6,5.2,19.6,5.2,6.0,6.0,,Apocalypse Tank 胜 (5.2s 击杀;对方需要 19.6s),1.32
+tnkd,boris,Tank Destroyer,Boris Bukov,900,2000,536,5417,25.2,7.2,25.7,7.2,6.0,7.0,,Boris Bukov 胜 (7.2s 击杀;对方需要 25.7s),1.3
+tnkd,civan,Tank Destroyer,Chrono Ivan,900,1000,536,11905,22.4,5.0,22.4,7.5,6.0,1.5,Tank Destroyer,Chrono Ivan 胜 (7.5s 击杀;对方需要 22.4s),0.18
+tnkd,deso,Tank Destroyer,Desolator,900,600,268,469,53.2,84.0,53.2,84.0,6.0,6.0,,Tank Destroyer 胜 (53.2s 击杀;对方需要 84.0s),0.68
+tnkd,deva,Tank Destroyer,Devastator,900,2200,4018,5357,22.4,5.8,22.4,5.8,6.0,6.0,,Devastator 胜 (5.8s 击杀;对方需要 22.4s),1.79
+tnkd,dog,Tank Destroyer,Attack Dog,900,200,536,0,16.8,,16.8,,6.0,0,,Tank Destroyer 胜 (16.8s;对方打不动),inf
+tnkd,dred,Tank Destroyer,Dreadnought,900,2500,4018,4375,19.6,6.4,28.2,6.4,6.0,25.0,Dreadnought,Dreadnought 胜 (6.4s 击杀;对方需要 28.2s),3.54
+tnkd,dron,Tank Destroyer,Terror Drone,900,500,3214,2174,2.8,16.6,2.8,17.3,6.0,3.0,,Tank Destroyer 胜 (2.8s 击杀;对方需要 17.3s),1.83
+tnkd,dtruck,Tank Destroyer,Demolition Truck,900,1500,5357,0,0.0,0.0,0.0,1.8,6.0,2.0,Tank Destroyer,Tank Destroyer 胜 (0.0s 击杀;对方需要 1.8s),inf
+tnkd,e2,Tank Destroyer,Conscript,900,100,536,375,22.4,106.0,22.4,107.4,6.0,4.0,Tank Destroyer,Tank Destroyer 胜 (22.4s 击杀;对方需要 107.4s),0.06
+tnkd,engineer,Tank Destroyer,Engineer,900,500,536,0,16.8,,16.8,,6.0,0,,Tank Destroyer 胜 (16.8s;对方打不动),inf
+tnkd,flakt,Tank Destroyer,Flak Trooper,900,300,536,200,22.4,199.0,22.4,200.4,6.0,4.0,Tank Destroyer,Tank Destroyer 胜 (22.4s 击杀;对方需要 200.4s),0.95
+tnkd,ftnk,Tank Destroyer,Flame Tank,900,900,4018,938,8.4,41.6,8.4,42.0,6.0,5.0,,Tank Destroyer 胜 (8.4s 击杀;对方需要 42.0s),4.29
+tnkd,harv,Tank Destroyer,War Miner,900,1400,5357,750,16.8,52.8,16.8,52.8,6.0,6.0,,Tank Destroyer 胜 (16.8s 击杀;对方需要 52.8s),6.91
+tnkd,havoc,Tank Destroyer,Havoc Attack Helicopter,900,1500,0,5000,,6.4,,6.4,0,6.0,,Havoc Attack Helicopter 胜 (6.4s;对方打不动),0.0
+tnkd,htk,Tank Destroyer,Flak Track,900,500,5357,250,2.8,159.0,2.8,159.3,6.0,5.0,,Tank Destroyer 胜 (2.8s 击杀;对方需要 159.3s),8.82
+tnkd,htnk,Tank Destroyer,Rhino Heavy Tank,900,900,4018,2596,8.4,13.0,8.4,13.0,6.0,6.0,,Tank Destroyer 胜 (8.4s 击杀;对方需要 13.0s),1.55
+tnkd,hyd,Tank Destroyer,Sea Scorpion,900,600,4018,250,2.8,159.0,2.8,159.3,6.0,5.0,,Tank Destroyer 胜 (2.8s 击杀;对方需要 159.3s),14.29
+tnkd,itrp,Tank Destroyer,Iron Trooper,900,1200,268,0,53.2,,53.2,,6.0,0,,Tank Destroyer 胜 (53.2s;对方打不动),inf
+tnkd,ivan,Tank Destroyer,Crazy Ivan,900,600,536,11905,22.4,5.0,22.4,7.5,6.0,1.5,Tank Destroyer,Crazy Ivan 胜 (7.5s 击杀;对方需要 22.4s),0.06
+tnkd,kite,Tank Destroyer,Black Kite,900,1500,0,1125,,34.0,,34.0,0,0.5,,Black Kite 胜 (34.0s;对方打不动),0.0
+tnkd,naflak,Tank Destroyer,Flak Cannon,900,700,3482,0,16.8,,16.8,,6.0,0,,Tank Destroyer 胜 (16.8s;对方打不动),inf
+tnkd,nalasr,Tank Destroyer,Sentry Gun,900,500,3482,1161,11.2,33.6,11.2,33.6,6.0,6.0,,Tank Destroyer 胜 (11.2s 击杀;对方需要 33.6s),0.93
+tnkd,napost,Tank Destroyer,Tesla Fence Post,900,200,2679,1562,16.8,22.4,16.8,,6.0,3.0,Tank Destroyer,Tank Destroyer 胜 (16.8s;对方打不动),0.07
+tnkd,schp,Tank Destroyer,Siege Chopper,900,1400,0,500,,79.2,,79.2,0,6.0,,Siege Chopper 胜 (79.2s;对方打不动),0.0
+tnkd,shk,Tank Destroyer,Tesla Trooper,900,300,268,1562,47.6,24.0,47.6,25.4,6.0,4.0,Tank Destroyer,Tesla Trooper 胜 (25.4s 击杀;对方需要 47.6s),0.06
+tnkd,sqd,Tank Destroyer,Giant Squid,900,1000,5357,0,5.6,,5.6,,6.0,0,,Tank Destroyer 胜 (5.6s;对方打不动),inf
+tnkd,sray,Tank Destroyer,Stingray,900,900,5357,3500,2.8,9.0,2.8,9.5,6.0,5.0,Tank Destroyer,Tank Destroyer 胜 (2.8s 击杀;对方需要 9.5s),2.04
+tnkd,sub,Tank Destroyer,Typhoon Attack Submarine,900,1600,4018,0,19.6,,19.6,,6.0,0,,Tank Destroyer 胜 (19.6s;对方打不动),inf
+tnkd,terror,Tank Destroyer,Terrorist,900,200,536,0,11.2,,11.2,,6.0,2.0,Tank Destroyer,Tank Destroyer 胜 (11.2s;对方打不动),inf
+tnkd,tesla,Tank Destroyer,Tesla Coil,900,1500,3482,6541,16.8,3.7,17.7,3.7,6.0,8.0,,Tesla Coil 胜 (3.7s 击杀;对方需要 17.7s),0.99
+tnkd,ttnk,Tank Destroyer,Tesla Tank,900,1200,4018,3088,5.6,10.6,5.6,11.0,6.0,5.0,,Tank Destroyer 胜 (5.6s 击杀;对方需要 11.0s),3.08
+tnkd,v3,Tank Destroyer,V3 Launcher,900,900,5357,1750,0.0,16.0,5.5,16.0,6.0,18.0,V3 Launcher,Tank Destroyer 胜 (5.5s 击杀;对方需要 16.0s),8.16
+tnkd,zep,Tank Destroyer,Kirov Airship,900,2000,0,13125,,2.0,,2.0,0,0.25,,Kirov Airship 胜 (2.0s;对方打不动),0.0
