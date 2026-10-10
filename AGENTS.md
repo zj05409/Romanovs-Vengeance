@@ -2,6 +2,8 @@
 
 这个仓库是 OpenRA mod《Romanov's Vengeance》(RV)的源码。除 mod 本身外,`research/` 下保存着
 **用户对 RV 战术的长期研究成果**。新会话请先读本文件,在已有成果上继续,不要从头讨论。
+用户的原始研究见 `research/notes/original-research-baseline.md`,它的勘误见 `corrections-to-baseline.md`。
+讨论用户的实战反馈时,以基线为出发点,并结合勘误表和本文件的结论。
 
 ## 用户与研究目标
 
@@ -9,6 +11,18 @@
 - 打法:**盟军美国(USA)1v1 对抗苏联 Vengeful AI(最高难度)**;常用地图 Billy Middlewins、Alpine Assault。
 - 目标:建立经济可持续、操作不复杂、能对抗苏军坦克步兵海、能防 Kirov、能破 Tesla 防线的美国后期体系。
 - 用户偏好低微操、重视成本效率;不要为附和而扩大推荐兵力规模。
+
+## 每次研究后必须做的事(用户要求,自动执行,无需再询问)
+
+只要本次会话产生了以下任何一项,就在**回复用户之前**更新文档并提交推送:新结论、对旧结论的更正、新的计算结果、
+用户的实战反馈、新增或修改的工具与数据。
+
+1. 用户的实战反馈:追加到 `research/notes/practice-log.md`(最新的放最上面)。
+2. 新结论或更正:更新本文件的"已确认的关键结论"和"尚未解决的问题";
+   如果涉及基线研究的内容,同时更新 `research/notes/corrections-to-baseline.md`。
+3. 改了数据库或工具:运行 `research/rv-unit-db/build.sh`,确认 `validate.py` 为 0 failures,并同步 README。
+4. 提交并推送到当前工作分支,提交信息写明本次研究内容。
+5. **不要修改** `research/notes/original-research-baseline.md`,它是用户提供的原始基线。
 
 ## 研究守则
 
@@ -26,7 +40,10 @@
 | `research/rv-unit-db/docs/units.md` | 全单位总表(价格、HP、装甲、速度、可用国家、前置、新兵/精英/部署后武器) |
 | `research/rv-unit-db/docs/armor_table.md` | 每种武器对每种装甲的伤害倍率 |
 | `research/rv-unit-db/docs/vengeful_ai.md` | Vengeful AI 造兵权重、上限、防御、作弊收入 |
-| `research/notes/usa-vs-vengeful-soviet.md` | 美国对 Vengeful 苏联的战术研究记录(第一轮源码核对 + 建库后的更正) |
+| `research/notes/original-research-baseline.md` | **用户提供的原始研究成果(基线,原样保存,不修改)**。用户的后续实践和反馈都建立在它之上 |
+| `research/notes/corrections-to-baseline.md` | 基线逐节勘误表:哪些被源码证实、哪些需要更正、哪些待实战验证 |
+| `research/notes/practice-log.md` | 用户实战反馈日志 |
+| `research/notes/usa-vs-vengeful-soviet.md` | 第一轮源码核对的研究记录(开头附有建库后的更正) |
 
 ## 常用命令(在 `research/rv-unit-db/` 下运行)
 
