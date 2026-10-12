@@ -50,6 +50,8 @@
 | `research/rv-unit-db/docs/armor_table.md` | 每种武器对每种装甲的伤害倍率 |
 | `research/rv-unit-db/docs/vengeful_ai.md` | Vengeful AI 造兵权重、上限、防御、作弊收入 |
 | `research/guides/usa-vs-russia.md` | **《美国 vs 俄罗斯(Vengeful)完整攻略》,持续迭代的主文档** |
+| `research/maps/` | 地图分析(矿区储量与距离、油井、科技建筑):`alpine-assault.md`、`billy-middlewins.md` |
+| `research/tools/oramap_analyze.py` | `.oramap` 地图解析工具:`python3 research/tools/oramap_analyze.py mods/rv/maps/<地图>.oramap` |
 | `research/notes/original-research-baseline.md` | **用户提供的原始研究成果(基线,原样保存,不修改)**。用户的后续实践和反馈都建立在它之上 |
 | `research/notes/corrections-to-baseline.md` | 基线逐节勘误表:哪些被源码证实、哪些需要更正、哪些待实战验证 |
 | `research/notes/practice-log.md` | 用户实战反馈日志 |
@@ -105,6 +107,10 @@ python3 validate.py                                          # 数值自检(应�
 - **核电站(Nuclear Reactor)被摧毁 = 引爆核弹弹头**:爆心 100,000,每格减 10%,10 格处为 0,对 Light 200%,留 10 格辐射区,敌我都伤。
   只有射程 10 以上的 Prism 和 Howitzer 能安全拆它。单位只有在"攻击一切"姿态或 Ctrl 强攻移动下才会自动打普通建筑,
   靠近苏军基地时野战部队要用防御姿态。反过来,可以从 10 格外引爆它,炸毁旁边的 Tesla Coil 和 Rhino,并让它低电。
+- **中立科技建筑**:Tech Machine Shop 让所有车辆每 2 秒回 3% 血;Tech Missile Silo 提供集束导弹(充能 5 分钟);
+  Castle Lab 让盟军可造 Chrono Dragon。Vengeful 的工程师会优先占领油井、Machine Shop、Castle Lab 和 Missile Silo。
+- **地图**:Billy Middlewins 家矿只有 $10,200(不到 2 分钟采空),中央是 Missile Silo;Alpine Assault 家矿约 $32,400,中央是 Machine Shop。
+  地图上的 Flag、Psychic Beacon、Mega Wealth 油井生成点只在特殊模式下存在。
 
 ## 尚未解决、可继续研究的问题
 
