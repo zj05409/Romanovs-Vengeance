@@ -43,6 +43,8 @@
   - Sniper 的 HP:发布版 7,500,master 12,500;
   - 若干视野范围,以及"手动关电"相关的建筑规则(Tesla Coil 低电停火的规则两版相同)。
 - 用户实际玩的很可能是发布版。涉及矿车速度、MCV 外扩时间时要注意这个差别。
+- Mac mini 运行方法(官方 dmg、源码直接运行、素材文件)见 `research/notes/mac-setup.md`。
+  要点:Makefile 在 Mac 上默认编 osx-x64,Apple Silicon 要用 `make TARGETPLATFORM=osx-arm64`;`launch-game.sh` 要求装 Mono。
 
 ## 研究守则
 
