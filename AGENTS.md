@@ -33,6 +33,17 @@
 5. 提交并推送到 `claude/rv-unit-db`,提交信息写明本次研究内容。
 6. **不要修改** `research/notes/original-research-baseline.md`,它是用户提供的原始基线。
 
+## 游戏版本与维护状态(2026-10-13 核查)
+
+- 上游 `MustaphaTR/Romanovs-Vengeance` 只有一位维护者。最后一次代码提交是 2025-07-26,
+  最新发布版是 **playtest-20241215**(提供 Windows、Linux AppImage 和 **macOS .dmg**)。仓库没有归档,也没有停止维护的声明。
+- 数据库是按 master(提交 `2310599`)提取的。与发布版 playtest-20241215(约对应提交 `8250db5`,本地没有 tag)相比,
+  单位价格、HP、装甲、武器伤害、射程、装填,以及 AI 配置、大厅默认设置、升级、指挥官技能**全部相同**。差别只有三处:
+  - Chrono Miner、War Miner、MCV 的速度:发布版 105,master 75;
+  - Sniper 的 HP:发布版 7,500,master 12,500;
+  - 若干视野范围,以及"手动关电"相关的建筑规则(Tesla Coil 低电停火的规则两版相同)。
+- 用户实际玩的很可能是发布版。涉及矿车速度、MCV 外扩时间时要注意这个差别。
+
 ## 研究守则
 
 1. **一切数值以本仓库源码为准**(`mods/rv/rules/*.yaml`、`mods/rv/weapons/*.yaml`、`OpenRA.Mods.RA2/`),
